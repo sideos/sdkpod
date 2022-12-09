@@ -1,0 +1,32 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target arm64-apple-ios15.5 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SideosSDK
+import Foundation
+@_exported import SideosSDK
+import Swift
+import _Concurrency
+@_cdecl("getKeys")
+public func getKeys(result: Swift.UnsafePointer<Swift.CChar>?) -> Swift.UnsafeMutablePointer<Swift.Int8>
+@_cdecl("saveKeys")
+public func saveKeys(keys: Swift.UnsafeMutablePointer<Swift.Int8>?)
+public class SideosSdk {
+  public init()
+  public func getFilePath() -> Swift.String
+  public func getLocalDID() -> Swift.String
+  public func createLocalDID(version: Swift.String) -> Swift.String
+  public func getVerifiableCredentials() -> Swift.String
+  public func deleteVerifiableCredential(id: Swift.String) -> Swift.String
+  public func verifyVC(vc: Swift.String, signature: Swift.String) -> Swift.String
+  public func parseVC(vc: Swift.String) -> Swift.String
+  public func signVC(vc: Swift.String) -> Swift.String
+  public func parseJWT(jwt: Swift.String) -> Swift.String
+  public func saveVerifiableCredential(vc: Swift.String, type: Swift.String) -> Swift.String
+  public func signAcceptanceJWT(vc: Swift.String, destinationDid: Swift.String) -> Swift.String
+  public func signSharedJWT(vc: Swift.String, destinationDid: Swift.String) -> Swift.String
+  public func respondToServer(url: Swift.String, payload: Swift.String) -> Swift.String
+  public func cryptDataExt(key: Swift.String, data: Swift.String) -> Swift.String
+  public func decryptDataExt(key: Swift.String, data: Swift.String) -> Swift.String
+  public func deriveSharedKey(key: Swift.String, pkey: Swift.String) -> Swift.String
+  public func createSharedKeyPair() -> Swift.String
+  @objc deinit
+}

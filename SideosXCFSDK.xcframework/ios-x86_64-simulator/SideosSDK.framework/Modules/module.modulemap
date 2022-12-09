@@ -1,0 +1,11 @@
+framework module SideosSDK {
+  umbrella header "SideosSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SideosSDK.Swift {
+    header "SideosSDK-Swift.h"
+    requires objc
+}

@@ -1,0 +1,24 @@
+PODS:
+  - iDenfySDK/iDenfyLiveness (7.7.1):
+    - lottie-ios
+    - ZIPFoundation (= 0.9.11)
+  - lottie-ios (3.5.0)
+  - ZIPFoundation (0.9.11)
+
+DEPENDENCIES:
+  - iDenfySDK/iDenfyLiveness (~> 7.7.1)
+
+SPEC REPOS:
+  trunk:
+    - iDenfySDK
+    - lottie-ios
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  iDenfySDK: ce35b5483ab78550ca74a07e9d05cacdf46a2fed
+  lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
+
+PODFILE CHECKSUM: c868cf280d3c230437ac3620bafcedfe2bd30203
+
+COCOAPODS: 1.11.3

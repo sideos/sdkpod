@@ -1,0 +1,16 @@
+PODS:
+  - SideosSDK (0.1.0)
+
+DEPENDENCIES:
+  - SideosSDK (from `../`)
+
+EXTERNAL SOURCES:
+  SideosSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SideosSDK: 8a0bd6d19904d6010a156c3a80aaa2d30de2fd5c
+
+PODFILE CHECKSUM: f1cc234f46eb0616b70bc31ead249b4af35726f9
+
+COCOAPODS: 1.11.3

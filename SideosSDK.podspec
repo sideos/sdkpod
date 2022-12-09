@@ -20,18 +20,17 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-
   s.homepage         = 'https://github.com/Your Name/SideosSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Your Name' => 'you@example.com' }
-  s.source           = { :git => 'https://github.com/Your Name/SideosSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => '' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
-
+  s.ios.vendored_frameworks = 'SideosXCFSDK.xcframework' # Your XCFramework
   s.source_files = 'SideosSDK/Classes/**/*'
-  
+  s.dependency 'iDenfySDK/iDenfyLiveness', '~> 7.7.1'
   # s.resource_bundles = {
   #   'SideosSDK' => ['SideosSDK/Assets/*.png']
   # }

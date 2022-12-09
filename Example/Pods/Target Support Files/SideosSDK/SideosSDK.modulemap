@@ -1,0 +1,6 @@
+framework module SideosSDK {
+  umbrella header "SideosSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

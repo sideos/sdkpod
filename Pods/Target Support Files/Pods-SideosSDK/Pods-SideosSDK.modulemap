@@ -1,0 +1,6 @@
+framework module Pods_SideosSDK {
+  umbrella header "Pods-SideosSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1BFFFF7F7CE46884E50DC117 /* SideosSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SideosSDK.podspec; path = ../SideosSDK.podspec; sourceTree = "<group>"; };
+		1BFFFF7F7CE46884E50DC117 /* SideosSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SideosSDK.podspec; path = ../SideosSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACE51AFB9204008FA782 /* SideosSDK_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SideosSDK_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
@@ -49,7 +49,6 @@
 				B14F770B6C6BD1BFCB00A822 /* Pods-SideosSDK_Tests.debug.xcconfig */,
 				789AE75A9FA9A713A538433B /* Pods-SideosSDK_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -177,10 +176,28 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-SideosSDK_Tests/Pods-SideosSDK_Tests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/SideosSDK/SideosSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework",
+				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyNFCReading.framework/idenfyNFCReading",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/FaceTecSDK.framework/FaceTecSDK",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/iDenfySDK.framework/iDenfySDK",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/IdenfyLiveness.framework/IdenfyLiveness",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfycore.framework/idenfycore",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyviews.framework/idenfyviews",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/OpenSSL.framework/OpenSSL",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SideosSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZIPFoundation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lottie.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/idenfyNFCReading.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FaceTecSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/iDenfySDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IdenfyLiveness.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/idenfycore.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/idenfyviews.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -251,6 +268,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -304,6 +322,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;

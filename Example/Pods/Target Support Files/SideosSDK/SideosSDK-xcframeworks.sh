@@ -20,6 +20,9 @@ variant_for_slice()
   "SideosXCFSDK.xcframework/ios-arm64")
     echo ""
     ;;
+  "SideosXCFSDK.xcframework/ios-x86_64-simulator")
+    echo "simulator"
+    ;;
   esac
 }
 
@@ -28,6 +31,9 @@ archs_for_slice()
   case "$1" in
   "SideosXCFSDK.xcframework/ios-arm64")
     echo "arm64"
+    ;;
+  "SideosXCFSDK.xcframework/ios-x86_64-simulator")
+    echo "x86_64"
     ;;
   esac
 }
@@ -111,5 +117,5 @@ install_xcframework() {
   echo "Copied $source to $destination"
 }
 
-install_xcframework "${PODS_ROOT}/../../SideosXCFSDK.xcframework" "SideosSDK" "library" "ios-arm64"
+install_xcframework "${PODS_ROOT}/../../SideosXCFSDK.xcframework" "SideosSDK" "library" "ios-arm64" "ios-x86_64-simulator"
 

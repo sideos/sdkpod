@@ -1,0 +1,719 @@
+/**V2**/
+/*Idenfy Splash Screen V2*/
+"idenfy_splash_screen_title_v2" = "Quick and reliable identity verification";
+
+/*Idenfy Privacy Policy View V2*/
+"idenfy_privacy_policy_title_v2" = "Adatvédelmi Szabályzat";
+"idenfy_privacy_policy_agree_button_title_v2" = "ELFOGADOM";
+"idenfy_privacy_policy_disagree_button_title_v2" = "NEM FOGADOM EL";
+"idenfy_privacy_policy_alert_title_v2" = "INFORMÁCIÓ";
+"idenfy_privacy_policy_alert_description_v2" = "A folyamat folytatásához a szabályzat elfogadása kötelező. Ha nem értesz egyet, szakítsd meg az ellenőrzési folyamatot, vagy zárd be az ablakot.";
+"idenfy_privacy_policy_alert_agree_button_title_v2" = "EGYETÉRTEK";
+"idenfy_privacy_policy_alert_cancel_button_title_v2" = "FOLYAMAT MEGSZAKÍTÁSA";
+
+/*Idenfy Questionnaire View V2*/
+"idenfy_questionnaire_continue_button_title_v2" = "TOVÁBB";
+"idenfy_questionnaire_email_error_message_v2" = "Adj meg egy érvényes e-mail címet!";
+"idenfy_questionnaire_url_error_message_v2" = "Adj meg egy érvényes weboldal címet!";
+"idenfy_questionnaire_tel_error_message_v2" = "Adj meg egy érvényes telefonszámot!";
+
+/*Idenfy Provider Selection View V2*/
+"idenfy_provider_selection_common_information_title_v2" = "Válaszd ki a szolgáltatót!";
+"idenfy_provider_selection_common_information_description_v2" = "Válaszd ki a közüzemi számla szolgáltatóját az alábbi listából!";
+"idenfy_provider_selection_search_bar_hint_title_v2" = "Szolgáltató keresése…";
+
+/*Idenfy Provider Login View V2*/
+"idenfy_provider_login_view_common_information_title_v2" = "Csatlakoztasd fiókodat";
+"idenfy_provider_login_view_common_information_description_v2" = "Add meg az online közüzemi számládhoz szükséges bejelentkezési adataid!";
+"idenfy_provider_login_view_username_hint_title_v2" = "Felhasználónév";
+"idenfy_provider_login_view_password_hint_title_v2" = "Jelszó";
+"idenfy_provider_login_view_continue_button_title_v2" = "TOVÁBB";
+"idenfy_provider_login_view_login_retry_title_v2" = "Érvénytelen belépési adatok";
+"idenfy_provider_login_view_login_retry_description_v2" = "Add meg az érvényes belépési adatokat, és próbáld meg újra! ";
+"idenfy_provider_login_view_login_failed_title_v2" = "Sikertelen bejelentkezés";
+"idenfy_provider_login_view_login_failed_description_v2" = "A bejelentkezés sikertelen";
+
+/*Idenfy MFA Method Selection View V2*/
+"idenfy_mfa_method_selection_view_title_v2" = "Fiók azonosítása";
+"idenfy_mfa_method_selection_view_description_v2" = "Válaszd ki a kívánt autentikációs módszert az alábbi lehetőségek közül!";
+"idenfy_mfa_method_selection_view_mfa_hint_title_v2" = "Autentikációs mód";
+"idenfy_mfa_method_selection_view_mfa_method_code_title_v2" = "Egyszeri jelszó";
+"idenfy_mfa_method_selection_view_mfa_method_security_question_title_v2" = "Ellenőrző kérdés és válasz";
+"idenfy_mfa_method_selection_view_continue_button_title_v2" = "TOVÁBB";
+
+/*Idenfy MFA Captcha Method View V2*/
+"idenfy_mfa_captcha_method_title_v2" = "Azonosítsd magad!";
+"idenfy_mfa_captcha_method_description_v2" = "Írd be az alábbi képen látható ellenőrző kódot!";
+"idenfy_mfa_captcha_method_code_hint_v2" = "Ellenőrző kód";
+"idenfy_mfa_captcha_method_continue_button_title_v2" = "TOVÁBB";
+
+/*Idenfy MFA General View V2*/
+"idenfy_mfa_code_method_title_v2" = "Azonosítsd magad!";
+"idenfy_mfa_code_method_description_v2" = "Add meg a készülékedre érkező vagy e-mailben kapott kódodat!";
+"idenfy_mfa_code_method_code_hint_v2" = "Ellenőrző kód";
+"idenfy_mfa_question_method_title_v2" = "Válaszolj az alábbi kérdésre!";
+"idenfy_mfa_question_method_answer_hint_v2" = "Válasz";
+"idenfy_mfa_notification_method_title_v2" = "Ellenőrizd a hozzáférést a szolgáltató alkalmazásán keresztül!";
+"idenfy_mfa_notification_method_description_v2" = "Ha kész vagy kattints a folytatás gombra!";
+"idenfy_mfa_pass_code_method_title_v2" = "Azonosítsd magad!";
+"idenfy_mfa_pass_code_method_description_v2" = "Add meg a közüzemi szolgáltatónál beállított jelszavad!";
+"idenfy_mfa_pass_code_method_code_hint_v2" = "Jelkód";
+"idenfy_mfa_general_view_continue_button_title_v2" = "TOVÁBB";
+
+/*Idenfy Start Identification Predefined View V2*/
+"idenfy_start_identification_predefined_view_information_title_v2" = "Személyazonosítás megkezdése";
+"idenfy_start_identification_predefined_view_information_description_v2" = "Dokumentumot kiállító ország";
+"idenfy_start_identification_predefined_view_begin_identification_button_v2" = "Elkezdem";
+
+/*Idenfy Country Selection View V2*/
+"idenfy_country_selection_view_information_title_v2" = "Válaszd ki a kibocsátó országot!";
+"idenfy_country_selection_view_information_description_v2" = "Válaszd ki az országot, ahol az okmányt kiállították!";
+"idenfy_country_selection_view_searchbar_hint_v2" = "Ország kiválasztása…";
+
+/*Idenfy Language Selection View V2*/
+"idenfy_language_selection_view_information_title_v2" = "Nyelv kiválasztása";
+
+/*Idenfy Documents Selection View V2*/
+"idenfy_documents_selection_view_continue_button_title_v2" = "TOVÁBB";
+"idenfy_documents_selection_view_information_title_v2" = "Dokumentum kiválasztása";
+"idenfy_documents_selection_view_information_description_v2" = "Milyen dokumentummal szeretnéd azonosítani magad?";
+"idenfy_documents_selection_view_list_item_document_type_passport_title_v2" = "Útlevél";
+"idenfy_documents_selection_view_list_item_document_type_id_card_title_v2" = "Személyi igazolvány";
+"idenfy_documents_selection_view_list_item_document_type_other_title_v2" = "Egyéb";
+"idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2" = "Vezetői engedély";
+"idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2" = "Tartózkodási engedély";
+"idenfy_documents_selection_view_list_item_document_type_visa_title_v2" = "Vízum";
+"idenfy_documents_selection_view_list_item_document_type_border_crossing_title_v2" = "USA Border Crossing Card";
+"idenfy_documents_selection_view_list_item_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély";
+"idenfy_documents_selection_view_list_item_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél";
+"idenfy_documents_selection_view_list_item_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél";
+"idenfy_documents_selection_view_list_item_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély";
+"idenfy_documents_selection_view_list_item_document_type_voter_card_title_v2" = "Szavazókártya";
+"idenfy_documents_selection_view_list_item_document_type_old_id_card_title_v2" = "Régi személyi igazolvány";
+"idenfy_documents_selection_view_list_item_document_type_travel_card_title_v2" = "Travel Card/ Utazókártya";
+"idenfy_documents_selection_view_list_item_document_type_photo_card_title_v2" = "Igazolvány";
+"idenfy_documents_selection_view_list_item_document_type_military_card_title_v2" = "Katonai (veterán) kártya";
+"idenfy_documents_selection_view_list_item_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány";
+"idenfy_documents_selection_view_list_item_document_type_diplomatic_id_card_title_v2" = "Diplomata ID";
+"idenfy_documents_selection_view_list_item_document_type_pan_card_title_v2" = "PAN kártya";
+"idenfy_documents_selection_view_list_item_document_type_aadhaar_card_title_v2" = "Aadhaar kártya";
+
+/*Idenfy Confirmation View V2*/
+"idenfy_confirmation_view_information_title_v2" = "Dokumentumtípus megerősítése";
+"idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2" = "Készítsd elő **személyi igazolványodat** az azonosításhoz";
+"idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2" = "Készítsd elő **útleveled** az azonosításhoz";
+"idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2" = "Készítsd elő **tartózkodási engedélyed** az azonosításhoz";
+"idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2" = "Készítsd elő **vezetői engedélyed** az azonosításhoz";
+"idenfy_confirmation_view_information_description_type_other_placeholder_v2" = "Készítsd elő a**dokumentumod** az azonosításhoz";
+"idenfy_confirmation_view_information_description_part_1_v2" = "Készítsd elő";
+"idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2" = "Személyi igazolvány";
+"idenfy_confirmation_view_information_document_type_passport_description_part_2_v2" = "Útlevél";
+"idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2" = "Tartozkodási engedély";
+"idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2" = "Vezetői engedély";
+"idenfy_confirmation_view_information_document_type_other_description_part_2_v2" = "Dokumentum";
+"idenfy_confirmation_view_information_document_type_visa_description_part_2_v2" = "Vízum";
+"idenfy_confirmation_view_information_document_type_border_crossing_description_part_2_v2" = "USA border crossing card";
+"idenfy_confirmation_view_information_document_type_asylum_description_part_2_v2" = "Osztrák menedékjogi tartózkodási engedély";
+"idenfy_confirmation_view_information_document_type_national_passport_description_part_2_v2" = "Orosz nemzeti útlevél";
+"idenfy_confirmation_view_information_document_type_international_passport_description_part_2_v2" = "Orosz nemzetközi útlevél";
+"idenfy_confirmation_view_information_document_type_provisional_driver_license_description_part_2_v2" = "Egyesült Királyság ideiglenes vezetői engedély";
+"idenfy_confirmation_view_information_document_type_voter_card_description_part_2_v2" = "Szavazókártya";
+"idenfy_confirmation_view_information_document_old_id_card_description_part_2_v2" = "Régi személyi igazolvány";
+"idenfy_confirmation_view_information_document_travel_card_description_part_2_v2" = "Travel Card / Utazókártya";
+"idenfy_confirmation_view_information_document_photo_card_description_part_2_v2" = "Igazolvány";
+"idenfy_confirmation_view_information_document_military_card_description_part_2_v2" = "Katonai (veterán) kártya";
+"idenfy_confirmation_view_information_proof_of_age_card_description_part_2_v2" = "Személyi igazolvány";
+"idenfy_confirmation_view_information_diplomatic_id_card_description_part_2_v2" = "Diplomata ID";
+"idenfy_confirmation_view_information_pan_card_description_part_2_v2" = "PAN kártya";
+"idenfy_confirmation_view_information_aadhaar_card_description_part_2_v2" = "aadhaar kártya";
+"idenfy_confirmation_view_information_description_part_3_v2" = "Készen áll az azonosításra";
+"idenfy_confirmation_view_document_steps_title_part_placeholder_v2" = "Az azonosítás **5** lépésből áll:";
+"idenfy_confirmation_view_document_steps_title_part_1_v2" = "Az azonosítás";
+"idenfy_confirmation_view_document_steps_title_part_2_v2" = "5";
+"idenfy_confirmation_view_document_steps_title_part_3_v2" = "lépések:";
+"idenfy_confirmation_view_document_steps_step_front_title_v2" = "Okmány első oldala";
+"idenfy_confirmation_view_document_steps_step_back_title_v2" = "Okmány hátsó oldala";
+"idenfy_confirmation_view_document_steps_step_face_title_v2" = "Szelfi";
+"idenfy_confirmation_view_document_steps_step_liveliness_title_v2" = "Liveness check";
+"idenfy_confirmation_view_document_steps_step_passport_cover_title_v2" = "Útlevél";
+"idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2" = "Lakcímigazoló dokumentum";
+"idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2" = "Második lakcímigazoló dokumentum";
+"idenfy_confirmation_view_upload_image_title_v2" = "Képek feltöltése";
+"idenfy_confirmation_view_begin_identification_title_v2" = "TOVÁBB";
+
+/*Idenfy Camera OnBoarding View V2*/
+"idenfy_camera_onboarding_view_continue_button_title_v2" = "TOVÁBB";
+"idenfy_camera_onboarding_view_continue_disabled_button_title_v2" = "TOVÁBB **x** …";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_1" = "Győzödj meg róla, hogy a környezet világos";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_2" = "Kattints a «Készen állok» gombra és kövesd az utasításokat";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_3" = "Menj közelebb vagy távolabb az azonosítás elvégzéséhez";
+
+/*Idenfy Camera Static OnBoarding View V2*/
+"idenfy_camera_static_onboarding_view_face_instructions_title" = "Kövesd az alábbi utasításokat!";
+"idenfy_camera_static_onboarding_view_instructions_title" = "Győződj meg róla, hogy a kiválasztott dokumentum képe:";
+"idenfy_camera_static_onboarding_view_instructions_description_part_1" = "Jól látható és nem elmosódott";
+"idenfy_camera_static_onboarding_view_instructions_description_part_2" = "Jól megvilágított és ne legyen rajta árnyékolás";
+"idenfy_camera_static_onboarding_view_instructions_description_part_3" = "Ne legyen rajta fényvisszaverődés/csillogás";
+"idenfy_camera_static_onboarding_view_instructions_description_part_4" = "Az adatok láthatóak legyenek és illeszkedjen a fehér kerethez";
+"idenfy_camera_static_onboarding_view_instructions_description_part_5" = "Eredeti dokumentum és nem annak másolata";
+
+/*Idenfy Document Camera Preview Session View V2*/
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2" = "Dokumentum első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2" = "Dokumentum hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2" = "Tartózkodási engedély első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2" = "Tartózkodási engedély hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2" = "Vezetői engedély első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2" = "Vezetői engedély hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2" = "Útlevél borítója";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2" = "Passport belső oldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2" = "Lakcímigazolás";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Másik lakcímigazolás";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_visa_title_v2" = "Vízum első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_visa_title_v2" = "Vízum hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_border_crossing_title_v2" = "USA border crossing card első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_border_crossing_title_v2" = "USA border crossing card hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_voter_card_title_v2" = "Szavazókártya első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_voter_card_title_v2" = "Szavazókártya hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_old_id_card_title_v2" = "Régi személyi igazolvány első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_old_id_card_title_v2" = "Régi személyi igazolvány hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_travel_card_title_v2" = "Front of travel card / Utazókártya első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_travel_card_title_v2" = "Back of travel card / Utazókártya hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_photo_card_title_v2" = "Igazolvány első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_photo_card_title_v2" = "Igazolvány hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_military_card_title_v2" = "Katonai (veterán) kártya első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_military_card_title_v2" = "Katonai (veterán) kártya hátsó oldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Diplomata ID első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Diplomata ID hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_pan_card_title_v2" = "PAN kártya első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_pan_card_title_v2" = "PAN kártya hátoldala";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_aadhaar_card_title_v2" = "addhaar kártya első oldala";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_aadhaar_card_title_v2" = "Aadhaar kártya hátoldala";
+"idenfy_document_camera_preview_session_view_information_description_v2" = "Helyezd a dokumentumot a keretbe és készíts egy tiszta fényképet!";
+"idenfy_document_camera_preview_session_view_information_auto_capture_description_v2" = "Helyezd a dokumentumot a keretbe és várj a beolvasásra!";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default" = "Fájltípus választása";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default" = "Milyen fájltípust szeretnél feltölteni?";
+"idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default" = "Kép";
+"idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default" = "PDF";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title" = "Hogyan azonosíthatom magam?";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title" = "UTASÍTÁSOK KIHAGYÁSA";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_face_description" = "Győződj meg róla, hogy a szelfi jól látható és beleillik a fehér keretbe!";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_1" = "Győződj meg róla, hogy a megvilágítás előtted és nem mögötted van!";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_2" = "Győződj meg róla, hogy a kiválasztott dokumentum képe: Jól látható és NEM homályos";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_3" = "Győződj meg róla, hogy a kiválasztott dokumentum képe: Jól megvilágított és nem takarja árnyékolás";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_4" = "Győződj meg róla, hogy a kiválasztott dokumentum képe: Nem takarja el a fényvisszaverődés/csillogás.";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_5" = "Győződj meg róla, hogy a kiválasztott dokumentum képe: Az adatok láthatóak és illeszkedik a fehér keretbe.";
+
+/*Idenfy Document Camera Results View V2*/
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2" = "Dokumentum első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2" = "Dokumentum hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2" = "Tartózkodási engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2" = "Tartózkodási engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2" = "Vezetői engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2" = "Vezetői engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2" = "Útlevél borítója";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2" = "Passport belső oldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Lakcímigazolás";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Másik lakcímigazolás";
+"idenfy_document_camera_results_view_information_step_front_document_type_visa_title_v2" = "Vízum első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_visa_title_v2" = "Vízum hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_border_crossing_title_v2" = "USA border crossing card első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_border_crossing_title_v2" = "USA border crossing card hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_voter_card_title_v2" = "Szavazókártya első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_voter_card_title_v2" = "Szavazókártya hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_old_id_card_title_v2" = "Régi személyi igazolvány első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_old_id_card_title_v2" = "Régi személyi igazolvány hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_travel_card_title_v2" = "Front of travel card / Utazókártya első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_travel_card_title_v2" = "Back of travel card / Utazókártya hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_photo_card_title_v2" = "Igazolvány első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_photo_card_title_v2" = "Igazolvány hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_military_card_title_v2" = "Katonai (veterán) kártya első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_military_card_title_v2" = "Katonai (veterán) kártya hátsó oldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Diplomata ID első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Diplomata ID hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_pan_card_title_v2" = "PAN kártya első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_pan_card_title_v2" = "PAN kártya hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Aadhaar kártya első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Aadhaar kártya hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2" = "Tisztán látható a **személyi igazolvány első oldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2" = "Tisztán látható a **személyi igazolvány hátoldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2" = "Tisztán látható a **dokumentum első oldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2" = "Tisztán látható a **dokumentum hátoldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2" = "Tisztán látható a **tartózkodási engedély első oldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2" = "Tisztán látható a **tartózkodási engedély hátoldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2" = "Tisztán látható a **vezetői engedély első oldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2" = "Tisztán látható a **vezetői engedély hátoldala** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2" = "Tisztán látható az **útlevél borítója** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2" = "Tisztán látható a **lakcímigazoló dokumentum** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2" = "Tisztán látható a ** a második lakcímigazoló dokumentum** a keretben?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2" = "Tisztán látható az **útlevél belső oldala** a keretben?";
+"idenfy_document_camera_results_view_information_description_part_1_v2" = "A";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2" = "személyigazolvány első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2" = "személyigazolvány hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2" = "dokumentum első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2" = "dokumentum hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2" = "tartózkodási engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2" = "tartózkodási engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2" = "vezetői engedély első oldala";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2" = "vezetői engedély hátoldala";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2" = "útlevél borítója";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2" = "lakcímigazolás";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2" = "második lakcímigazolás";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2" = "útlevél belső oldala";
+"idenfy_document_camera_results_view_information_description_part_3_v2" = "tisztán látható és a keretbe illik?";
+"idenfy_document_camera_results_view_details_first_title_v2_front" = "Tisztán látható az arcodról készült kép?";
+"idenfy_document_camera_results_view_details_second_title_v2_front" = "Tisztán olvashatóak a dokumentumon szereplő adatok?";
+"idenfy_document_camera_results_view_details_first_title_v2_back" = "Ez a dokumentum hátoldala?";
+"idenfy_document_camera_results_view_details_second_title_v2_back" = "Tisztán olvashatóak a dokumentumon szereplő adatok?";
+"idenfy_document_camera_results_view_details_title_v2_default" = "Tisztán olvashatóak a dokumentumon szereplő adatok?";
+"idenfy_document_camera_results_view_details_pdf_title_v2_default" = "Biztosan feltöltöd ezt a fájlt?";
+
+/*Idenfy Face Camera Preview Session View V2*/
+"idenfy_face_camera_preview_session_description_v2" = "Helyezd az arcod a keretbe és készíts egy éles fotót!";
+"idenfy_face_camera_preview_title_v2" = "Fotó készítése";
+
+/*Idenfy Face Camera Results View V2*/
+"idenfy_face_camera_results_title_v2" = "Fotó megerősítése";
+"idenfy_face_camera_results_description_v2" = "Tisztán látható az arcod és a keretbe illeszkedik?";
+"idenfy_document_camera_results_view_information_step_face_description_placeholder_v2" = "Tisztán látható az **arcodról készült fotó** a keretben?";
+"idenfy_face_camera_results_view_details_first_title_v2" = "Elég közel van az arcod ahhoz, hogy felismerhető legyen és tisztán látható a képen?";
+
+/*Idenfy Document And Face Results View V2*/
+"idenfy_document_and_face_camera_results_title_v2" = "Fotó megvizsgálása";
+"idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2" = "Powered by iDenfy";
+"idenfy_document_and_face_camera_results_button_retake_photo_title_v2" = "ÚJ FOTÓ KÉSZÍTÉSE";
+"idenfy_document_and_face_camera_results_button_next_step_title_v2" = "IGEN, FOLYTAT";
+
+/*Upload document photo V2*/
+"idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_other_title_v2" = "Dokumentum első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_other_title_v2" = "Dokumentum hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2" = "Tartózkodási engedély első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2" = "Tartózkodási engedély hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2" = "Vezetői engedély első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2" = "Vezetői engedély hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2" = "Útlevél borítóképe";
+"idenfy_upload_results_view_information_step_front_document_type_passport_title_v2" = "Útlevél belső oldala";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Lakcímigazoló dokumentum";
+"idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Második lakcímigazoló dokumentum";
+"idenfy_upload_results_view_information_step_front_document_type_visa_title_v2" = "Vízum első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_visa_title_v2" = "Vízum hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_border_crossing_title_v2" = "USA border crossing card első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_border_crossing_title_v2" = "USA border crossing card hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2" = "Szavazókártya első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_voter_card_title_v2" = "Szavazókártya hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_old_id_card_title_v2" = "Régi személyi igazolvány első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_old_id_card_title_v2" = "Régi személyi igazolvány hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_travel_card_title_v2" = "Front of travel card /Utazókártya első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_travel_card_title_v2" = "Back of travel card / Utazókártya hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_photo_card_title_v2" = "Igazolvány első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_photo_card_title_v2" = "Igazolvány hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_military_card_title_v2" = "Katonai (veterán) kártya első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_military_card_title_v2" = "Katonai (veterán) kártya hátsó oldala";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Diplomata ID első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Diplomata ID hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_pan_card_title_v2" = "PAN kártya első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_pan_card_title_v2" = "PAN kártya hátoldala";
+"idenfy_upload_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Aadhaar kártya első oldala";
+"idenfy_upload_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Aadhaar kártya hátoldala";
+"idenfy_upload_results_view_information_step_face_title_v2" = "Arcról készült fotó jóváhagyása";
+"idenfy_upload_results_view_cropping_description_v2" = "Igazítsd a feltöltött fotót a keretbe!";
+"idenfy_upload_results_view_choose_another_photo_button_title_v2" = "MÁSIK VÁLASZTÁSA";
+"idenfy_upload_results_view_document_continue_button_title_v2" = "FOLYTAT";
+"idenfy_upload_results_view_pdf_size_alert_title_v2" = "Megengedett fájlméret túllépve";
+"idenfy_upload_results_view_pdf_size_alert_message_v2" = "Válassz egy olyan fájlt, amely nem haladja meg az 5MB méretet!";
+"idenfy_upload_results_view_incorrect_mime_type_alert_title_v2" = "Nem támogatott fájltípus";
+"idenfy_upload_results_view_incorrect_mime_type_alert_message_v2" = "Támogatott fájl típusok:";
+"idenfy_upload_results_view_failed_to_upload_file_title_v2" = "Sikertelen feltöltés";
+"idenfy_upload_results_view_failed_to_upload_file_description_v2" = "Fájl feltöltése nem sikerült, kérjük próbáld újra!";
+
+/*Idenfy Identification Results View V2*/
+"idenfy_identification_results_identification_status_loading_title_v2" = "Azonosítás ellenőrzése…";
+"idenfy_identification_results_identification_status_loading_description_v2" = "Kérjük várj amíg összekészítjük a dokumentumokat!";
+"idenfy_identification_results_identification_status_error_title_v2" = "Azonosítás sikertelen";
+"idenfy_identification_results_step_front_document_type_id_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_identification_results_step_back_document_type_id_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_identification_results_step_passport_cover_title_v2" = "Útlevél borító oldala";
+"idenfy_identification_results_step_proof_of_address_title_v2" = "Lakcímigazolás";
+"idenfy_identification_results_step_second_proof_of_address_title_v2" = "Másik lakcímigazolás";
+"idenfy_identification_results_step_front_document_type_passport_title_v2" = "Útlevél belső oldala";
+"idenfy_identification_results_step_front_document_type_other_title_v2" = "Dokumentum első oldala";
+"idenfy_identification_results_step_back_document_type_other_title_v2" = "Dokumentum hátoldala";
+"idenfy_identification_results_step_front_document_type_residence_permit_title_v2" = "Tartózkodási engedély első oldala";
+"idenfy_identification_results_step_back_document_type_residence_permit_title_v2" = "Tartózkodási engedély hátoldala";
+"idenfy_identification_results_step_front_document_type_driver_license_title_v2" = "Vezetői engedély első oldala";
+"idenfy_identification_results_step_back_document_type_driver_license_title_v2" = "Vezetői engedély hátoldala";
+"idenfy_identification_results_step_front_document_type_visa_title_v2" = "Vízum első oldala";
+"idenfy_identification_results_step_back_document_type_visa_title_v2" = "Vízum hátoldala";
+"idenfy_identification_results_step_front_document_type_border_crossing_title_v2" = "USA border crossing card első oldala";
+"idenfy_identification_results_step_back_document_type_border_crossing_title_v2" = "USA border crossing card hátoldala";
+"idenfy_identification_results_step_front_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély első oldala";
+"idenfy_identification_results_step_back_document_type_asylum_title_v2" = "Osztrák menedékjogi tartózkodási engedély hátoldala";
+"idenfy_identification_results_step_front_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél első oldala";
+"idenfy_identification_results_step_back_document_type_national_passport_title_v2" = "Orosz nemzeti útlevél hátoldala";
+"idenfy_identification_results_step_front_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél első oldala";
+"idenfy_identification_results_step_back_document_type_international_passport_title_v2" = "Orosz nemzetközi útlevél hátoldala";
+"idenfy_identification_results_step_front_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély első oldala";
+"idenfy_identification_results_step_back_document_type_provisional_driver_license_title_v2" = "Egyesült Királyság ideiglenes vezetői engedély hátoldala";
+"idenfy_identification_results_step_front_document_type_voter_card_title_v2" = "Szavazókártya első oldala";
+"idenfy_identification_results_step_back_document_type_voter_card_title_v2" = "Szavazókártya hátoldala";
+"idenfy_identification_results_step_front_document_type_old_id_card_title_v2" = "Régi személyi igazolvány első oldala";
+"idenfy_identification_results_step_back_document_type_old_id_card_title_v2" = "Régi személyi igazolvány hátoldala";
+"idenfy_identification_results_step_front_document_type_travel_card_title_v2" = "Front of travel card / Utazókártya első oldala";
+"idenfy_identification_results_step_back_document_type_travel_card_title_v2" = "Back of travel card / Utazókártya hátoldala";
+"idenfy_identification_results_step_front_document_type_photo_card_title_v2" = "Igazolvány első oldala";
+"idenfy_identification_results_step_back_document_type_photo_card_title_v2" = "Igazolvány hátoldala";
+"idenfy_identification_results_step_front_document_type_military_card_title_v2" = "Katonai (veterán) kártya első oldala";
+"idenfy_identification_results_step_back_document_type_military_card_title_v2" = "Katonai (veterán) kártya hátsó oldala";
+"idenfy_identification_results_step_front_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány első oldala";
+"idenfy_identification_results_step_back_document_type_proof_of_age_card_title_v2" = "Személyi igazolvány hátoldala";
+"idenfy_identification_results_step_front_document_type_diplomatic_id_card_title_v2" = "Diplomata ID első oldala";
+"idenfy_identification_results_step_back_document_type_diplomatic_id_card_title_v2" = "Diplomata ID hátoldala";
+"idenfy_identification_results_step_front_document_type_pan_card_title_v2" = "PAN kártya első oldala";
+"idenfy_identification_results_step_back_document_type_pan_card_title_v2" = "PAN kártya hátoldala";
+"idenfy_identification_results_step_front_document_type_aadhaar_card_title_v2" = "Aadhaar kártya első oldala";
+"idenfy_identification_results_step_back_document_type_aadhaar_card_title_v2" = "Aadhaar kártya hátoldala";
+"idenfy_identification_results_step_face" = "Arcról készült fotó";
+"idenfy_identification_results_retake_button_title_v2" = "PRÓBÁLD ÚJRA!";
+"idenfy_identification_results_error_continue_button_title_v2" = "FOLYTAT";
+"idenfy_identification_results_mrz_not_found_dialog_title_v2" = "Bizonyosodj meg arórl, hogy a dokumentum rendelkezik MRZ kóddal!";
+"idenfy_identification_results_mrz_not_found_dialog_description_v2" = "Az MRZ kód útlevél esetében 2, személyi igazolvány esetében 3 karaktersorból áll. Példa az MRZ kódra az alábbi fotón látható piros keretben. ";
+"idenfy_identification_results_mrz_not_found_back_button_title_v2" = "VISSZA";
+"idenfy_identification_results_mrz_not_found_continue_button_title_v2" = "MEGERŐSÍT";
+"idenfy_identification_results_doc_not_found_dialog_description_part_1_v2" = "Nem található dokumentum. Bizonyosodj meg róla, hogy a kamerába mutatod!";
+"idenfy_identification_results_doc_not_found_dialog_description_part_3_v2" = "a dokumentum kiállító országa";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2" = "ÚTLEVÉL";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2" = "SZEMÉLYI IGAZOLVÁNY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2" = "TARTÓZKODÁSI ENGEDÉLY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2" = "VEZETŐI ENGEDÉLY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2" = "DOKUMENTUM";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_visa_v2" = "VÍZUM";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_border_crossing_v2" = "USA BORDER CROSSING CARD";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_asylum_v2" = "OSZTRÁK MENEDÉKJOGI TARTÓZKODÁSI ENGEDÉLY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_national_passport_v2" = "OROSZ NEMZETI ÚTLEVÉL";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_international_passport_v2" = "OROSZ NEMZETKÖZI ÚTLEVÉL";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_provisional_driver_license_v2" = "EGYESÜLT KIRÁLYSÁG IDEIGLENES VEZETŐI ENGEDÉLY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_voter_card_v2" = "SZAVAZÓKÁRTYA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_old_id_card_v2" = "RÉGI SZEMÉLYI IGAZOLVÁNY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_travel_card_v2" = "TRAVEL CARD/ UTAZÓKÁRTYA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_photo_card_v2" = "IGAZOLVÁNY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_military_card_v2" = "KATONAI (VETERÁN) KÁRTYA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_proof_of_age_card_v2" = "SZEMÉLYI IGAZOLVÁNY";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_diplomatic_id_card_v2" = "DIPLOMATA ID";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_pan_card_title_v2" = "PAN KÁRTYA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_aadhaar_card_title_v2" = "Aadhaar KÁRTYA";
+"idenfy_identification_results_doc_not_found_dialog_description_country_part_v2" = "Győződj meg róla, hogy a dokumentumot kibocsátó ország";
+
+/*Idenfy Identification Results Suspected View V2*/
+"idenfy_identification_results_suspected_view_title_v2" = "Adataid benyújtásra kerültek";
+"idenfy_identification_results_suspected_view_description_v2" = "Felmerülő kérdés esetén keresd a Supportot!";
+"idenfy_identification_results_suspected_view_email_v2" = "support@idenfy.com";
+"idenfy_identifiaction_results_suspected_view_continue_button_title_v2" = "FOLYTAT";
+
+/*Idenfy Identification Results Success View V2*/
+"idenfy_identification_results_success_fragment_title_v2" = "Sikeres azonosítás";
+"idenfy_identification_results_success_fragment_description_v2" = " ";
+"idenfy_identifiaction_results_success_fragment_identified_v2" = "Azonosítva";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting View V2*/
+"idenfy_manual_reviewing_status_waiting_view_information_title_v2" = "Azonosítás benyújtásra került";
+"idenfy_manual_reviewing_status_waiting_view_information_top_description_v2" = "Az azonosítási folyamat ellenőrzés alatt van. Értesítünk, ha végeztünk vele. ";
+"idenfy_manual_reviewing_status_waiting_view_information_description_v2" = "Általában 1–5 percet vesz igénybe az ellenőrzés.";
+"idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2" = "VISSZA A FIÓKHOZ";
+"idenfy_manual_reviewing_status_waiting_view_identification_manual_completed_title_v2" = "Egyéb adatok ellenőrzése";
+"idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2" = "Automatizált AI ellenőrzés befejezve";
+"idenfy_manual_reviewing_status_waiting_view_time_left_title_v2" = "IDŐ MARADT HÁTRA";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting Stop Waiting Identification Alert V2*/
+"idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information" = "Azonosítás megszakítása";
+"idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information" = "Biztosan meg akarod szakítani az azonosítást?";
+"idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information" = "IGEN";
+"idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information" = "NEM";
+
+/*Idenfy Manual Reviewing Identification Results Status Approved View V2*/
+"idenfy_manual_reviewing_status_approved_view_information_title_v2" = "Sikeres azonosítás!";
+"idenfy_manual_reviewing_status_approved_view_information_description_v2" = "Köszönjük!";
+"idenfy_manual_reviewing_status_approved_view_continue_button_v2" = "FOLYTAT";
+
+/*Idenfy Manual Reviewing Identification Results Status Failed View V2*/
+"idenfy_manual_reviewing_status_failed_view_information_title_v2" = "Sikertelen azonosítás";
+"idenfy_manual_reviewing_status_failed_view_information_description_v2" = "Személyazonosságod nem tudtuk igazolni a beküldött adatokkal.";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_1_v2" = "Kérjük keresd a";
+"idenfy_manual_reviewing_status_failed_view_information_support_email_v2" = "support@idenfy.com";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_2_v2" = "e-mail címet további segítségért!";
+"idenfy_manual_reviewing_status_failed_view_continue_button_v2" = "FOLYTAT";
+
+/*Idenfy Camera Permission View V2*/
+"idenfy_camera_permissions_view_information_title_v2" = "Használhatjuk a kamerád?";
+"idenfy_camera_permissions_view_information_description_v2" = "Ahhoz, hogy fotót készítsünk a dokumentumodról és az arcodról, szükséges használnunk a kamerád.";
+"idenfy_camera_permissions_view_guidance_information_description_v2" = "A készüléked beállításaiban engedélyezheted a hozzáférést kamerádhoz.";
+"idenfy_camera_permissions_view_goto_settings_button_title_v2" = "KAMERA ENGEDÉLYEZÉSE";
+
+/*Idenfy NFC Reading View V2*/
+"idenfy_nfc_reading_view_information_alert_title_passport_v2" = "Az útlevél közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_alert_title_id_card_v2" = "A személyi igazolvány közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_alert_title_document_v2" = "A dokumentum közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_title_passport_v2" = "Az útlevél közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_title_id_card_v2" = "A személyi igazolvány közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_title_document_v2" = "A dokumentum közepe kerüljön a telefon tetejével egy vonalba";
+"idenfy_nfc_reading_view_information_reading_data_document_title_v2" = "Dokumentum adatainak olvasása…";
+"idenfy_nfc_reading_view_information_reading_data_document_image_v2" = "Dokumentum beolvasása…";
+"idenfy_nfc_reading_view_information_reading_finished_v2" = "Útlevél adatainak olvasása befejeződött";
+"idenfy_nfc_reading_view_information_reading_continue_button_title_v2" = "FOLYTAT";
+"idenfy_nfc_reading_view_information_reading_started_title_v2" = "Kérjük várj egy pillanatot!";
+"idenfy_nfc_reading_view_information_reading_status_failed_v2" = "Jaj ne! Valami nem megfelelő.";
+"idenfy_nfc_reading_view_information_reading_status_no_connecton_v2" = "Nem megfelelő kapcsolat. Kérjük tarts közelebb a telefont!";
+
+/*Idenfy NFC Reading Time Out View V2*/
+"idenfy_nfc_reading_view_information_reading_time_out_title_v2" = "Idő lejárt!";
+"idenfy_nfc_reading_view_information_reading_time_out_description_v2" = "NFC beolvasási ideje lejárt";
+"idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2" = "FOLYTAT";
+
+/*Idenfy NFC Required View V2*/
+"idenfy_nfc_required_view_information_title_v2" = "Nem támogatott készülék";
+"idenfy_nfc_required_view_information_description_v2" = "Kérjük olyan telefont használj, amelyik rendelkezik beépített NFC beolvasóval!";
+
+/*Idenfy Additional Support View V2*/
+"idenfy_additional_support_view_title" = "Megszakítottad az azonosítási folyamatot.";
+"idenfy_additional_support_view_description" = "Az azonosítás nem vihető véghez. Felmerülő kérdés esetén keresd a Supportot!";
+"idenfy_additional_support_view_email" = "support@idenfy.com";
+"idenfy_additional_support_view_button_title" = "VISSZA";
+
+/**Shared strings**/
+/*Idenfy Permissions*/
+"idenfy_permission_asks_to_provide_camera_permission_manually" = "Engedélyek megadása manuálisan";
+
+/*Idenfy Error messages*/
+"IDENFY_FACE_LIVENESS_MESSAGE" = "Túl sok hibás próbálkozás";
+"IDENFY_SERVER_ERROR_MESSAGE" = "Hoppá! Valami hiba történt.";
+"IDENFY_TOKEN_NOT_VALID_MESSAGE" = "A munkamenet lejárt.";
+"IDENFY_TOO_MANY_REATTEMPTS_MESSAGE" = "Túl sok próbálkozás.";
+"IDENFY_NFC_FAILED_MESSAGE" = "Az NFC hitelesítés nem sikerült!";
+
+/*Idenfy navigation*/
+"idenfy_common_title_navigation_back" = "Vissza";
+
+/*Idenfy Identification Results Additional Information*/
+"idenfy_identification_results_title_additional_info_uploading_front_document_photo" = "A dokumentum első oldalának feltöltése…";
+"idenfy_identification_results_title_additional_info_uploading_back_document_photo" = "A dokumentum hátsó oldalának feltöltése…";
+"idenfy_identification_results_title_additional_info_uploading_face_document_photo" = "Szelfi feltöltése…";
+"idenfy_identification_results_title_additional_info_uploading_liveness_document_photo" = "Liveness ellenőrzés…";
+"idenfy_identification_results_title_additional_info_uploading_passport_cover_photo" = "Útlevél feltöltése…";
+"idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo" = "Lakcímigazoló dokumentum feltöltése";
+"idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo" = "Másik lakcímigazoló dokumentum feltöltése";
+
+/*Idenfy Alerts*/
+
+/*Idenfy Internet Connection Alert*/
+"idenfy_internet_connection_lost_title" = "Kapcsolati probléma. Bizonyosodj meg arról, hogy stabil az internet kapcsolatod!";
+
+/*Manual Reviewing Alert*/
+"idenfy_alert_positive_button_manual_reviewing_information" = "Tovább";
+"idenfy_alert_title_manual_reviewing_information" = "INFORMÁCIÓ";
+"idenfy_alert_message_manual_reviewing_information" = "Nem személyi igazolványt vagy útlevelet választottál, ezért szükséges ellenőriznünk az adataidat mégegyszer.";
+
+/*Idenfy Liveness Failed Alert*/
+"idenfy_alert_positive_button_liveness_default_error" = "Tovább";
+"idenfy_alert_title_liveness_default_error" = "INFORMÁCIÓ";
+"idenfy_alert_message_liveness_default_error" = "Liveness ellenőrzés hiba. Kérjük próbáld újra!";
+"idenfy_alert_message_liveness_face_timeout_error" = "A Liveness ellenőrzés ideje lejárt. Kérjük próbáld újra!";
+
+/*Document Analysis Alert*/
+"idenfy_alert_positive_button_document_analysis_information" = "Tovább";
+"idenfy_alert_title_document_analysis_information" = "JAJ, NE!";
+"idenfy_alert_message_document_analysis_information" = "Típus nem felismerhető. A dokumentum típusát a következő lépésben választhatod ki.";
+
+/*Abort Identification Alert*/
+"idenfy_alert_message_abort_identification_information" = "Biztosan meg akarod szakítani a KYC folyamatot?";
+"idenfy_alert_title_abort_identification_information" = "KYC megszakítása";
+"idenfy_alert_positive_button_abort_identification_information" = "IGEN";
+"idenfy_alert_negative_button_abort_identification_information" = "NEM";
+
+/*Abort Restart Identification Alert*/
+"idenfy_alert_message_restart_identification_information" = "Biztos, hogy újra akarod kezdeni?";
+"idenfy_alert_title_restart_identification_information" = "Újrakezdés";
+"idenfy_alert_positive_button_restart_identification_information" = "IGEN";
+"idenfy_alert_negative_button_restart_identification_information" = "NEM";
+
+/*Unknown Document Analysis Alert*/
+"idenfy_document_and_face_camera_results_document_analysis_title" = "Ellenőrzés…";
+"idenfy_document_and_face_camera_results_document_analysis_description" = "Kérjük várj egy pillanatot!";
+
+/**/
+
+/*Idenfy Instruction strings */
+
+/* Passport */
+"idenfy_instructions_passport_correct_title" = "Mutasd fel az útleveled";
+"idenfy_instructions_passport_correct_text" = "Győződj meg róla, hogy az ellenőrzés során az útleveled mutatod fel, és nem egy másik dokumentumot.";
+
+"idenfy_instructions_passport_mrz_title" = "MRZ kóddal rendelkező útlevél";
+"idenfy_instructions_passport_mrz_text" = "Győződj meg róla, hogy a dokumentum rendelkezik MRZ kóddal (2 vagy 3 karakter sor). Ha a dokumentumon nem szerepel MRZ kód, válaszd a “MÁS DOKUMENTUM”-ot az opciók közül.";
+
+"idenfy_instructions_passport_fits_frame_title" = "Útlevél illeszkedése a fehér keretbe";
+"idenfy_instructions_passport_fits_frame_text" = "Győződj meg róla, hogy az útlevél beleillik a fehér keretbe, és nem lépi túl a keret határait, valamint hogy a megjelenített dokumentum nem elmosódott és jól olvasható.";
+
+"idenfy_instructions_passport_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_passport_finger_text" = "Az arcod és a dokumentumon szereplő adatok legyenek jól láthatóak.";
+
+"idenfy_instructions_passport_reflection_title" = "Fényvisszaverődés";
+"idenfy_instructions_passport_reflection_text" = "Győződj meg róla, hogy a fényvisszaverődés vagy a dokumentum hologrammja nem takarja el sem az arcod, sem a dokumentumon szereplő adatokat.";
+
+/* ID-Card front */
+"idenfy_instructions_id_front_correct_title" = "Személyigazolvány felmutatása";
+"idenfy_instructions_id_front_correct_text" = "Győződj meg róla, hogy a személyi igazolványod mutatod be az ellenőrzéskor, nem pedig másik dokumentumot.";
+
+"idenfy_instructions_id_front_fit_frame_title" = "Személyi igazolvány illeszkedése a fehér keretbe";
+"idenfy_instructions_id_front_fit_frame_text" = "Ügyelj arra, hogy a vezetői engedély illeszkedjen a fehér keretbe és ne lógjon ki abból! A dokumentum legyen tisztán olvasható és a kép ne legyen homályos.";
+
+"idenfy_instructions_id_front_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_id_front_finger_text" = "Az arcod és a dokumentumon szereplő adatok legyenek jól láthatóak.";
+
+"idenfy_instructions_id_front_reflection_title" = "Fényvisszaverődés";
+"idenfy_instructions_id_front_reflection_text" = "Győződj meg róla, hogy a fényvisszaverődés vagy a dokumentum hologrammja nem takarja el sem az arcod, sem a dokumentumon szereplő adatokat.";
+
+/* ID-Card back */
+"idenfy_instructions_id_back_correct_title" = "Személyi igazolvány hátoldala";
+"idenfy_instructions_id_back_correct_text" = "Győződj meg róla, hogy a személyi igazolvány hátoldalát mutatod.";
+
+"idenfy_instructions_id_back_mrz_title" = "MRZ kóddal rendelkező személyi igazolvány";
+"idenfy_instructions_id_back_mrz_text" = "Győződj meg róla, hogy a dokumentum rendelkezik MRZ kóddal (2 vagy 3 karakter sor). Ha a dokumentumon nem szerepel MRZ kód, válaszd a \“MÁS DOKUMENTUM\”-ot az opciók közül.";
+
+"idenfy_instructions_id_back_fit_frame_title" = "Személyi igazolvány illeszkedése a fehér keretbe";
+"idenfy_instructions_id_back_fit_frame_text" = "Ügyelj arra, hogy a személyi igazolvány hátoldala illeszkedjen a fehér keretbe és ne lógjon ki abból.  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_id_back_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_id_back_finger_text" = "Ügyelj arra, hogy az ujjad ne takarjon el adatot a dokumentumon. ";
+
+/* Residence-permit front */
+"idenfy_instructions_residence_permit_front_correct_title" = "Tartózkodási engedély felmutatása";
+"idenfy_instructions_residence_permit_front_correct_text" = "Bizonyosodj meg róla, hogy valóban a tartózkodási engedélyed mutatod fel, ne másik dokumentumot!";
+
+"idenfy_instructions_residence_permit_front_fit_frame_title" = "Tartózkodási engedély illeszkedése a fehér keretbe";
+"idenfy_instructions_residence_permit_front_fit_frame_text" = "Ügyelj arra, hogy a tartózkodási engedély illeszkedjen a fehér keretbe és ne lógjon ki abból.  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_residence_permit_front_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_residence_permit_front_finger_text" = "Az arcod és a dokumentumon szereplő adatok ne legyenek takarásban.";
+
+"idenfy_instructions_residence_permit_front_reflection_title" = "Fényvisszaverődés";
+"idenfy_instructions_residence_permit_front_reflection_text" = "Győződj meg róla, hogy a fény visszaverődés vagy a dokumentum hologrammja nem takarja el sem az arcod, sem a dokumentumon szereplő adatokat! ";
+
+/* Residence-permit back */
+"idenfy_instructions_residence_permit_back_correct_title" = "Tartózkodási engedély hátoldala";
+"idenfy_instructions_residence_permit_back_correct_text" = "Bizonyosodj meg arról, hogy valóban a tartózkodási engedély hátoldalát mutatod!";
+
+"idenfy_instructions_residence_permit_back_mrz_title" = "MRZ kóddal rendelkező lakcímigazolás";
+"idenfy_instructions_residence_permit_back_mrz_text" = "Győződj meg róla, hogy a dokumentum rendelkezik MRZ kóddal (2 vagy 3 karaktersor). Ha a dokumentumon nem szerepel MRZ kód, válaszd a \“MÁS DOKUMENTUM\”-ot az opciók közül.";
+
+"idenfy_instructions_residence_permit_back_fit_frame_title" = "Tartózkodási engedély illeszkedése a fehér keretbe";
+"idenfy_instructions_residence_permit_back_fit_frame_text" = "Ügyelj arra, hogy a tartózkodási engedély hátoldala illeszkedjen a fehér keretbe és azon ne lógjon ki abból!  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_residence_permit_back_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_residence_permit_back_finger_text" = "Ügyelj arra, hogy az ujjad ne takarjon el adatot a dokumentumon!";
+
+/* Driver-license front */
+"idenfy_instructions_driver_license_front_correct_title" = "Vezetői engedély felmutatása";
+"idenfy_instructions_driver_license_front_correct_text" = "Bizonyosodj meg arról, hogy valóban a vezetői engedélyed mutatod, és ne más dokumentumot!";
+
+"idenfy_instructions_driver_license_front_fit_frame_title" = "Vezetői engedély illeszkedése a fehér keretbe";
+"idenfy_instructions_driver_license_front_fit_frame_text" = "Ügyelj arra, hogy a vezetői engedély illeszkedjen a fehér keretbe és ne lógjon ki abból!  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_driver_license_front_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_driver_license_front_finger_text" = "Az arcod és a dokumentumon szereplő adatok ne legyenek takarásban!";
+
+"idenfy_instructions_driver_license_front_reflection_title" = "Fényvisszaverődés";
+"idenfy_instructions_driver_license_front_reflection_text" = "Győződj meg róla, hogy a fényvisszaverődés vagy a dokumentum hologrammja nem takarja el sem az arcod, sem a dokumentumon szereplő adatokat!";
+
+/* Other documents front */
+"idenfy_instructions_other_front_mrz_title" = "MRZ kód nélküli dokumentum";
+"idenfy_instructions_other_front_mrz_text" = "Bizonyosodj meg arról, hogy a dokumentumon nem szerepel MRZ kód. ";
+
+"idenfy_instructions_other_front_fit_frame_title" = "Első oldal illeszkedése a fehér keretbe";
+"idenfy_instructions_other_front_fit_frame_text" = "Ügyelj arra, hogy a vezetői engedély illeszkedjen a fehér keretbe és ne lógjon ki abból!  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_other_front_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_other_front_finger_text" = "Az arcod és a dokumentumon szereplő adatok ne legyenek takarásban!";
+
+"idenfy_instructions_other_front_reflection_title" = "Fényvisszaverődés";
+"idenfy_instructions_other_front_reflection_text" = "Győződj meg róla, hogy a fény visszaverődés vagy a dokumentum hologrammja nem takarja el sem az arcod, sem a dokumentumon szereplő adatokat!";
+
+/* Other documents back */
+"idenfy_instructions_other_back_fit_frame_title" = "Dokumentum illeszkedése a fehér keretbe";
+"idenfy_instructions_other_back_fit_frame_text" = "Ügyelj arra, hogy a vezetői engedély illeszkedjen a fehér keretbe és ne lógjon ki abból!  A dokumentum legyen tisztán olvasható és a kép ne legyen homályos. ";
+
+"idenfy_instructions_other_back_finger_title" = "Adatok láthatósága";
+"idenfy_instructions_other_back_finger_text" = "Ügyelj arra, hogy az ujjad ne takarjon el adatot a dokumentumon!";
+
+/* Face camera */
+"idenfy_instructions_face_fit_frame_title" = "Arc illeszkedése a fehér keretbe";
+"idenfy_instructions_face_fit_frame_text" = "Ügyelj arra, hogy az arcod illeszkedjen a fehér keretbe!";
+
+"idenfy_instructions_face_one_face_title" = "Kizárólag egy személy látható";
+"idenfy_instructions_face_one_face_text" = "Ügyelj arra, hogy kizárólag a te arcod legyen látható a képen!";
+
+"idenfy_instructions_face_shadow_title" = "Az arc nincs árnyék takarásában";
+"idenfy_instructions_face_shadow_text" = "Az arcod legyen jól megvilágítva és ne takarja árnyék egyik részét sem.";
+
+"idenfy_instructions_face_zoom_title" = "Arc illeszkedése a fehér keretbe";
+"idenfy_instructions_face_zoom_text" = "Ügyelj arra, hogy az arcod illeszkedjen a fehér keretbe! A szelfi készítés után hajolj közelebb a kamerához!";
+
+/**/
+///*System specific*///
+/* <!--Camera Permission Not Enabled Alert--> */
+"idenfy_alert_title_camera_permission_not_enabled" = "Nem lehet hozzáférni a kamerához";
+"idenfy_alert_message_camera_permission_not_enabled" = "A hozzáférés engedélyezéséhez lépjen a Beállítások > Adatvédelem > Kamera menüpontba, és kapcsolja be a Kamera-hozzáférést ehhez az alkalmazáshoz.";
+"idenfy_alert_positive_button_camera_permission_not_enabled" = "Rendben";
+
+/*Face Authentication Initial View V2*/
+"idenfy_face_authentication_initial_view_failed_title_part_1" = "Még";
+"idenfy_face_authentication_initial_view_failed_title_part_2" = "3";
+"idenfy_face_authentication_initial_view_failed_title_part_3" = "próbálkozásod van az azonosításra.";
+"idenfy_face_authentication_initial_view_failed_title_placeholder" = "Még **3** próbálkozásod van az azonosításra.";
+"idenfy_face_authentication_initial_view_button_title" = "FOLYTAT";
+"idenfy_face_authentication_initial_view_alert_message" = "Sikertelen arc azonosítás!";
+
+/*Face Authentication Results V2*/
+"idenfy_face_authentication_results_success_title" = "Sikeres azonosítás";
+"idenfy_face_authentication_results_success_description" = "Sikeresen azonosítottunk!";
+"idenfy_face_authentication_results_final_failed_title" = "Arc azonosítása sikertelen";
+"idenfy_face_authentication_results_final_failed_description" = "Kérjük kövesd az alább feltüntetett lépéseket, és biztosítsd a megfelelő megvilágítást! Kerüld a homályos, árnyékos helyeket vagy villanó fények használatát, és ügyelj, hogy az ujjad vagy más tárgyak ne takarjanak el semmit!";
+"idenfy_face_authentication_results_failed_description" = "Arc azonosítása sikertelen. Kérjük kövesd az alább feltüntetett lépéseket, és biztosítsd a megfelelő megvilágítást! Kerüld a homályos, árnyékos helyeket vagy villanó fények használatát, és ügyelj, hogy az ujjad vagy más tárgyak ne takarjanak el semmit!";
+"idenfy_face_authentication_results_button_title" = "FOLYTAT";
+
+/* Face Authentication Exit Alert*/
+"idenfy_face_authentication_exit_alert_title" = "Kilépés az azonosításból";
+"idenfy_face_authentication_exit_alert_description" = "Biztosan ki akarsz lépni az arc azonosításból?";

@@ -177,9 +177,27 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/SideosSDK/SideosSDK.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyNFCReading.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/FaceTecSDK.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/iDenfySDK.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/IdenfyLiveness.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfycore.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyviews.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/OpenSSL.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/SideosSDK/SideosSDK.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyNFCReading.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/FaceTecSDK.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/iDenfySDK.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/IdenfyLiveness.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfycore.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyviews.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/OpenSSL.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

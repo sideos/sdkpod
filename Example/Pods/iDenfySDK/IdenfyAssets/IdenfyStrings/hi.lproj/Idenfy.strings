@@ -1,0 +1,719 @@
+/**V2**/
+/*Idenfy Splash Screen V2*/
+"idenfy_splash_screen_title_v2" = "Quick and reliable identity verification";
+
+/*Idenfy Privacy Policy View V2*/
+"idenfy_privacy_policy_title_v2" = "गोपनीयता नीति";
+"idenfy_privacy_policy_agree_button_title_v2" = "सहमत होना";
+"idenfy_privacy_policy_disagree_button_title_v2" = "असहमत";
+"idenfy_privacy_policy_alert_title_v2" = "जानकारी";
+"idenfy_privacy_policy_alert_description_v2" = "प्रक्रिया जारी रखने के लिए, आपको नियमों से सहमत होना होगा। यदि आप सहमत नहीं हैं, तो सत्यापन प्रक्रिया को रद्द कर दें या विंडो बंद कर दें।";
+"idenfy_privacy_policy_alert_agree_button_title_v2" = "मैं सहमत होना चाहता हूं";
+"idenfy_privacy_policy_alert_cancel_button_title_v2" = "सत्यापन रद्द करें";
+
+/*Idenfy Questionnaire View V2*/
+"idenfy_questionnaire_continue_button_title_v2" = "जारी रखें";
+"idenfy_questionnaire_email_error_message_v2" = "कृपया एक मान्य ईमेल पता प्रवेश करें!";
+"idenfy_questionnaire_url_error_message_v2" = "कृपया एक मान्य वेबसाइट पता दर्ज करें!";
+"idenfy_questionnaire_tel_error_message_v2" = "कृपया एक मान्य फोन नंबर दर्ज करें!";
+
+/*Idenfy Provider Selection View V2*/
+"idenfy_provider_selection_common_information_title_v2" = "कृपया अपना प्रदाता चुनें";
+"idenfy_provider_selection_common_information_description_v2" = "कृपया नीचे दी गई सूची से अपना उपयोगिता बिल प्रदाता चुनें";
+"idenfy_provider_selection_search_bar_hint_title_v2" = "एक प्रदाता के लिए खोजें…";
+
+/*Idenfy Provider Login View V2*/
+"idenfy_provider_login_view_common_information_title_v2" = "अपना खाता कनेक्ट करें";
+"idenfy_provider_login_view_common_information_description_v2" = "अपने ऑनलाइन उपयोगिता खाते के लिए अपनी लॉगिन जानकारी दर्ज करें";
+"idenfy_provider_login_view_username_hint_title_v2" = "उपयोगकर्ता नाम";
+"idenfy_provider_login_view_password_hint_title_v2" = "पासवर्ड";
+"idenfy_provider_login_view_continue_button_title_v2" = "जारी रखें";
+"idenfy_provider_login_view_login_retry_title_v2" = "अवैध प्रत्यय पत्र";
+"idenfy_provider_login_view_login_retry_description_v2" = "कृपया मान्य क्रेडेंशियल दर्ज करें और पुनः प्रयास करें!";
+"idenfy_provider_login_view_login_failed_title_v2" = "लॉगिन विफल";
+"idenfy_provider_login_view_login_failed_description_v2" = "हम आपको लॉग इन नहीं कर सके…";
+
+/*Idenfy MFA Method Selection View V2*/
+"idenfy_mfa_method_selection_view_title_v2" = "खाता सत्यापन";
+"idenfy_mfa_method_selection_view_description_v2" = "कृपया नीचे दिए गए विकल्पों में से अपनी वांछित प्रमाणीकरण विधि का चयन करें";
+"idenfy_mfa_method_selection_view_mfa_hint_title_v2" = "प्रमाणन विधि";
+"idenfy_mfa_method_selection_view_mfa_method_code_title_v2" = "एक बारी पासवर्ड";
+"idenfy_mfa_method_selection_view_mfa_method_security_question_title_v2" = "सुरक्षा प्रश्न और उत्तर";
+"idenfy_mfa_method_selection_view_continue_button_title_v2" = "जारी रखें";
+
+/*Idenfy MFA Captcha Method View V2*/
+"idenfy_mfa_captcha_method_title_v2" = "खुद को प्रमाणित करें";
+"idenfy_mfa_captcha_method_description_v2" = "कृपया नीचे दी गई तस्वीर में दिख रहे कैप्चा कोड को दर्ज करें";
+"idenfy_mfa_captcha_method_code_hint_v2" = "कैप्चा कोड";
+"idenfy_mfa_captcha_method_continue_button_title_v2" = "जारी रखें";
+
+/*Idenfy MFA General View V2*/
+"idenfy_mfa_code_method_title_v2" = "खुद को प्रमाणित करें";
+"idenfy_mfa_code_method_description_v2" = "कृपया वह कोड दर्ज करें जो आपको अपने फोन पर या ईमेल द्वारा प्राप्त हुआ है";
+"idenfy_mfa_code_method_code_hint_v2" = "प्रमाणीकरण कोड";
+"idenfy_mfa_question_method_title_v2" = "कृपया नीचे दिए गए प्रश्न का उत्तर दें";
+"idenfy_mfa_question_method_answer_hint_v2" = "आपका उत्तर";
+"idenfy_mfa_notification_method_title_v2" = "कृपया अपने प्रदाता के आवेदन के माध्यम से पहुंच सत्यापित करें";
+"idenfy_mfa_notification_method_description_v2" = "जब आप कर लें, तो जारी रखें बटन दबाएं";
+"idenfy_mfa_pass_code_method_title_v2" = "खुद को प्रमाणित करें";
+"idenfy_mfa_pass_code_method_description_v2" = "कृपया वह पासकोड दर्ज करें जिसे आपने अपने उपयोगिया प्रदाता के साथ सेट किया है";
+"idenfy_mfa_pass_code_method_code_hint_v2" = "पासकोड";
+"idenfy_mfa_general_view_continue_button_title_v2" = "जारी रखें";
+
+/*Idenfy Start Identification Predefined View V2*/
+"idenfy_start_identification_predefined_view_information_title_v2" = "पहचान सत्यापन प्रारंभ करें";
+"idenfy_start_identification_predefined_view_information_description_v2" = "दस्तावेज़ जारी करने का देश";
+"idenfy_start_identification_predefined_view_begin_identification_button_v2" = "चलो शुरू करें";
+
+/*Idenfy Country Selection View V2*/
+"idenfy_country_selection_view_information_title_v2" = "जारी करने वाले देश का चयन करें";
+"idenfy_country_selection_view_information_description_v2" = "कृपया वह देश चुनें जहां आपका दस्तावेज़ जारी किया गया था";
+"idenfy_country_selection_view_searchbar_hint_v2" = "दस्तावेज़ का देश खोजें…";
+
+/*Idenfy Language Selection View V2*/
+"idenfy_language_selection_view_information_title_v2" = "भाषा चुनें";
+
+/*Idenfy Documents Selection View V2*/
+"idenfy_documents_selection_view_continue_button_title_v2" = "जारी रखें";
+"idenfy_documents_selection_view_information_title_v2" = "एक दस्तावेज़ चुनें";
+"idenfy_documents_selection_view_information_description_v2" = "आप किस दस्तावेज़ प्रकार की पहचान करना चाहेंगे?";
+"idenfy_documents_selection_view_list_item_document_type_passport_title_v2" = "पासपोर्ट";
+"idenfy_documents_selection_view_list_item_document_type_id_card_title_v2" = "पहचान पत्र";
+"idenfy_documents_selection_view_list_item_document_type_other_title_v2" = "अन्य";
+"idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2" = "ड्राइवर का लाइसेंस";
+"idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2" = "निवास की अनुमति";
+"idenfy_documents_selection_view_list_item_document_type_visa_title_v2" = "वीसा";
+"idenfy_documents_selection_view_list_item_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट";
+"idenfy_documents_selection_view_list_item_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट";
+"idenfy_documents_selection_view_list_item_document_type_international_passport_title_v2" = "रूसी अंतर्राष्ट्रीय पासपोर्ट";
+"idenfy_documents_selection_view_list_item_document_type_provisional_driver_license_title_v2" = "यूके अनंतिम चालक लाइसेंस";
+"idenfy_documents_selection_view_list_item_document_type_voter_card_title_v2" = "वोटर कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_old_id_card_title_v2" = "पुराना पहचान पत्र";
+"idenfy_documents_selection_view_list_item_document_type_travel_card_title_v2" = "यात्रा कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_photo_card_title_v2" = "फोटो कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_military_card_title_v2" = "सैन्य (वयोवृद्ध) कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_proof_of_age_card_title_v2" = "आयु कार्ड का प्रमाण";
+"idenfy_documents_selection_view_list_item_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी";
+"idenfy_documents_selection_view_list_item_document_type_pan_card_title_v2" = "पैन कार्ड";
+"idenfy_documents_selection_view_list_item_document_type_aadhaar_card_title_v2" = "आधार कार्ड";
+
+/*Idenfy Confirmation View V2*/
+"idenfy_confirmation_view_information_title_v2" = "दस्तावेज़ प्रकार की पुष्टि करें";
+"idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2" = "पहचान के लिए कृपया अपना **पहचान पत्र** तैयार रखें";
+"idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2" = "पहचान के लिए कृपया अपना **पासपोर्ट** तैयार रखें";
+"idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2" = "पहचान के लिए कृपया अपना **निवास परमिट** तैयार रखें";
+"idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2" = "पहचान के लिए कृपया अपना **ड्राइविंग लाइसेंस** तैयार रखें";
+"idenfy_confirmation_view_information_description_type_other_placeholder_v2" = "कृपया पहचान के लिए अपना **दस्तावेज़** तैयार रखें";
+"idenfy_confirmation_view_information_description_part_1_v2" = "कृपया अपना लें";
+"idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2" = "पहचान पत्र";
+"idenfy_confirmation_view_information_document_type_passport_description_part_2_v2" = "पासपोर्ट";
+"idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2" = "निवास की अनुमति";
+"idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2" = "ड्राइवर का लाइसेंस";
+"idenfy_confirmation_view_information_document_type_other_description_part_2_v2" = "दस्तावेज़";
+"idenfy_confirmation_view_information_document_type_visa_description_part_2_v2" = "वीसा";
+"idenfy_confirmation_view_information_document_type_border_crossing_description_part_2_v2" = "संयुक्त राज्य अमेरिका सीमा पार कार्ड";
+"idenfy_confirmation_view_information_document_type_asylum_description_part_2_v2" = "ऑस्ट्रियाई शरण निवास परमिट";
+"idenfy_confirmation_view_information_document_type_national_passport_description_part_2_v2" = "रूसी राष्ट्रीय पासपोर्ट";
+"idenfy_confirmation_view_information_document_type_international_passport_description_part_2_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट";
+"idenfy_confirmation_view_information_document_type_provisional_driver_license_description_part_2_v2" = "यूके अनंतिम चालक लाइसेंस";
+"idenfy_confirmation_view_information_document_type_voter_card_description_part_2_v2" = "मतदाता कार्ड";
+"idenfy_confirmation_view_information_document_old_id_card_description_part_2_v2" = "पुराना पहचान पत्र";
+"idenfy_confirmation_view_information_document_travel_card_description_part_2_v2" = "यात्रा कार्ड";
+"idenfy_confirmation_view_information_document_photo_card_description_part_2_v2" = "फोटो कार्ड";
+"idenfy_confirmation_view_information_document_military_card_description_part_2_v2" = "सैन्य (अनुभवी) कार्ड";
+"idenfy_confirmation_view_information_proof_of_age_card_description_part_2_v2" = "आयु कार्ड का प्रमाण";
+"idenfy_confirmation_view_information_diplomatic_id_card_description_part_2_v2" = "राजनयिक आईडी";
+"idenfy_confirmation_view_information_pan_card_description_part_2_v2" = "पैन कार्ड";
+"idenfy_confirmation_view_information_aadhaar_card_description_part_2_v2" = "आधार कार्ड";
+"idenfy_confirmation_view_information_description_part_3_v2" = "पहचानने के लिए तैयार";
+"idenfy_confirmation_view_document_steps_title_part_placeholder_v2" = "सत्यापन में **5** चरण लगेंगे:";
+"idenfy_confirmation_view_document_steps_title_part_1_v2" = "सत्यापन में लगेगा";
+"idenfy_confirmation_view_document_steps_title_part_2_v2" = "5";
+"idenfy_confirmation_view_document_steps_title_part_3_v2" = "कदम:";
+"idenfy_confirmation_view_document_steps_step_front_title_v2" = "दस्तावेज़ के सामने की तस्वीर";
+"idenfy_confirmation_view_document_steps_step_back_title_v2" = "दस्तावेज़ वापस फोटो";
+"idenfy_confirmation_view_document_steps_step_face_title_v2" = "चेहरा फोटो";
+"idenfy_confirmation_view_document_steps_step_liveliness_title_v2" = "जीवंतता की जाँच";
+"idenfy_confirmation_view_document_steps_step_passport_cover_title_v2" = "पासपोर्ट कवर फोटो";
+"idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2" = "पते का प्रमाण दस्तावेज़ फोटो";
+"idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2" = "पता दस्तावेज फोटो का दूसरा प्रमाण";
+"idenfy_confirmation_view_upload_image_title_v2" = "आप हर स्टेप में फोटो अपलोड कर सकते हैं";
+"idenfy_confirmation_view_begin_identification_title_v2" = "जारी रखें";
+
+/*Idenfy Camera OnBoarding View V2*/
+"idenfy_camera_onboarding_view_continue_button_title_v2" = "जारी रखें";
+"idenfy_camera_onboarding_view_continue_disabled_button_title_v2" = "**x** में जारी रखें …";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_1" = "सुनिश्चित करें कि आप उज्ज्वल वातावरण में हैं";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_2" = "संकेत मिलने पर «मैं तैयार हूं» पर क्लिक करें और निर्देशों का पालन करें";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_3" = "इस जांच को पूरा करने के लिए आपको कैमरे के करीब या दूर जाना होगा";
+
+/*Idenfy Camera Static OnBoarding View V2*/
+"idenfy_camera_static_onboarding_view_face_instructions_title" = "कृपया नीचे दिए गए निर्देशों का पालन करें:";
+"idenfy_camera_static_onboarding_view_instructions_title" = "सुनिश्चित करें कि आपके चयनित दस्तावेज़ की तस्वीर है:";
+"idenfy_camera_static_onboarding_view_instructions_description_part_1" = "स्पष्ट रूप से दिखाई दे रहा है और धुंधला नहीं है";
+"idenfy_camera_static_onboarding_view_instructions_description_part_2" = "अच्छी तरह से जलाया और छाया से ढका नहीं";
+"idenfy_camera_static_onboarding_view_instructions_description_part_3" = "प्रकाश/चमक के प्रतिबिंब द्वारा कवर नहीं किया गया";
+"idenfy_camera_static_onboarding_view_instructions_description_part_4" = "एक उंगली से अवरुद्ध नहीं है और सफेद फ्रेम में फिट बैठता है";
+"idenfy_camera_static_onboarding_view_instructions_description_part_5" = "एक मूल दस्तावेज़ और इसकी एक प्रति नहीं";
+
+/*Idenfy Document Camera Preview Session View V2*/
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2" = "पहचान पत्र के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2" = "पहचान पत्र के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2" = "दस्तावेज़ के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2" = "दस्तावेज़ के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2" = "निवास परमिट के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2" = "निवास परमिट के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2" = "पासपोर्ट कवर के सामने";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2" = "पासपोर्ट फेस पेज";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2" = "पते का प्रमाण";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2" = "पते का दूसरा प्रमाण";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_visa_title_v2" = "वीजा के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_visa_title_v2" = "वीजा के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_voter_card_title_v2" = "वोटर कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_voter_card_title_v2" = "वोटर कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_travel_card_title_v2" = "यात्रा कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_travel_card_title_v2" = "यात्रा कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_photo_card_title_v2" = "फोटो कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_photo_card_title_v2" = "फोटो कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_pan_card_title_v2" = "पैन कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_pan_card_title_v2" = "पैन कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_aadhaar_card_title_v2" = "आधार कार्ड के सामने";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_aadhaar_card_title_v2" = "आधार कार्ड के पीछे";
+"idenfy_document_camera_preview_session_view_information_description_v2" = "अपने दस्तावेज़ को फ़्रेम में रखें और एक स्पष्ट फ़ोटो लें";
+"idenfy_document_camera_preview_session_view_information_auto_capture_description_v2" = "अपने दस्तावेज़ को फ़्रेम में रखें और इसके स्कैन होने की प्रतीक्षा करें";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default" = "कृपया एक फ़ाइल प्रकार चुनें";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default" = "आप किस फ़ाइल प्रकार को अपलोड करना चाहेंगे?";
+"idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default" = "फ़ोटो";
+"idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default" = "पीडीएफ";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title" = "कैसे पहचानें?";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title" = "निर्देश छोड़ें";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_face_description" = "सुनिश्चित करें कि आपकी सेल्फ़ी स्पष्ट रूप से दिखाई दे रही है और सफ़ेद फ़्रेम में फ़िट होती है";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_1" = "सुनिश्चित करें कि प्रकाश स्रोत आपके सामने है न कि आपके पीछे";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_2" = "सुनिश्चित करें कि आपके चयनित दस्तावेज़ की तस्वीर है: स्पष्ट रूप से दिखाई देने वाली हो और धुंधली नहीं";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_3" = "सुनिश्चित करें कि आपके चयनित दस्तावेज़ का चित्र है: अच्छी तरह से प्रकाशित और किसी छाया से ढका हुआ नहीं";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_4" = "सुनिश्चित करें कि आपके चयनित दस्तावेज़ का चित्र है: प्रकाश/चकाचौंध के प्रतिबिंब द्वारा कवर नहीं किया गया है";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_5" = "सुनिश्चित करें कि आपके चयनित दस्तावेज़ की तस्वीर है: एक उंगली से अवरुद्ध नहीं है और सफेद फ्रेम में फिट बैठता है";
+
+/*Idenfy Document Camera Results View V2*/
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2" = "पहचान पत्र के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2" = "पहचान पत्र के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2" = "दस्तावेज़ के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2" = "दस्तावेज़ के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2" = "निवास परमिट के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2" = "निवास परमिट के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2" = "पासपोर्ट कवर के सामने";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2" = "पासपोर्ट फेस पेज";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2" = "पते का प्रमाण";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "पते का दूसरा प्रमाण";
+"idenfy_document_camera_results_view_information_step_front_document_type_visa_title_v2" = "वीजा के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_visa_title_v2" = "वीजा के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_voter_card_title_v2" = "वोटर कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_voter_card_title_v2" = "वोटर कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_travel_card_title_v2" = "यात्रा कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_travel_card_title_v2" = "यात्रा कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_photo_card_title_v2" = "फोटो कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_photo_card_title_v2" = "फोटो कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_pan_card_title_v2" = "पैन कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_pan_card_title_v2" = "पैन कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "आधार कार्ड के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "आधार कार्ड के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2" = "क्या आपका **पहचान पत्र के सामने** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2" = "क्या आपका **पहचान पत्र का पिछला भाग** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2" = "क्या आपका **दस्तावेज़ का अगला भाग** स्पष्ट रूप से दिखाई दे रहा है और फ़्रेम में है?";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2" = "क्या आपका **दस्तावेज़ का पिछला भाग** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2" = "क्या आपका **निवास परमिट के सामने** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2" = "क्या आपका **बैक ऑफ रेजिडेंस परमिट** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2" = "क्या आपका **चालक के लाइसेंस के सामने** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2" = "क्या आपका **ड्राइवर के लाइसेंस का पिछला भाग** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2" = "क्या आपका **पासपोर्ट के सामने का कवर** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2" = "क्या आपका **पते का प्रमाण** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2" = "क्या आपका **पते का दूसरा प्रमाण** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2" = "क्या आपका **पासपोर्ट फेस पेज** स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_description_part_1_v2" = "आपका";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2" = "पहचान पत्र के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2" = "पहचान पत्र के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2" = "दस्तावेज़ के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2" = "दस्तावेज़ के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2" = "निवास परमिट के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2" = "निवास परमिट के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2" = "ड्राइवर के लाइसेंस के सामने";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2" = "ड्राइवर के लाइसेंस के पीछे";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2" = "पासपोर्ट कवर के सामने";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2" = "पते का प्रमाण";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2" = "पते का दूसरा प्रमाण";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2" = "पासपोर्ट चेहरा पृष्ठ";
+"idenfy_document_camera_results_view_information_description_part_3_v2" = "स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में?";
+"idenfy_document_camera_results_view_details_first_title_v2_front" = "क्या आपके चेहरे की तस्वीर साफ दिख रही है?";
+"idenfy_document_camera_results_view_details_second_title_v2_front" = "क्या आप दस्तावेज़ के विवरण को स्पष्ट रूप से पढ़ सकते हैं?";
+"idenfy_document_camera_results_view_details_first_title_v2_back" = "क्या यह दस्तावेज़ का पिछला भाग है?";
+"idenfy_document_camera_results_view_details_second_title_v2_back" = "क्या आप दस्तावेज़ के विवरण को स्पष्ट रूप से पढ़ सकते हैं?";
+"idenfy_document_camera_results_view_details_title_v2_default" = "क्या आप दस्तावेज़ के विवरण को स्पष्ट रूप से पढ़ सकते हैं?";
+"idenfy_document_camera_results_view_details_pdf_title_v2_default" = "क्या आप वाकई इस फ़ाइल को अपलोड करना चाहते हैं?";
+
+/*Idenfy Face Camera Preview Session View V2*/
+"idenfy_face_camera_preview_session_description_v2" = "अपना चेहरा चिह्नित क्षेत्र में रखें और एक स्पष्ट फोटो लें";
+"idenfy_face_camera_preview_title_v2" = "अपना चेहरा फोटो लो";
+
+/*Idenfy Face Camera Results View V2*/
+"idenfy_face_camera_results_title_v2" = "चेहरे की फोटो की पुष्टि करें";
+"idenfy_face_camera_results_description_v2" = "क्या आपका चेहरा फोटो स्पष्ट रूप से दिखाई दे रहा है और फ्रेम में है?";
+"idenfy_document_camera_results_view_information_step_face_description_placeholder_v2" = "क्या आपकी **चेहरे की फ़ोटो** स्पष्ट रूप से दिखाई दे रही है और फ़्रेम में है?";
+"idenfy_face_camera_results_view_details_first_title_v2" = "क्या आपका चेहरा स्पष्ट रूप से दिखाई दे रहा है और निरीक्षण के लिए काफी करीब है?";
+
+/*Idenfy Document And Face Results View V2*/
+"idenfy_document_and_face_camera_results_title_v2" = "फोटो का निरीक्षण करें";
+"idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2" = "Powered by iDenfy";
+"idenfy_document_and_face_camera_results_button_retake_photo_title_v2" = "एक नई तस्वीर लें";
+"idenfy_document_and_face_camera_results_button_next_step_title_v2" = "हाँ, जारी रखें";
+
+/*Upload document photo V2*/
+"idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2" = "पहचान पत्र के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2" = "पहचान पत्र के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_other_title_v2" = "दस्तावेज़ के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_other_title_v2" = "दस्तावेज़ के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2" = "निवास परमिट के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2" = "निवास परमिट के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2" = "पासपोर्ट कवर के सामने";
+"idenfy_upload_results_view_information_step_front_document_type_passport_title_v2" = "पासपोर्ट फेस पेज";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2" = "पते का प्रमाण";
+"idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "पते का दूसरा प्रमाण";
+"idenfy_upload_results_view_information_step_front_document_type_visa_title_v2" = "वीजा के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_visa_title_v2" = "वीजा के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2" = "वोटर कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_voter_card_title_v2" = "वोटर कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_travel_card_title_v2" = "यात्रा कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_travel_card_title_v2" = "यात्रा कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_photo_card_title_v2" = "फोटो कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_photo_card_title_v2" = "फोटो कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_pan_card_title_v2" = "पैन कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_pan_card_title_v2" = "पैन कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "आधार कार्ड के सामने";
+"idenfy_upload_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "आधार कार्ड के पीछे";
+"idenfy_upload_results_view_information_step_face_title_v2" = "चेहरे की फोटो की पुष्टि करें";
+"idenfy_upload_results_view_cropping_description_v2" = "अपलोड की गई तस्वीर को चिह्नित क्षेत्र में संरेखित करें";
+"idenfy_upload_results_view_choose_another_photo_button_title_v2" = "कोई दूसरा चुनें";
+"idenfy_upload_results_view_document_continue_button_title_v2" = "जारी रखें";
+"idenfy_upload_results_view_pdf_size_alert_title_v2" = "अधिकतम फ़ाइल आकार पार हो गया";
+"idenfy_upload_results_view_pdf_size_alert_message_v2" = "कृपया एक फ़ाइल का चयन करें जिसका वैध आकार 5MB से अधिक न हो";
+"idenfy_upload_results_view_incorrect_mime_type_alert_title_v2" = "असमर्थित फ़ाइल प्रकार";
+"idenfy_upload_results_view_incorrect_mime_type_alert_message_v2" = "समर्थित फ़ाइल प्रकार:";
+"idenfy_upload_results_view_failed_to_upload_file_title_v2" = "अपलोड विफल";
+"idenfy_upload_results_view_failed_to_upload_file_description_v2" = "हम चयनित फ़ाइल अपलोड करने में सक्षम नहीं थे। कृपया पुन: प्रयास करें!";
+
+/*Idenfy Identification Results View V2*/
+"idenfy_identification_results_identification_status_loading_title_v2" = "आपके सत्यापन का विश्लेषण किया जा रहा है…";
+"idenfy_identification_results_identification_status_loading_description_v2" = "कृपया प्रतीक्षा करें जब तक हम आपके लिए चीजें सेट कर रहे हैं!";
+"idenfy_identification_results_identification_status_error_title_v2" = "सत्यापन असफल";
+"idenfy_identification_results_step_front_document_type_id_card_title_v2" = "पहचान पत्र के सामने";
+"idenfy_identification_results_step_back_document_type_id_card_title_v2" = "पहचान पत्र के पीछे";
+"idenfy_identification_results_step_passport_cover_title_v2" = "पासपोर्ट कवर के सामने";
+"idenfy_identification_results_step_proof_of_address_title_v2" = "पते का प्रमाण";
+"idenfy_identification_results_step_second_proof_of_address_title_v2" = "पते का दूसरा प्रमाण";
+"idenfy_identification_results_step_front_document_type_passport_title_v2" = "पासपोर्ट फेस पेज";
+"idenfy_identification_results_step_front_document_type_other_title_v2" = "दस्तावेज़ के सामने";
+"idenfy_identification_results_step_back_document_type_other_title_v2" = "दस्तावेज़ के पीछे";
+"idenfy_identification_results_step_front_document_type_residence_permit_title_v2" = "निवास परमिट के सामने";
+"idenfy_identification_results_step_back_document_type_residence_permit_title_v2" = "निवास परमिट के पीछे";
+"idenfy_identification_results_step_front_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के सामने";
+"idenfy_identification_results_step_back_document_type_driver_license_title_v2" = "ड्राइवर के लाइसेंस के पीछे";
+"idenfy_identification_results_step_front_document_type_visa_title_v2" = "वीजा के सामने";
+"idenfy_identification_results_step_back_document_type_visa_title_v2" = "वीजा के पीछे";
+"idenfy_identification_results_step_front_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_border_crossing_title_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के सामने";
+"idenfy_identification_results_step_back_document_type_asylum_title_v2" = "ऑस्ट्रियाई शरण निवास परमिट के पीछे";
+"idenfy_identification_results_step_front_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के सामने";
+"idenfy_identification_results_step_back_document_type_national_passport_title_v2" = "रूसी राष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_identification_results_step_front_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के सामने";
+"idenfy_identification_results_step_back_document_type_international_passport_title_v2" = "रूसी अंतरराष्ट्रीय पासपोर्ट के पीछे";
+"idenfy_identification_results_step_front_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के सामने";
+"idenfy_identification_results_step_back_document_type_provisional_driver_license_title_v2" = "ब्रिटेन के अनंतिम चालक लाइसेंस के पीछे";
+"idenfy_identification_results_step_front_document_type_voter_card_title_v2" = "वोटर कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_voter_card_title_v2" = "वोटर कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के सामने";
+"idenfy_identification_results_step_back_document_type_old_id_card_title_v2" = "पुराने पहचान पत्र के पीछे";
+"idenfy_identification_results_step_front_document_type_travel_card_title_v2" = "यात्रा कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_travel_card_title_v2" = "यात्रा कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_photo_card_title_v2" = "फोटो कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_photo_card_title_v2" = "फोटो कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_military_card_title_v2" = "सैन्य (अनुभवी) कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के सामने";
+"idenfy_identification_results_step_back_document_type_proof_of_age_card_title_v2" = "आयु कार्ड के प्रमाण के पीछे";
+"idenfy_identification_results_step_front_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के सामने";
+"idenfy_identification_results_step_back_document_type_diplomatic_id_card_title_v2" = "राजनयिक आईडी के पीछे";
+"idenfy_identification_results_step_front_document_type_pan_card_title_v2" = "पैन कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_pan_card_title_v2" = "पैन कार्ड के पीछे";
+"idenfy_identification_results_step_front_document_type_aadhaar_card_title_v2" = "आधार कार्ड के सामने";
+"idenfy_identification_results_step_back_document_type_aadhaar_card_title_v2" = "आधार कार्ड के पीछे";
+"idenfy_identification_results_step_face" = "चेहरा फोटो";
+"idenfy_identification_results_retake_button_title_v2" = "पुनः प्रयास करें";
+"idenfy_identification_results_error_continue_button_title_v2" = "जारी रखें";
+"idenfy_identification_results_mrz_not_found_dialog_title_v2" = "कृपया सुनिश्चित करें कि आपके दस्तावेज़ में मशीन-पठनीय क्षेत्र है";
+"idenfy_identification_results_mrz_not_found_dialog_description_v2" = "मशीन-पठनीय क्षेत्र (MRZ) में आमतौर पर प्रतीकों की 2 (पासपोर्ट) या 3 (आईडी कार्ड) पंक्तियाँ होती हैं। MRZ उदाहरण नीचे दी गई छवि में प्रस्तुत किया गया है, जिसे एक लाल आयत द्वारा चिह्नित किया गया है।";
+"idenfy_identification_results_mrz_not_found_back_button_title_v2" = "वापस जाओ";
+"idenfy_identification_results_mrz_not_found_continue_button_title_v2" = "मुझे यकीन है";
+"idenfy_identification_results_doc_not_found_dialog_description_part_1_v2" = "दस्तावेज़ नहीं मिला. दिखाना सुनिश्चित करें";
+"idenfy_identification_results_doc_not_found_dialog_description_part_3_v2" = "और दस्तावेज़ जारी करने वाला देश है";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2" = "पासपोर्ट";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2" = "परिचय पत्र";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2" = "निवास की अनुमति";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2" = "ड्राइवर का लाइसेंस";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2" = "दस्तावेज़";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_visa_v2" = "वीज़ा";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_border_crossing_v2" = "यूएसए बॉर्डर क्रॉसिंग कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_asylum_v2" = "ऑस्ट्रियाई शरण निवास परमिट";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_national_passport_v2" = "रूसी राष्ट्रीय पासपोर्ट";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_international_passport_v2" = "रूसी अंतर्राष्ट्रीय पासपोर्ट";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_provisional_driver_license_v2" = "यूके अनंतिम चालक लाइसेंस";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_voter_card_v2" = "वोटर कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_old_id_card_v2" = "पुराना पहचान पत्र";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_travel_card_v2" = "यात्रा कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_photo_card_v2" = "फोटो कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_military_card_v2" = "सैन्य (अनुभवी) कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_proof_of_age_card_v2" = "आयु कार्ड का प्रमाण";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_diplomatic_id_card_v2" = "राजनयिक आईडी";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_pan_card_title_v2" = "पैन कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_aadhaar_card_title_v2" = "आधार कार्ड";
+"idenfy_identification_results_doc_not_found_dialog_description_country_part_v2" = "सुनिश्चित करें कि आपका दस्तावेज़ जारी करने वाला देश है";
+
+/*Idenfy Identification Results Suspected View V2*/
+"idenfy_identification_results_suspected_view_title_v2" = "आपकी जानकारी प्रस्तुत हो गई है";
+"idenfy_identification_results_suspected_view_description_v2" = "यदि आपके कोई प्रश्न हैं, तो कृपया हमारी ग्राहक सहायता टीम से संपर्क करें";
+"idenfy_identification_results_suspected_view_email_v2" = "support@idenfy.com";
+"idenfy_identifiaction_results_suspected_view_continue_button_title_v2" = "जारी रखें";
+
+/*Idenfy Identification Results Success View V2*/
+"idenfy_identification_results_success_fragment_title_v2" = "सत्यापन स्वीकृत";
+"idenfy_identification_results_success_fragment_description_v2" = " ";
+"idenfy_identifiaction_results_success_fragment_identified_v2" = "सत्यापित";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting View V2*/
+"idenfy_manual_reviewing_status_waiting_view_information_title_v2" = "सत्यापन जमा किया गया";
+"idenfy_manual_reviewing_status_waiting_view_information_top_description_v2" = "आपके सत्यापन के लिए अतिरिक्त मैन्युअल समीक्षा की आवश्यकता है। समीक्षा कब पूरी होगी, इसकी सूचना आपको दी जाएगी।";
+"idenfy_manual_reviewing_status_waiting_view_information_description_v2" = "आपके परिणाम प्राप्त करने में आमतौर पर 1 से 5 मिनट लगते हैं";
+"idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2" = "वापस खाते में";
+"idenfy_manual_reviewing_status_waiting_view_identification_manual_completed_title_v2" = "अतिरिक्त डेटा समीक्षा";
+"idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2" = "स्वचालित एआई जांच पूरी हुई";
+"idenfy_manual_reviewing_status_waiting_view_time_left_title_v2" = "शेष समय";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting Stop Waiting Identification Alert V2*/
+"idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information" = "सत्यापन रद्द करें";
+"idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information" = "क्या आप सुनिश्चित हैं कि आप सत्यापन रद्द करना चाहते हैं?";
+"idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information" = "हां";
+"idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information" = "ना";
+
+/*Idenfy Manual Reviewing Identification Results Status Approved View V2*/
+"idenfy_manual_reviewing_status_approved_view_information_title_v2" = "आपका सत्यापन सफल रहा!";
+"idenfy_manual_reviewing_status_approved_view_information_description_v2" = "धन्यवाद";
+"idenfy_manual_reviewing_status_approved_view_continue_button_v2" = "जारी रखें";
+
+/*Idenfy Manual Reviewing Identification Results Status Failed View V2*/
+"idenfy_manual_reviewing_status_failed_view_information_title_v2" = "सत्यापन असफल";
+"idenfy_manual_reviewing_status_failed_view_information_description_v2" = "हम आपकी पहचान की पुष्टि नहीं कर सके";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_1_v2" = "कृपया संपर्क करें";
+"idenfy_manual_reviewing_status_failed_view_information_support_email_v2" = "support@idenfy.com";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_2_v2" = "आगे के समर्थन के लिए";
+"idenfy_manual_reviewing_status_failed_view_continue_button_v2" = "जारी रखें";
+
+/*Idenfy Camera Permission View V2*/
+"idenfy_camera_permissions_view_information_title_v2" = "क्या हम आपके कैमरे का उपयोग कर सकते हैं?";
+"idenfy_camera_permissions_view_information_description_v2" = "हमें आपके दस्तावेज़ और चेहरे की फ़ोटो लेने के लिए आपके कैमरे का उपयोग करने की आवश्यकता है";
+"idenfy_camera_permissions_view_guidance_information_description_v2" = "सेटिंग्स पर जाएं, कैमरे तक पहुंच प्रदान करने के लिए \"अनुमतियां\" पर टैप करें";
+"idenfy_camera_permissions_view_goto_settings_button_title_v2" = "कैमरा सक्षम करें";
+
+/*Idenfy NFC Reading View V2*/
+"idenfy_nfc_reading_view_information_alert_title_passport_v2" = "पासपोर्ट के मध्य भाग को फ़ोन के शीर्ष पर स्पर्श करें";
+"idenfy_nfc_reading_view_information_alert_title_id_card_v2" = "फ़ोन के शीर्ष पर आईडी कार्ड के मध्य को स्पर्श करें";
+"idenfy_nfc_reading_view_information_alert_title_document_v2" = "दस्तावेज़ के मध्य को फ़ोन के शीर्ष पर स्पर्श करें";
+"idenfy_nfc_reading_view_information_title_passport_v2" = "पासपोर्ट के मध्य भाग को फ़ोन के शीर्ष पर स्पर्श करें";
+"idenfy_nfc_reading_view_information_title_id_card_v2" = "फ़ोन के शीर्ष पर आईडी कार्ड के मध्य को स्पर्श करें";
+"idenfy_nfc_reading_view_information_title_document_v2" = "दस्तावेज़ के मध्य को फ़ोन के शीर्ष पर स्पर्श करें";
+"idenfy_nfc_reading_view_information_reading_data_document_title_v2" = "दस्तावेज़ डेटा पढ़ना…";
+"idenfy_nfc_reading_view_information_reading_data_document_image_v2" = "दस्तावेज़ छवि पढ़ रहा है…";
+"idenfy_nfc_reading_view_information_reading_finished_v2" = "पासपोर्ट पढ़ना समाप्त";
+"idenfy_nfc_reading_view_information_reading_continue_button_title_v2" = "जारी रखें";
+"idenfy_nfc_reading_view_information_reading_started_title_v2" = "एक क्षण प्रतीक्षा करें…";
+"idenfy_nfc_reading_view_information_reading_status_failed_v2" = "उफ़! कुछ गलत हो गया।";
+"idenfy_nfc_reading_view_information_reading_status_no_connecton_v2" = "कनेक्शन बाधित हुआ। कृपया फ़ोन को पास ले जाएँ!";
+
+/*Idenfy NFC Reading Time Out View V2*/
+"idenfy_nfc_reading_view_information_reading_time_out_title_v2" = "समय समाप्त";
+"idenfy_nfc_reading_view_information_reading_time_out_description_v2" = "एनएफसी पढ़ने का समय समाप्त हो गया";
+"idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2" = "जारी रखें";
+
+/*Idenfy NFC Required View V2*/
+"idenfy_nfc_required_view_information_title_v2" = "आपका उपकरण समर्थित नहीं है";
+"idenfy_nfc_required_view_information_description_v2" = "कृपया एनएफसी टैग रीडर वाले मोबाइल फोन का उपयोग करें";
+
+/*Idenfy Additional Support View V2*/
+"idenfy_additional_support_view_title" = "आपने सत्यापन प्रक्रिया रद्द कर दी है";
+"idenfy_additional_support_view_description" = "सत्यापन प्रक्रिया नहीं की गई थी। यदि आपके कोई प्रश्न हैं, तो कृपया हमारी ग्राहक सहायता टीम से संपर्क करें।";
+"idenfy_additional_support_view_email" = "support@idenfy.com";
+"idenfy_additional_support_view_button_title" = "वापस जाओ";
+
+/**Shared strings**/
+/*Idenfy Permissions*/
+"idenfy_permission_asks_to_provide_camera_permission_manually" = "अनुमतियाँ हाथ से प्रदान करें";
+
+/*Idenfy Error messages*/
+"IDENFY_FACE_LIVENESS_MESSAGE" = "कई बार जीवंतता जांच विफल रही";
+"IDENFY_SERVER_ERROR_MESSAGE" = "उफ़! कुछ गलत हो गया।";
+"IDENFY_TOKEN_NOT_VALID_MESSAGE" = "सत्र समाप्त हुआ!";
+"IDENFY_TOO_MANY_REATTEMPTS_MESSAGE" = "काफी सारे प्रयास!";
+"IDENFY_NFC_FAILED_MESSAGE" = "एनएफसी प्रमाणीकरण विफल!";
+
+/*Idenfy navigation*/
+"idenfy_common_title_navigation_back" = "पीछे";
+
+/*Idenfy Identification Results Additional Information*/
+"idenfy_identification_results_title_additional_info_uploading_front_document_photo" = "दस्तावेज़ की सामने की फ़ोटो अपलोड हो रही है…";
+"idenfy_identification_results_title_additional_info_uploading_back_document_photo" = "दस्तावेज़ की पिछली फ़ोटो अपलोड की जा रही है…";
+"idenfy_identification_results_title_additional_info_uploading_face_document_photo" = "दस्तावेज़ के चेहरे की फ़ोटो अपलोड हो रही है…";
+"idenfy_identification_results_title_additional_info_uploading_liveness_document_photo" = "जीवंतता जाँची जा रही है…";
+"idenfy_identification_results_title_additional_info_uploading_passport_cover_photo" = "पासपोर्ट कवर फ़ोटो अपलोड हो रही है…";
+"idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo" = "पते की फ़ोटो का प्रमाण अपलोड किया जा रहा है…";
+"idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo" = "पता फोटो का दूसरा प्रमाण अपलोड हो रहा है…";
+
+/*Idenfy Alerts*/
+
+/*Idenfy Internet Connection Alert*/
+"idenfy_internet_connection_lost_title" = "संपर्क मुद्दे। कृपया सुनिश्चित करें कि आपके पास स्थिर इंटरनेट कनेक्शन है";
+
+/*Manual Reviewing Alert*/
+"idenfy_alert_positive_button_manual_reviewing_information" = "आगे बढ़ना";
+"idenfy_alert_title_manual_reviewing_information" = "जानकारी";
+"idenfy_alert_message_manual_reviewing_information" = "चूंकि आपने आईडी कार्ड या पासपोर्ट के अलावा कोई अन्य दस्तावेज़ चुना है, इसलिए हमें आपके मामले की एक बार और समीक्षा करनी होगी।";
+
+/*Idenfy Liveness Failed Alert*/
+"idenfy_alert_positive_button_liveness_default_error" = "आगे बढ़ना";
+"idenfy_alert_title_liveness_default_error" = "जानकारी";
+"idenfy_alert_message_liveness_default_error" = "लाइवनेस जांच विफल रही, कृपया पुन: प्रयास करें।";
+"idenfy_alert_message_liveness_face_timeout_error" = "चेहरे की जीवंतता जाँच का समय समाप्त हो गया है। कृपया पुन: प्रयास करें।";
+
+/*Document Analysis Alert*/
+"idenfy_alert_positive_button_document_analysis_information" = "जारी रखना";
+"idenfy_alert_title_document_analysis_information" = "ओह नही!";
+"idenfy_alert_message_document_analysis_information" = "दस्तावेज़ प्रकार निर्धारित नहीं कर सका। कृपया अगले चरण में दस्तावेज़ प्रकार चुनें।";
+
+/*Abort Identification Alert*/
+"idenfy_alert_message_abort_identification_information" = "क्या आप सुनिश्चित हैं कि आप सत्यापन रद्द करना चाहते हैं?";
+"idenfy_alert_title_abort_identification_information" = "सत्यापन रद्द करें";
+"idenfy_alert_positive_button_abort_identification_information" = "हां";
+"idenfy_alert_negative_button_abort_identification_information" = "ना";
+
+/*Abort Restart Identification Alert*/
+"idenfy_alert_message_restart_identification_information" = "क्या आप वाकई फिर से शुरू करना चाहते हैं?";
+"idenfy_alert_title_restart_identification_information" = "प्रारंभ करें";
+"idenfy_alert_positive_button_restart_identification_information" = "हां";
+"idenfy_alert_negative_button_restart_identification_information" = "ना";
+
+/*Unknown Document Analysis Alert*/
+"idenfy_document_and_face_camera_results_document_analysis_title" = "विश्लेषण किया जा रहा है…";
+"idenfy_document_and_face_camera_results_document_analysis_description" = "एक क्षण प्रतीक्षा करें।";
+
+/**/
+
+/*Idenfy Instruction strings */
+
+/* Passport */
+"idenfy_instructions_passport_correct_title" = "अपना पासपोर्ट दिखाओ";
+"idenfy_instructions_passport_correct_text" = "सुनिश्चित करें कि आप सत्यापन के दौरान अपना पासपोर्ट दिखाते हैं न कि कोई अन्य दस्तावेज़।";
+
+"idenfy_instructions_passport_mrz_title" = "पासपोर्ट में MRZ एरिया होता है";
+"idenfy_instructions_passport_mrz_text" = "सुनिश्चित करें कि आपके दस्तावेज़ में MRZ (2 या 3 वर्ण पंक्तियाँ) हैं। यदि आपके दस्तावेज़ में MRZ ज़ोन नहीं है, तो दस्तावेज़ चयन विंडो में \“अन्य दस्तावेज़\” चुनें।";
+
+"idenfy_instructions_passport_fits_frame_title" = "पासपोर्ट सफेद फ्रेम में फिट होता है";
+"idenfy_instructions_passport_fits_frame_text" = "सुनिश्चित करें कि पासपोर्ट सफेद फ्रेम में फिट बैठता है और फ्रेम की सीमाओं से परे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_passport_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_passport_finger_text" = "दस्तावेज़ में अपना चेहरा या कोई अन्य जानकारी न ढकें।";
+
+"idenfy_instructions_passport_reflection_title" = "प्रकाश का कोई प्रतिबिंब नहीं होता है";
+"idenfy_instructions_passport_reflection_text" = "सुनिश्चित करें कि प्रकाश प्रतिबिंब या दस्तावेज़ होलोग्राम चेहरा या अन्य महत्वपूर्ण दस्तावेज़ जानकारी को कवर नहीं करता है।";
+
+/* ID-Card front */
+"idenfy_instructions_id_front_correct_title" = "अपना पहचान पत्र दिखाओ";
+"idenfy_instructions_id_front_correct_text" = "सत्यापन के समय पहचान पत्र दिखाना सुनिश्चित करें, अन्य दस्तावेज नहीं।";
+
+"idenfy_instructions_id_front_fit_frame_title" = "आईडी कार्ड सामने सफेद फ्रेम में फिट बैठता है";
+"idenfy_instructions_id_front_fit_frame_text" = "सुनिश्चित करें कि आईडी कार्ड का अगला भाग सफेद फ्रेम में फिट बैठता है और फ्रेम के किनारों से आगे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_id_front_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_id_front_finger_text" = "दस्तावेज़ में अपना चेहरा या कोई अन्य जानकारी न ढकें।";
+
+"idenfy_instructions_id_front_reflection_title" = "प्रकाश का कोई प्रतिबिंब नहीं होना चाहिए";
+"idenfy_instructions_id_front_reflection_text" = "सुनिश्चित करें कि प्रकाश प्रतिबिंब या दस्तावेज़ होलोग्राम चेहरा या अन्य महत्वपूर्ण दस्तावेज़ जानकारी को कवर नहीं करता है।";
+
+/* ID-Card back */
+"idenfy_instructions_id_back_correct_title" = "अपना पहचान पत्र वापस दिखाओ";
+"idenfy_instructions_id_back_correct_text" = "सुनिश्चित करें कि आप आईडी कार्ड के पीछे दिखा रहे हैं।";
+
+"idenfy_instructions_id_back_mrz_title" = "दस्तावेज़ में MRZ क्षेत्र है";
+"idenfy_instructions_id_back_mrz_text" = "सुनिश्चित करें कि आपके दस्तावेज़ में MRZ (2 या 3 वर्ण पंक्तियाँ) हैं। यदि आपके दस्तावेज़ में MRZ ज़ोन नहीं है, तो दस्तावेज़ चयन विंडो में \“अन्य दस्तावेज़\” चुनें।";
+
+"idenfy_instructions_id_back_fit_frame_title" = "आईडी कार्ड का पिछला हिस्सा सफेद फ्रेम में फिट होता है";
+"idenfy_instructions_id_back_fit_frame_text" = "सुनिश्चित करें कि आईडी कार्ड का पिछला हिस्सा सफेद फ्रेम में फिट बैठता है और फ्रेम के किनारों से आगे नहीं जाता है। साथ ही, सुनिश्चित करें कि आप जो दस्तावेज़ प्रदर्शित कर रहे हैं वह धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_id_back_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_id_back_finger_text" = "दस्तावेज़ में दी गई जानकारी को अपनी उँगली से न ढकें।";
+
+/* Residence-permit front */
+"idenfy_instructions_residence_permit_front_correct_title" = "अपना निवास परमिट दिखाएं";
+"idenfy_instructions_residence_permit_front_correct_text" = "सुनिश्चित करें कि आपने सत्यापन के समय निवास परमिट दिखाया है, अन्य दस्तावेज़ नहीं।";
+
+"idenfy_instructions_residence_permit_front_fit_frame_title" = "निवास परमिट का फ्रंट सफेद फ्रेम में फिट होता है";
+"idenfy_instructions_residence_permit_front_fit_frame_text" = "सुनिश्चित करें कि निवास परमिट का अगला हिस्सा सफेद फ्रेम में फिट बैठता है और फ्रेम के किनारों से आगे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_residence_permit_front_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_residence_permit_front_finger_text" = "दस्तावेज़ में अपना चेहरा या कोई अन्य जानकारी न ढकें।";
+
+"idenfy_instructions_residence_permit_front_reflection_title" = "प्रकाश का कोई प्रतिबिंब नहीं होता है";
+"idenfy_instructions_residence_permit_front_reflection_text" = "सुनिश्चित करें कि प्रकाश प्रतिबिंब या दस्तावेज़ होलोग्राम चेहरा या अन्य महत्वपूर्ण दस्तावेज़ जानकारी को कवर नहीं करता है।";
+
+/* Residence-permit back */
+"idenfy_instructions_residence_permit_back_correct_title" = "अपने निवास परमिट के पीछे दिखाएँ";
+"idenfy_instructions_residence_permit_back_correct_text" = "सुनिश्चित करें कि आप निवास परमिट का पिछला हिस्सा दिखा रहे हैं।";
+
+"idenfy_instructions_residence_permit_back_mrz_title" = "दस्तावेज़ में MRZ क्षेत्र है";
+"idenfy_instructions_residence_permit_back_mrz_text" = "सुनिश्चित करें कि आपके दस्तावेज़ में MRZ (2 या 3 वर्ण पंक्तियाँ) हैं। यदि आपके दस्तावेज़ में MRZ ज़ोन नहीं है, तो दस्तावेज़ चयन विंडो में \“अन्य दस्तावेज़\” चुनें।";
+
+"idenfy_instructions_residence_permit_back_fit_frame_title" = "निवास परमिट का पिछला हिस्सा सफेद फ्रेम में फिट होता है";
+"idenfy_instructions_residence_permit_back_fit_frame_text" = "सुनिश्चित करें कि निवास परमिट का पिछला हिस्सा सफेद फ्रेम में फिट बैठता है और फ्रेम के किनारों से आगे नहीं जाता है। साथ ही, सुनिश्चित करें कि आप जो दस्तावेज़ प्रदर्शित कर रहे हैं वह धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_residence_permit_back_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_residence_permit_back_finger_text" = "दस्तावेज़ में दी गई जानकारी को अपनी उँगली से न ढकें।";
+
+/* Driver-license front */
+"idenfy_instructions_driver_license_front_correct_title" = "अपना ड्राइविंग लाइसेंस दिखाओ";
+"idenfy_instructions_driver_license_front_correct_text" = "सुनिश्चित करें कि आप सत्यापन के समय ड्राइवर का लाइसेंस दिखाते हैं, अन्य दस्तावेज़ नहीं।";
+
+"idenfy_instructions_driver_license_front_fit_frame_title" = "ड्राइविंग लाइसेंस का फ्रंट सफेद फ्रेम में फिट होता है";
+"idenfy_instructions_driver_license_front_fit_frame_text" = "सुनिश्चित करें कि ड्राइविंग लाइसेंस का अगला भाग सफेद फ्रेम में फिट बैठता है और फ्रेम के किनारों से आगे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_driver_license_front_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_driver_license_front_finger_text" = "दस्तावेज़ में अपना चेहरा या कोई अन्य जानकारी न ढकें।";
+
+"idenfy_instructions_driver_license_front_reflection_title" = "प्रकाश का कोई प्रतिबिंब न हो";
+"idenfy_instructions_driver_license_front_reflection_text" = "सुनिश्चित करें कि प्रकाश प्रतिबिंब या दस्तावेज़ होलोग्राम चेहरा या अन्य महत्वपूर्ण दस्तावेज़ जानकारी को कवर नहीं करता है।";
+
+/* Other documents front */
+"idenfy_instructions_other_front_mrz_title" = "अपना वह दस्तावेज़ दिखाएँ जिसमें MRZ नहीं है";
+"idenfy_instructions_other_front_mrz_text" = "सुनिश्चित करें कि आपने वह दस्तावेज़ दिखाया है जिसमें MRZ नहीं है।";
+
+"idenfy_instructions_other_front_fit_frame_title" = "दस्तावेज़ का अगला भाग सफ़ेद फ़्रेम में फ़िट होता है";
+"idenfy_instructions_other_front_fit_frame_text" = "सुनिश्चित करें कि दस्तावेज़ का अगला भाग सफ़ेद फ़्रेम में फिट बैठता है और फ़्रेम के किनारों से आगे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_other_front_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_other_front_finger_text" = "दस्तावेज़ में अपना चेहरा या कोई अन्य जानकारी न ढकें।";
+
+"idenfy_instructions_other_front_reflection_title" = "प्रकाश का कोई प्रतिबिंब न हो";
+"idenfy_instructions_other_front_reflection_text" = "सुनिश्चित करें कि प्रकाश प्रतिबिंब या दस्तावेज़ होलोग्राम चेहरा या अन्य महत्वपूर्ण दस्तावेज़ जानकारी को कवर नहीं करता है।";
+
+/* Other documents back */
+"idenfy_instructions_other_back_fit_frame_title" = "दस्तावेज़ का पिछला भाग सफ़ेद फ़्रेम में फ़िट होता है";
+"idenfy_instructions_other_back_fit_frame_text" = "सुनिश्चित करें कि दस्तावेज़ का पिछला भाग सफ़ेद फ़्रेम में फिट बैठता है और फ़्रेम के किनारों से आगे नहीं जाता है, और दिखाया गया दस्तावेज़ धुंधला नहीं है और स्पष्ट रूप से पढ़ने योग्य है।";
+
+"idenfy_instructions_other_back_finger_title" = "उंगली दस्तावेज़ को कवर नहीं करती है";
+"idenfy_instructions_other_back_finger_text" = "दस्तावेज़ में दी गई जानकारी को अपनी उँगली से न ढकें।";
+
+/* Face camera */
+"idenfy_instructions_face_fit_frame_title" = "चेहरा सफेद फ्रेम में फिट बैठता है";
+"idenfy_instructions_face_fit_frame_text" = "सुनिश्चित करें कि आपका चेहरा सफेद फ्रेम में फिट बैठता है।";
+
+"idenfy_instructions_face_one_face_title" = "एक ही चेहरा नजर आ रहा है";
+"idenfy_instructions_face_one_face_text" = "सुनिश्चित करें कि तस्वीर में कोई अन्य चेहरा दिखाई नहीं दे रहा है।";
+
+"idenfy_instructions_face_shadow_title" = "चेहरा छाया से ढका नहीं है";
+"idenfy_instructions_face_shadow_text" = "सुनिश्चित करें कि आपका चेहरा अच्छी तरह से रोशन है और उस पर कोई छाया नहीं है।";
+
+"idenfy_instructions_face_zoom_title" = "चेहरा फ्रेम में फिट बैठता है";
+"idenfy_instructions_face_zoom_text" = "सुनिश्चित करें कि आपका चेहरा फ्रेम में फिट बैठता है। सेल्फी लेने के बाद अपने चेहरे को और करीब ले जाएं।";
+
+/**/
+///*System specific*///
+/* <!--Camera Permission Not Enabled Alert--> */
+"idenfy_alert_title_camera_permission_not_enabled" = "कैमरा एक्सेस करने में असमर्थ";
+"idenfy_alert_message_camera_permission_not_enabled" = "एक्सेस सक्षम करने के लिए, सेटिंग > गोपनीयता > कैमरा पर जाएं और इस ऐप के लिए कैमरा एक्सेस चालू करें.";
+"idenfy_alert_positive_button_camera_permission_not_enabled" = "ठीक है";
+
+/*Face Authentication Initial View V2*/
+"idenfy_face_authentication_initial_view_failed_title_part_1" = "आपके पास";
+"idenfy_face_authentication_initial_view_failed_title_part_2" = "3";
+"idenfy_face_authentication_initial_view_failed_title_part_3" = "स्वयं को प्रमाणित करने का प्रयास करता है!";
+"idenfy_face_authentication_initial_view_failed_title_placeholder" = "आपके पास स्वयं को प्रमाणित करने के **3** प्रयास हैं!";
+"idenfy_face_authentication_initial_view_button_title" = "जारी रखें";
+"idenfy_face_authentication_initial_view_alert_message" = "चेहरा सत्यापन विफल!";
+
+/*Face Authentication Results V2*/
+"idenfy_face_authentication_results_success_title" = "सफल प्रमाणीकरण";
+"idenfy_face_authentication_results_success_description" = "आपको सफलतापूर्वक प्रमाणित कर दिया गया है!";
+"idenfy_face_authentication_results_final_failed_title" = "चेहरा सत्यापन सफल नहीं हुआ।";
+"idenfy_face_authentication_results_final_failed_description" = "स्क्रीन पर बताए गए चरणों का पालन करें और एक अच्छी तरह से प्रकाशित वातावरण सुनिश्चित करें। इनसे बचने का प्रयास करें: फ़ोटो में धुंधलापन, छाया, चकाचौंध, उंगलियाँ या अन्य वस्तुएँ।";
+"idenfy_face_authentication_results_failed_description" = "चेहरा सत्यापन सफल नहीं हुआ। स्क्रीन पर बताए गए चरणों का पालन करें और एक अच्छी तरह से प्रकाशित वातावरण सुनिश्चित करें। इनसे बचने का प्रयास करें: फ़ोटो में धुंधलापन, छाया, चकाचौंध, उंगलियाँ या अन्य वस्तुएँ।";
+"idenfy_face_authentication_results_button_title" = "जारी रखें";
+
+/* Face Authentication Exit Alert*/
+"idenfy_face_authentication_exit_alert_title" = "प्रमाणीकरण रद्द करें";
+"idenfy_face_authentication_exit_alert_description" = "क्या आप वाकई चेहरे का प्रमाणीकरण रद्द करना चाहते हैं?";

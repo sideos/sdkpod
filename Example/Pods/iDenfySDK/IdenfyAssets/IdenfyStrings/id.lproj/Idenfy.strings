@@ -1,0 +1,720 @@
+/**V2**/
+/*Idenfy Splash Screen V2*/
+"idenfy_splash_screen_title_v2" = "Quick and reliable identity verification";
+
+/*Idenfy Privacy Policy View V2*/
+"idenfy_privacy_policy_title_v2" = "Kebijakan privasi";
+"idenfy_privacy_policy_agree_button_title_v2" = "SETUJU";
+"idenfy_privacy_policy_disagree_button_title_v2" = "TIDAK SETUJU";
+"idenfy_privacy_policy_alert_title_v2" = "INFORMASI";
+"idenfy_privacy_policy_alert_description_v2" = "Untuk melanjutkan proses, Anda harus menyetujui aturan. Jika Anda tidak setuju, batalkan proses verifikasi atau tutup jendela.";
+"idenfy_privacy_policy_alert_agree_button_title_v2" = "SAYA INGIN MENYETUJUI";
+"idenfy_privacy_policy_alert_cancel_button_title_v2" = "BATALKAN VERIFIKASI";
+
+/*Idenfy Questionnaire View V2*/
+"idenfy_questionnaire_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_questionnaire_email_error_message_v2" = "Mohon masukkan email yang valid!";
+"idenfy_questionnaire_url_error_message_v2" = "Mohon masukkan alamat situs web yang valid!";
+"idenfy_questionnaire_tel_error_message_v2" = "Mohon masukkan nomor telepon yang valid!";
+
+/*Idenfy Provider Selection View V2*/
+"idenfy_provider_selection_common_information_title_v2" = "Mohon pilih penyedia Anda";
+"idenfy_provider_selection_common_information_description_v2" = "Mohon pilih penyedia tagihan utilitas Anda dari daftar di bawah ini";
+"idenfy_provider_selection_search_bar_hint_title_v2" = "Cari penyedia…";
+
+/*Idenfy Provider Login View V2*/
+"idenfy_provider_login_view_common_information_title_v2" = "Hubungkan akun Anda";
+"idenfy_provider_login_view_common_information_description_v2" = "Masukkan informasi login untuk akun utilitas online Anda";
+"idenfy_provider_login_view_username_hint_title_v2" = "Nama pengguna";
+"idenfy_provider_login_view_password_hint_title_v2" = "Kata sandi";
+"idenfy_provider_login_view_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_provider_login_view_login_retry_title_v2" = "Kredensial tidak valid";
+"idenfy_provider_login_view_login_retry_description_v2" = "Mohon masukkan kredensial yang valid dan coba lagi!";
+"idenfy_provider_login_view_login_failed_title_v2" = "Login gagal";
+"idenfy_provider_login_view_login_failed_description_v2" = "Kami tidak bisa memasukkan Anda…";
+
+/*Idenfy MFA Method Selection View V2*/
+"idenfy_mfa_method_selection_view_title_v2" = "Verifikasi akun";
+"idenfy_mfa_method_selection_view_description_v2" = "Mohon pilih metode otentikasi yang Anda mau dari opsi di bawah ini";
+"idenfy_mfa_method_selection_view_mfa_hint_title_v2" = "Metode Otentikasi";
+"idenfy_mfa_method_selection_view_mfa_method_code_title_v2" = "Kata sandi satu kali";
+"idenfy_mfa_method_selection_view_mfa_method_security_question_title_v2" = "Pertanyaan dan jawaban keamanan";
+"idenfy_mfa_method_selection_view_continue_button_title_v2" = "LANJUTKAN";
+
+/*Idenfy MFA Captcha Method View V2*/
+"idenfy_mfa_captcha_method_title_v2" = "Otentikasi diri Anda";
+"idenfy_mfa_captcha_method_description_v2" = "Mohon masukkan kode captcha yang Anda lihat di gambar bawah ini";
+"idenfy_mfa_captcha_method_code_hint_v2" = "Kode captcha";
+"idenfy_mfa_captcha_method_continue_button_title_v2" = "LANJUTKAN";
+
+/*Idenfy MFA General View V2*/
+"idenfy_mfa_code_method_title_v2" = "Otentikasi diri Anda";
+"idenfy_mfa_code_method_description_v2" = "Mohon masukkan kode yang telah Anda terima di handphone Anda atau melalui email";
+"idenfy_mfa_code_method_code_hint_v2" = "Kode otentikasi";
+"idenfy_mfa_question_method_title_v2" = "Mohon jawab pertanyaan yang diberikan di bawah ini";
+"idenfy_mfa_question_method_answer_hint_v2" = "Jawaban Anda";
+"idenfy_mfa_notification_method_title_v2" = "Mohon verifikasi akses melalui aplikasi penyedia Anda";
+"idenfy_mfa_notification_method_description_v2" = "Saat Anda selesai, tekan tombol lanjutkan";
+"idenfy_mfa_pass_code_method_title_v2" = "Otentikasi diri Anda";
+"idenfy_mfa_pass_code_method_description_v2" = "Mohon masukkan kode yang telah Anda atur dengan penyedia utilitas Anda";
+"idenfy_mfa_pass_code_method_code_hint_v2" = "Kode pas";
+"idenfy_mfa_general_view_continue_button_title_v2" = "LANJUTKAN";
+
+/*Idenfy Start Identification Predefined View V2*/
+"idenfy_start_identification_predefined_view_information_title_v2" = "Mulai verifikasi identitas";
+"idenfy_start_identification_predefined_view_information_description_v2" = "Negara pengeluaran dokumen";
+"idenfy_start_identification_predefined_view_begin_identification_button_v2" = "Ayo mulai";
+
+/*Idenfy Country Selection View V2*/
+"idenfy_country_selection_view_information_title_v2" = "Pilih negara pengeluaran";
+"idenfy_country_selection_view_information_description_v2" = "Mohon pilih negara di mana dokumen Anda dikeluarkan";
+"idenfy_country_selection_view_searchbar_hint_v2" = "Cari negara dokumen…";
+
+/*Idenfy Language Selection View V2*/
+"idenfy_language_selection_view_information_title_v2" = "Pilih bahasa";
+
+/*Idenfy Documents Selection View V2*/
+"idenfy_documents_selection_view_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_documents_selection_view_information_title_v2" = "Pilih dokumen";
+"idenfy_documents_selection_view_information_description_v2" = "Jenis dokumen apa yang ingin Anda identifikasi?";
+"idenfy_documents_selection_view_list_item_document_type_passport_title_v2" = "Paspor";
+"idenfy_documents_selection_view_list_item_document_type_id_card_title_v2" = "Kartu Identitas";
+"idenfy_documents_selection_view_list_item_document_type_other_title_v2" = "Lainnya";
+"idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2" = "SIM";
+"idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2" = "Izin Tinggal";
+"idenfy_documents_selection_view_list_item_document_type_visa_title_v2" = "Visa";
+"idenfy_documents_selection_view_list_item_document_type_border_crossing_title_v2" = "Kartu Penyeberangan Perbatasan AS";
+"idenfy_documents_selection_view_list_item_document_type_asylum_title_v2" = "Izin Tinggal Suaka Austria";
+"idenfy_documents_selection_view_list_item_document_type_national_passport_title_v2" = "Paspor Nasional Rusia";
+"idenfy_documents_selection_view_list_item_document_type_international_passport_title_v2" = "Paspor Internasional Rusia";
+"idenfy_documents_selection_view_list_item_document_type_provisional_driver_license_title_v2" = "Surat Izin Mengemudi Sementara Inggris";
+"idenfy_documents_selection_view_list_item_document_type_voter_card_title_v2" = "Kartu Pemilih";
+"idenfy_documents_selection_view_list_item_document_type_old_id_card_title_v2" = "KTP Lama";
+"idenfy_documents_selection_view_list_item_document_type_travel_card_title_v2" = "Kartu Perjalanan";
+"idenfy_documents_selection_view_list_item_document_type_photo_card_title_v2" = "Kartu Foto";
+"idenfy_documents_selection_view_list_item_document_type_military_card_title_v2" = "Kartu Militer (Veteran)";
+"idenfy_documents_selection_view_list_item_document_type_proof_of_age_card_title_v2" = "Kartu Bukti Usia";
+"idenfy_documents_selection_view_list_item_document_type_diplomatic_id_card_title_v2" = "ID Diplomat";
+"idenfy_documents_selection_view_list_item_document_type_pan_card_title_v2" = "Kartu PAN";
+"idenfy_documents_selection_view_list_item_document_type_aadhaar_card_title_v2" = "Kartu aadhaar";
+
+/*Idenfy Confirmation View V2*/
+"idenfy_confirmation_view_information_title_v2" = "Konfirmasi jenis dokumen";
+"idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2" = "Mohon siapkan **kartu identitas** Anda untuk diidentifikasi";
+"idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2" = "Mohon siapkan **paspor** Anda untuk diidentifikasi";
+"idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2" = "Mohon siapkan **izin tinggal** Anda untuk diidentifikasi";
+"idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2" = "Mohon siapkan **SIM** Anda untuk diidentifikasi";
+"idenfy_confirmation_view_information_description_type_other_placeholder_v2" = "Mohon siapkan **dokumen** Anda untuk diidentifikasi";
+"idenfy_confirmation_view_information_description_part_1_v2" = "Mohon siapkan";
+"idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2" = "kartu identitas";
+"idenfy_confirmation_view_information_document_type_passport_description_part_2_v2" = "paspor";
+"idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2" = "izin tinggal";
+"idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2" = "SIM";
+"idenfy_confirmation_view_information_document_type_other_description_part_2_v2" = "dokumen";
+"idenfy_confirmation_view_information_document_type_visa_description_part_2_v2" = "visa";
+"idenfy_confirmation_view_information_document_type_border_crossing_description_part_2_v2" = "Kartu penyeberangan perbatasan AS";
+"idenfy_confirmation_view_information_document_type_asylum_description_part_2_v2" = "izin tinggal suaka Austria";
+"idenfy_confirmation_view_information_document_type_national_passport_description_part_2_v2" = "paspor nasional Rusia";
+"idenfy_confirmation_view_information_document_type_international_passport_description_part_2_v2" = "paspor internasional Rusia";
+"idenfy_confirmation_view_information_document_type_provisional_driver_license_description_part_2_v2" = "surat izin mengemudi sementara Inggris";
+"idenfy_confirmation_view_information_document_type_voter_card_description_part_2_v2" = "kartu pemilih";
+"idenfy_confirmation_view_information_document_old_id_card_description_part_2_v2" = "KTP lama";
+"idenfy_confirmation_view_information_document_travel_card_description_part_2_v2" = "kartu perjalanan";
+"idenfy_confirmation_view_information_document_photo_card_description_part_2_v2" = "kartu foto";
+"idenfy_confirmation_view_information_document_military_card_description_part_2_v2" = "kartu militer (veteran)";
+"idenfy_confirmation_view_information_proof_of_age_card_description_part_2_v2" = "kartu bukti usia";
+"idenfy_confirmation_view_information_diplomatic_id_card_description_part_2_v2" = "ID diplomat";
+"idenfy_confirmation_view_information_pan_card_description_part_2_v2" = "kartu PAN";
+"idenfy_confirmation_view_information_aadhaar_card_description_part_2_v2" = "kartu aadhaar";
+"idenfy_confirmation_view_information_description_part_3_v2" = "siap mengidentifikasi";
+"idenfy_confirmation_view_document_steps_title_part_placeholder_v2" = "Verifikasi akan berjalan dalam **5** langkah:";
+"idenfy_confirmation_view_document_steps_title_part_1_v2" = "Verifikasi akan berjalan";
+"idenfy_confirmation_view_document_steps_title_part_2_v2" = "5";
+"idenfy_confirmation_view_document_steps_title_part_3_v2" = "langkah:";
+"idenfy_confirmation_view_document_steps_step_front_title_v2" = "Foto dokumen bagian depan";
+"idenfy_confirmation_view_document_steps_step_back_title_v2" = "Foto dokumen bagian belakang";
+"idenfy_confirmation_view_document_steps_step_face_title_v2" = "Foto wajah";
+"idenfy_confirmation_view_document_steps_step_liveliness_title_v2" = "Pemeriksaan kehidupan";
+"idenfy_confirmation_view_document_steps_step_passport_cover_title_v2" = "Foto sampul paspor";
+"idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2" = "Bukti foto dokumen alamat";
+"idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2" = "Bukti kedua foto dokumen alamat";
+"idenfy_confirmation_view_upload_image_title_v2" = "Anda bisa mengunggah foto di setiap langkah";
+"idenfy_confirmation_view_begin_identification_title_v2" = "LANJUTKAN";
+
+/*Idenfy Camera OnBoarding View V2*/
+"idenfy_camera_onboarding_view_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_camera_onboarding_view_continue_disabled_button_title_v2" = "LANJUTKAN DALAM **x** …";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_1" = "Pastikan Anda berada di tempat yang terang";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_2" = "Klik «Saya Siap» saat diminta dan ikuti instruksinya";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_3" = "Anda akan perlu mendekat atau menjauh dari kamera untuk menyelesaikan pemeriksaan ini";
+
+/*Idenfy Camera Static OnBoarding View V2*/
+"idenfy_camera_static_onboarding_view_face_instructions_title" = "Mohon ikuti instruksi di bawah ini:";
+"idenfy_camera_static_onboarding_view_instructions_title" = "Pastikan gambar dokumen yang Anda pilih:";
+"idenfy_camera_static_onboarding_view_instructions_description_part_1" = "Terlihat jelas dan TIDAK Buram";
+"idenfy_camera_static_onboarding_view_instructions_description_part_2" = "Terang dan tidak Tertutupi bayangan";
+"idenfy_camera_static_onboarding_view_instructions_description_part_3" = "Tidak tertutupi oleh bayangan cahaya/silau";
+"idenfy_camera_static_onboarding_view_instructions_description_part_4" = "Tidak terhalang oleh jari dan pas dengan bingkai putih";
+"idenfy_camera_static_onboarding_view_instructions_description_part_5" = "Dokumen asli dan bukan salinan";
+
+/*Idenfy Document Camera Preview Session View V2*/
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2" = "Bagian depan kartu identitas";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2" = "Bagian belakang kartu identitas";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2" = "Bagian depan dokumen";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2" = "Bagian belakang dokumen";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2" = "Bagian depan izin tinggal";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2" = "Bagian belakang izin tinggal";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2" = "Bagian depan SIM";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2" = "Bagian belakang SIM";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2" = "Bagian depan sampul paspor";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2" = "Halaman wajah paspor";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2" = "Bukti alamat";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Bukti kedua alamat";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_visa_title_v2" = "Bagian depan visa";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_visa_title_v2" = "Bagian belakang visa";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_border_crossing_title_v2" = "Bagian depan kartu penyeberangan perbatasan AS";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_border_crossing_title_v2" = "Bagian belakang kartu penyeberangan perbatasan AS";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_asylum_title_v2" = "Bagian depan izin tinggal Suaka Austria";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_asylum_title_v2" = "Bagian belakang izin tinggal Suaka Austria";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_national_passport_title_v2" = "Bagian depan paspor nasional Rusia";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_national_passport_title_v2" = "Bagian belakang paspor nasional Rusia";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_international_passport_title_v2" = "Bagian depan paspor internasional Rusia";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_international_passport_title_v2" = "Bagian belakang paspor internasional Rusia";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Bagian depan izin mengemudi sementara Inggris";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Bagian belakang izin mengemudi sementara Inggris";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_voter_card_title_v2" = "Bagian depan kartu pemilih";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_voter_card_title_v2" = "Bagian belakang kartu pemilih";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_old_id_card_title_v2" = "Bagian depan KTP lama";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_old_id_card_title_v2" = "Bagian belakang KTP lama";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_travel_card_title_v2" = "Bagian depan kartu perjalanan";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_travel_card_title_v2" = "Bagian belakang kartu perjalanan";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_photo_card_title_v2" = "Bagian depan kartu foto";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_photo_card_title_v2" = "Bagian belakang kartu foto";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_military_card_title_v2" = "Bagian depan kartu militer (veteran)";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_military_card_title_v2" = "Bagian belakang kartu militer (veteran)";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Bagian depan kartu bukti usia";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Bagian belakang kartu bukti usia";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Bagian depan ID diplomatik";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Bagian belakang ID diplomatik";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_pan_card_title_v2" = "Bagian depan kartu PAN";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_pan_card_title_v2" = "Bagian belakang kartu PAN";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_aadhaar_card_title_v2" = "Bagian depan kartu aadhaar";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_aadhaar_card_title_v2" = "Bagian belakang kartu aadhaar";
+"idenfy_document_camera_preview_session_view_information_description_v2" = "Tempatkan dokumen Anda ke dalam bingkai dan ambil foto yang jelas";
+"idenfy_document_camera_preview_session_view_information_auto_capture_description_v2" = "Tempatkan dokumen Anda ke dalam bingkai dan tunggu hingga dipindai";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default" = "Silakan pilih jenis file";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default" = "Jenis file apa yang ingin Anda unggah?";
+"idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default" = "Foto";
+"idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default" = "PDF";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title" = "Bagaimana cara mengidentifikasi?";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title" = "SKIP INSTRUKSI";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_face_description" = "Pastikan selfie Anda terlihat jelas dan pas dengan bingkai putih";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_1" = "Pastikan sumber cahaya ada di depan dan bukan di belakang Anda";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_2" = "Pastikan gambar dokumen yang Anda pilih: Terlihat jelas dan TIDAK Buram";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_3" = "Pastikan gambar dokumen yang Anda pilih: Cukup terang dan tidak tertutup bayangan";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_4" = "Pastikan gambar dokumen yang Anda pilih: Tidak tertutup oleh pantulan cahaya/silau";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_5" = "Pastikan gambar dokumen yang Anda pilih: Tidak terhalang oleh jari dan pas dengan bingkai putih";
+
+/*Idenfy Document Camera Results View V2*/
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2" = "Bagian depan kartu identitas";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2" = "Bagian belakang kartu identitas";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2" = "Bagian depan dokumen";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2" = "Bagian belakang dokumen";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2" = "Bagian depan izin tinggal";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2" = "Bagian belakang izin tinggal";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2" = "Bagian depan SIM";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2" = "Bagian belakang SIM";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2" = "Bagian depan sampul paspor";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2" = "Halaman wajah paspor";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Bukti alamat";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Bukti alamat kedua";
+"idenfy_document_camera_results_view_information_step_front_document_type_visa_title_v2" = "Bagian depan visa";
+"idenfy_document_camera_results_view_information_step_back_document_type_visa_title_v2" = "Bagian belakang visa";
+"idenfy_document_camera_results_view_information_step_front_document_type_border_crossing_title_v2" = "Bagian depan kartu penyeberangan perbatasan AS";
+"idenfy_document_camera_results_view_information_step_back_document_type_border_crossing_title_v2" = "Bagian belakang kartu penyeberangan perbatasan AS";
+"idenfy_document_camera_results_view_information_step_front_document_type_asylum_title_v2" = "Bagian depan izin tinggal Suaka Austria";
+"idenfy_document_camera_results_view_information_step_back_document_type_asylum_title_v2" = "Bagian belakang izin tinggal Suaka Austria";
+"idenfy_document_camera_results_view_information_step_front_document_type_national_passport_title_v2" = "Bagian depan paspor nasional Rusia";
+"idenfy_document_camera_results_view_information_step_back_document_type_national_passport_title_v2" = "Bagian belakang paspor nasional Rusia";
+"idenfy_document_camera_results_view_information_step_front_document_type_international_passport_title_v2" = "Bagian depan paspor internasional Rusia";
+"idenfy_document_camera_results_view_information_step_back_document_type_international_passport_title_v2" = "Bagian belakang paspor internasional Rusia";
+"idenfy_document_camera_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Bagian depan SIM Inggris sementara";
+"idenfy_document_camera_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Bagian belakang SIM Inggris sementara";
+"idenfy_document_camera_results_view_information_step_front_document_type_voter_card_title_v2" = "Bagian depan kartu pemilih";
+"idenfy_document_camera_results_view_information_step_back_document_type_voter_card_title_v2" = "Bagian belakang kartu pemilih";
+"idenfy_document_camera_results_view_information_step_front_document_type_old_id_card_title_v2" = "Bagian depan KTP lama";
+"idenfy_document_camera_results_view_information_step_back_document_type_old_id_card_title_v2" = "Bagian belakang KTP lama";
+"idenfy_document_camera_results_view_information_step_front_document_type_travel_card_title_v2" = "Bagian depan kartu perjalanan";
+"idenfy_document_camera_results_view_information_step_back_document_type_travel_card_title_v2" = "Bagian belakang kartu perjalanan";
+"idenfy_document_camera_results_view_information_step_front_document_type_photo_card_title_v2" = "Bagian depan kartu foto";
+"idenfy_document_camera_results_view_information_step_back_document_type_photo_card_title_v2" = "Bagian belakang kartu foto";
+"idenfy_document_camera_results_view_information_step_front_document_type_military_card_title_v2" = "Bagian depan kartu militer (veteran).";
+"idenfy_document_camera_results_view_information_step_back_document_type_military_card_title_v2" = "Bagian belakang kartu militer (veteran).";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Bagian depan kartu bukti usia";
+"idenfy_document_camera_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Bagian belakang kartu bukti usia";
+"idenfy_document_camera_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Bagian depan ID diplomatik";
+"idenfy_document_camera_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Bagian belakang ID diplomatik";
+"idenfy_document_camera_results_view_information_step_front_document_type_pan_card_title_v2" = "Bagian depan kartu PAN";
+"idenfy_document_camera_results_view_information_step_back_document_type_pan_card_title_v2" = "Bagian belakang kartu PAN";
+"idenfy_document_camera_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Bagian depan kartu aadhaar";
+"idenfy_document_camera_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Bagian belakang kartu aadhaar";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2" = "Apakah **bagian depan kartu identitas** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2" = "Apakah **bagian belakang kartu identitas** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2" = "Apakah **bagian depan dokumen** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2" = "Apakah **bagian belakang dokumen** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2" = "Apakah **depan izin tinggal** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2" = "Apakah **bagian belakang izin tinggal** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2" = "Apakah **bagian depan SIM** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2" = "Apakah **bagian belakang SIM** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2" = "Apakah **bagian depan sampul paspor** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2" = "Apakah **bukti alamat** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2" = "Apakah **bukti alamat kedua** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2" = "Apakah **halaman muka paspor** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_information_description_part_1_v2" = "Apakah";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2" = "bagian depan kartu identitas";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2" = "bagian belakang kartu identitas";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2" = "bagian depan dokumen";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2" = "bagian belakang dokumen";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2" = "bagian depan izin tinggal";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2" = "bagian belakang izin tinggal";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2" = "bagian depan SIM";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2" = "bagian belakang SIM";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2" = "bagian depan sampul paspor";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2" = "bukti alamat";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2" = "bukti alamat kedua";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2" = "halaman muka paspor";
+"idenfy_document_camera_results_view_information_description_part_3_v2" = "terlihat jelas dan dalam bingkai?";
+"idenfy_document_camera_results_view_details_first_title_v2_front" = "Apakah gambar wajah Anda terlihat jelas?";
+"idenfy_document_camera_results_view_details_second_title_v2_front" = "Bisakah Anda membaca detail dokumen dengan jelas?";
+"idenfy_document_camera_results_view_details_first_title_v2_back" = "Apakah itu bagian belakang dokumen?";
+"idenfy_document_camera_results_view_details_second_title_v2_back" = "Bisakah Anda membaca detail dokumen dengan jelas?";
+"idenfy_document_camera_results_view_details_title_v2_default" = "Bisakah Anda membaca detail dokumen dengan jelas?";
+"idenfy_document_camera_results_view_details_pdf_title_v2_default" = "Apakah Anda yakin ingin mengunggah file ini?";
+
+/*Idenfy Face Camera Preview Session View V2*/
+"idenfy_face_camera_preview_session_description_v2" = "Tempatkan wajah Anda di area yang ditandai dan ambil foto yang jelas";
+"idenfy_face_camera_preview_title_v2" = "Ambil foto wajah Anda";
+
+/*Idenfy Face Camera Results View V2*/
+"idenfy_face_camera_results_title_v2" = "Konfirmasi foto wajah";
+"idenfy_face_camera_results_description_v2" = "Apakah foto wajah Anda terlihat jelas dan di bingkai?";
+"idenfy_document_camera_results_view_information_step_face_description_placeholder_v2" = "Apakah **foto wajah** Anda terlihat jelas dan dalam bingkai?";
+"idenfy_face_camera_results_view_details_first_title_v2" = "Apakah wajah Anda terlihat jelas dan cukup dekat untuk diperiksa?";
+
+/*Idenfy Document And Face Results View V2*/
+"idenfy_document_and_face_camera_results_title_v2" = "Periksa foto";
+"idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2" = "Powered by iDenfy";
+"idenfy_document_and_face_camera_results_button_retake_photo_title_v2" = "AMBIL FOTO BARU";
+"idenfy_document_and_face_camera_results_button_next_step_title_v2" = "YA, LANJUTKAN";
+
+/*Upload document photo V2*/
+"idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2" = "Bagian depan kartu identitas";
+"idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2" = "Bagian belakang kartu identitas";
+"idenfy_upload_results_view_information_step_front_document_type_other_title_v2" = "Bagian depan dokumen";
+"idenfy_upload_results_view_information_step_back_document_type_other_title_v2" = "Bagian belakang dokumen";
+"idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2" = "Bagian depan izin tinggal";
+"idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2" = "Bagian belakang izin tinggal";
+"idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2" = "Bagian depan SIM";
+"idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2" = "Bagian belakang SIM";
+"idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2" = "Bagian depan sampul paspor";
+"idenfy_upload_results_view_information_step_front_document_type_passport_title_v2" = "Halaman muka paspor";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Bukti alamat";
+"idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Bukti alamat kedua";
+"idenfy_upload_results_view_information_step_front_document_type_visa_title_v2" = "Bagian depan visa";
+"idenfy_upload_results_view_information_step_back_document_type_visa_title_v2" = "Bagian belakang visa";
+"idenfy_upload_results_view_information_step_front_document_type_border_crossing_title_v2" = "Bagian depan kartu penyeberangan perbatasan AS";
+"idenfy_upload_results_view_information_step_back_document_type_border_crossing_title_v2" = "Bagian belakang kartu penyeberangan perbatasan AS";
+"idenfy_upload_results_view_information_step_front_document_type_asylum_title_v2" = "Bagian depan izin tinggal Suaka Austria";
+"idenfy_upload_results_view_information_step_back_document_type_asylum_title_v2" = "Bagian belakang izin tinggal Suaka Austria";
+"idenfy_upload_results_view_information_step_front_document_type_national_passport_title_v2" = "Bagian depan paspor nasional Rusia";
+"idenfy_upload_results_view_information_step_back_document_type_national_passport_title_v2" = "Bagian belakang paspor nasional Rusia";
+"idenfy_upload_results_view_information_step_front_document_type_international_passport_title_v2" = "Bagian depan paspor internasional Rusia";
+"idenfy_upload_results_view_information_step_back_document_type_international_passport_title_v2" = "Bagian belakang paspor internasional Rusia";
+"idenfy_upload_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Bagian depan SIM Inggris sementara";
+"idenfy_upload_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Belakang SIM Inggris sementara";
+"idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2" = "Bagian depan kartu pemilih";
+"idenfy_upload_results_view_information_step_back_document_type_voter_card_title_v2" = "Bagian belakang kartu pemilih";
+"idenfy_upload_results_view_information_step_front_document_type_old_id_card_title_v2" = "Bagian depan KTP lama";
+"idenfy_upload_results_view_information_step_back_document_type_old_id_card_title_v2" = "Bagian belakang KTP lama";
+"idenfy_upload_results_view_information_step_front_document_type_travel_card_title_v2" = "Bagian depan kartu perjalanan";
+"idenfy_upload_results_view_information_step_back_document_type_travel_card_title_v2" = "Bagian belakang kartu perjalanan";
+"idenfy_upload_results_view_information_step_front_document_type_photo_card_title_v2" = "Bagian depan kartu foto";
+"idenfy_upload_results_view_information_step_back_document_type_photo_card_title_v2" = "Bagian belakang kartu foto";
+"idenfy_upload_results_view_information_step_front_document_type_military_card_title_v2" = "Bagian depan kartu militer (veteran)";
+"idenfy_upload_results_view_information_step_back_document_type_military_card_title_v2" = "Bagian belakang kartu militer (veteran)";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Bagian depan kartu bukti usia";
+"idenfy_upload_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Bagian belakang kartu bukti usia";
+"idenfy_upload_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Bagian depan ID diplomatik";
+"idenfy_upload_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Bagian belakang ID diplomatik";
+"idenfy_upload_results_view_information_step_front_document_type_pan_card_title_v2" = "Bagian depan kartu PAN";
+"idenfy_upload_results_view_information_step_back_document_type_pan_card_title_v2" = "Bagian belakang kartu PAN";
+"idenfy_upload_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Bagian depan kartu aadhaar";
+"idenfy_upload_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Bagian belakang kartu aadhaar";
+"idenfy_upload_results_view_information_step_face_title_v2" = "Konfirmasi foto wajah";
+"idenfy_upload_results_view_cropping_description_v2" = "Sejajarkan foto yang diunggah ke area yang ditandai";
+"idenfy_upload_results_view_choose_another_photo_button_title_v2" = "PILIH YANG LAIN";
+"idenfy_upload_results_view_document_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_upload_results_view_pdf_size_alert_title_v2" = "Ukuran file maksimum terlampaui";
+"idenfy_upload_results_view_pdf_size_alert_message_v2" = "Harap pilih file dengan ukuran yang valid tidak lebih dari 5MB";
+"idenfy_upload_results_view_incorrect_mime_type_alert_title_v2" = "Tipe file tidak didukung";
+"idenfy_upload_results_view_incorrect_mime_type_alert_message_v2" = "Jenis file yang didukung:";
+"idenfy_upload_results_view_failed_to_upload_file_title_v2" = "Unggahan gagal";
+"idenfy_upload_results_view_failed_to_upload_file_description_v2" = "Kami tidak dapat mengunggah file yang dipilih. Silakan coba lagi!";
+
+/*Idenfy Identification Results View V2*/
+"idenfy_identification_results_identification_status_loading_title_v2" = "Menganalisis verifikasi Anda…";
+"idenfy_identification_results_identification_status_loading_description_v2" = "Harap tunggu sementara kami menyiapkan semuanya untuk Anda!";
+"idenfy_identification_results_identification_status_error_title_v2" = "Verifikasi gagal";
+"idenfy_identification_results_step_front_document_type_id_card_title_v2" = "Bagian depan kartu identitas";
+"idenfy_identification_results_step_back_document_type_id_card_title_v2" = "Bagian belakang kartu identitas";
+"idenfy_identification_results_step_passport_cover_title_v2" = "Bagian depan sampul paspor";
+"idenfy_identification_results_step_proof_of_address_title_v2" = "Bukti alamat";
+"idenfy_identification_results_step_second_proof_of_address_title_v2" = "Bukti alamat kedua";
+"idenfy_identification_results_step_front_document_type_passport_title_v2" = "Halaman muka paspor";
+"idenfy_identification_results_step_front_document_type_other_title_v2" = "Bagian depan dokumen";
+"idenfy_identification_results_step_back_document_type_other_title_v2" = "Bagian belakang dokumen";
+"idenfy_identification_results_step_front_document_type_residence_permit_title_v2" = "Bagian depan izin tinggal";
+"idenfy_identification_results_step_back_document_type_residence_permit_title_v2" = "Bagian belakang izin tinggal";
+"idenfy_identification_results_step_front_document_type_driver_license_title_v2" = "Bagian depan SIM";
+"idenfy_identification_results_step_back_document_type_driver_license_title_v2" = "Bagian elakang SIM";
+"idenfy_identification_results_step_front_document_type_visa_title_v2" = "Bagian depan visa";
+"idenfy_identification_results_step_back_document_type_visa_title_v2" = "Bagian belakang visa";
+"idenfy_identification_results_step_front_document_type_border_crossing_title_v2" = "Bagian depan kartu penyeberangan perbatasan AS";
+"idenfy_identification_results_step_back_document_type_border_crossing_title_v2" = "Bagian belakang kartu penyeberangan perbatasan AS";
+"idenfy_identification_results_step_front_document_type_asylum_title_v2" = "Bagian depan izin tinggal Suaka Austria";
+"idenfy_identification_results_step_back_document_type_asylum_title_v2" = "Bagian belakang izin tinggal Suaka Austria";
+"idenfy_identification_results_step_front_document_type_national_passport_title_v2" = "Bagian depan paspor nasional Rusia";
+"idenfy_identification_results_step_back_document_type_national_passport_title_v2" = "Bagian belakang paspor nasional Rusia";
+"idenfy_identification_results_step_front_document_type_international_passport_title_v2" = "Bagian depan paspor internasional Rusia";
+"idenfy_identification_results_step_back_document_type_international_passport_title_v2" = "Bagian belakang paspor internasional Rusia";
+"idenfy_identification_results_step_front_document_type_provisional_driver_license_title_v2" = "Bagian depan SIM Inggris sementara";
+"idenfy_identification_results_step_back_document_type_provisional_driver_license_title_v2" = "Bagian belakang SIM Inggris sementara";
+"idenfy_identification_results_step_front_document_type_voter_card_title_v2" = "Bagian depan kartu pemilih";
+"idenfy_identification_results_step_back_document_type_voter_card_title_v2" = "Bagian belakang kartu pemilih";
+"idenfy_identification_results_step_front_document_type_old_id_card_title_v2" = "Bagian depan KTP lama";
+"idenfy_identification_results_step_back_document_type_old_id_card_title_v2" = "Bagian belakang KTP lama";
+"idenfy_identification_results_step_front_document_type_travel_card_title_v2" = "Bagian depan kartu perjalanan";
+"idenfy_identification_results_step_back_document_type_travel_card_title_v2" = "Bagian belakang kartu perjalanan";
+"idenfy_identification_results_step_front_document_type_photo_card_title_v2" = "Bagian depan kartu foto";
+"idenfy_identification_results_step_back_document_type_photo_card_title_v2" = "Bagian belakang kartu foto";
+"idenfy_identification_results_step_front_document_type_military_card_title_v2" = "Bagian depan kartu militer (veteran)";
+"idenfy_identification_results_step_back_document_type_military_card_title_v2" = "Bagian belakang kartu militer (veteran)";
+"idenfy_identification_results_step_front_document_type_proof_of_age_card_title_v2" = "Bagian depan kartu bukti usia";
+"idenfy_identification_results_step_back_document_type_proof_of_age_card_title_v2" = "Bagian belakang kartu bukti usia";
+"idenfy_identification_results_step_front_document_type_diplomatic_id_card_title_v2" = "Bagian depan ID diplomatik";
+"idenfy_identification_results_step_back_document_type_diplomatic_id_card_title_v2" = "Bagian belakang ID diplomatik";
+"idenfy_identification_results_step_front_document_type_pan_card_title_v2" = "Bagian depan kartu PAN";
+"idenfy_identification_results_step_back_document_type_pan_card_title_v2" = "Bagian belakang kartu PAN";
+"idenfy_identification_results_step_front_document_type_aadhaar_card_title_v2" = "Bagian depan kartu aadhaar";
+"idenfy_identification_results_step_back_document_type_aadhaar_card_title_v2" = "Bagian belakang kartu aadhaar";
+"idenfy_identification_results_step_face" = "Foto wajah";
+"idenfy_identification_results_retake_button_title_v2" = "COBA LAGI";
+"idenfy_identification_results_error_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_identification_results_mrz_not_found_dialog_title_v2" = "Harap pastikan dokumen Anda memiliki zona yang bisa dibaca mesin";
+"idenfy_identification_results_mrz_not_found_dialog_description_v2" = "Zona yang bisa dibaca mesin (MRZ) biasanya terdiri dari 2 (paspor) atau 3 (KTP) baris simbol. Contoh MRZ disajikan pada gambar di bawah, ditandai dengan persegi panjang berwarna merah.";
+"idenfy_identification_results_mrz_not_found_back_button_title_v2" = "KEMBALI";
+"idenfy_identification_results_mrz_not_found_continue_button_title_v2" = "SAYA YAKIN";
+"idenfy_identification_results_doc_not_found_dialog_description_part_1_v2" = "Dokumen tidak ditemukan. Pastikan Anda menunjukkan";
+"idenfy_identification_results_doc_not_found_dialog_description_part_3_v2" = "dan negara pengeluaran dokumen adalah";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2" = "PASPOR";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2" = "KTP";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2" = "IZIN TINGGAL";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2" = "SURAT IZIN MENGEMUDI";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2" = "DOKUMEN";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_visa_v2" = "VISA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_border_crossing_v2" = "KARTU PENYEBERANGAN PERBATASAN AS";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_asylum_v2" = "IZIN TINGGAL SUAKA AUSTRIA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_national_passport_v2" = "PASPOR NASIONAL RUSIA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_international_passport_v2" = "PASPOR INTERNASIONAL RUSIA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_provisional_driver_license_v2" = "SURAT IZIN MENGEMUDI SEMENTARA UK";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_voter_card_v2" = "KARTU PEMILIH";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_old_id_card_v2" = "KTP LAMA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_travel_card_v2" = "KARTU PERJALANAN";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_photo_card_v2" = "KARTU FOTO";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_military_card_v2" = "KARTU MILITER (VETERAN)";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_proof_of_age_card_v2" = "KARTU BUKTI USIA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_diplomatic_id_card_v2" = "ID DIPLOMATIK";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_pan_card_title_v2" = "KARTU PAN";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_aadhaar_card_title_v2" = "KARTU Aadhaar";
+"idenfy_identification_results_doc_not_found_dialog_description_country_part_v2" = "Pastikan negara pengeluaran dokumen Anda adalah";
+
+/*Idenfy Identification Results Suspected View V2*/
+"idenfy_identification_results_suspected_view_title_v2" = "Informasi Anda telah dikirimkan";
+"idenfy_identification_results_suspected_view_description_v2" = "Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan pelanggan kami";
+"idenfy_identification_results_suspected_view_email_v2" = "support@idenfy.com";
+"idenfy_identifiaction_results_suspected_view_continue_button_title_v2" = "LANJUTKAN";
+
+/*Idenfy Identification Results Success View V2*/
+"idenfy_identification_results_success_fragment_title_v2" = "Verifikasi disetujui";
+"idenfy_identification_results_success_fragment_description_v2" = " ";
+"idenfy_identifiaction_results_success_fragment_identified_v2" = "Diverifikasi";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting View V2*/
+"idenfy_manual_reviewing_status_waiting_view_information_title_v2" = "Verifikasi dikirim";
+"idenfy_manual_reviewing_status_waiting_view_information_top_description_v2" = "Verifikasi Anda memerlukan peninjauan manual tambahan. Anda akan diberi tahu kapan peninjauan akan selesai.";
+"idenfy_manual_reviewing_status_waiting_view_information_description_v2" = "Biasanya diperlukan waktu 1 hingga 5 menit untuk menerima hasil Anda";
+"idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2" = "KEMBALI KE AKUN";
+"idenfy_manual_reviewing_status_waiting_view_identification_manual_completed_title_v2" = "Tinjauan data tambahan";
+"idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2" = "Pemeriksaan AI otomatis selesai";
+"idenfy_manual_reviewing_status_waiting_view_time_left_title_v2" = "WAKTU TERSISA";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting Stop Waiting Identification Alert V2*/
+"idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information" = "Batalkan verifikasi";
+"idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information" = "Apakah Anda yakin ingin membatalkan verifikasi?";
+"idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information" = "YA";
+"idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information" = "TIDAK";
+
+/*Idenfy Manual Reviewing Identification Results Status Approved View V2*/
+"idenfy_manual_reviewing_status_approved_view_information_title_v2" = "Verifikasi Anda Berhasil!";
+"idenfy_manual_reviewing_status_approved_view_information_description_v2" = "Terima Kasih";
+"idenfy_manual_reviewing_status_approved_view_continue_button_v2" = "LANJUTKAN";
+
+/*Idenfy Manual Reviewing Identification Results Status Failed View V2*/
+"idenfy_manual_reviewing_status_failed_view_information_title_v2" = "Verifikasi gagal";
+"idenfy_manual_reviewing_status_failed_view_information_description_v2" = "Kami tidak dapat mengonfirmasi identitas Anda";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_1_v2" = "Mohon hubungi";
+"idenfy_manual_reviewing_status_failed_view_information_support_email_v2" = "support@idenfy.com";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_2_v2" = "untuk dukungan lebih lanjut";
+"idenfy_manual_reviewing_status_failed_view_continue_button_v2" = "LANJUTKAN";
+
+/*Idenfy Camera Permission View V2*/
+"idenfy_camera_permissions_view_information_title_v2" = "Bolehkah kami menggunakan kamera Anda?";
+"idenfy_camera_permissions_view_information_description_v2" = "Kami perlu menggunakan kamera Anda untuk mengambil foto dokumen dan foto wajah Anda";
+"idenfy_camera_permissions_view_guidance_information_description_v2" = "Buka pengaturan, ketuk \"Izin\" untuk memberikan akses ke kamera";
+"idenfy_camera_permissions_view_goto_settings_button_title_v2" = "AKTIFKAN KAMERA";
+
+/*Idenfy NFC Reading View V2*/
+"idenfy_nfc_reading_view_information_alert_title_passport_v2" = "Sentuh bagian tengah paspor ke bagian atas ponsel";
+"idenfy_nfc_reading_view_information_alert_title_id_card_v2" = "Sentuh bagian tengah kartu ID ke bagian atas telepon";
+"idenfy_nfc_reading_view_information_alert_title_document_v2" = "Sentuh bagian tengah dokumen ke bagian atas telepon";
+"idenfy_nfc_reading_view_information_title_passport_v2" = "Sentuh bagian tengah paspor ke bagian atas ponsel";
+"idenfy_nfc_reading_view_information_title_id_card_v2" = "Sentuh bagian tengah KTP ke bagian atas ponsel";
+"idenfy_nfc_reading_view_information_title_document_v2" = "Sentuh bagian tengah dokumen ke bagian atas telepon";
+"idenfy_nfc_reading_view_information_reading_data_document_title_v2" = "Membaca data dokumen…";
+"idenfy_nfc_reading_view_information_reading_data_document_image_v2" = "Membaca gambar dokumen…";
+"idenfy_nfc_reading_view_information_reading_finished_v2" = "Pembacaan paspor selesai";
+"idenfy_nfc_reading_view_information_reading_continue_button_title_v2" = "LANJUTKAN";
+"idenfy_nfc_reading_view_information_reading_started_title_v2" = "Tolong tunggu sebentar…";
+"idenfy_nfc_reading_view_information_reading_status_failed_v2" = "Ups! Ada yang salah.";
+"idenfy_nfc_reading_view_information_reading_status_no_connecton_v2" = "Koneksi terputus. Tolong dekatkan ponsel!";
+
+/*Idenfy NFC Reading Time Out View V2*/
+"idenfy_nfc_reading_view_information_reading_time_out_title_v2" = "Waktu habis";
+"idenfy_nfc_reading_view_information_reading_time_out_description_v2" = "Waktu membaca NFC habis";
+"idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2" = "LANJUTKAN";
+
+/*Idenfy NFC Required View V2*/
+"idenfy_nfc_required_view_information_title_v2" = "Perangkat Anda tidak didukung";
+"idenfy_nfc_required_view_information_description_v2" = "Harap gunakan ponsel dengan pembaca tag NFC bawaan";
+
+/*Idenfy Additional Support View V2*/
+"idenfy_additional_support_view_title" = "Anda telah membatalkan proses verifikasi";
+"idenfy_additional_support_view_description" = "Proses verifikasi tidak dilakukan. Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan pelanggan kami.";
+"idenfy_additional_support_view_email" = "support@idenfy.com";
+"idenfy_additional_support_view_button_title" = "KEMBALI";
+
+/**Shared strings**/
+/*Idenfy Permissions*/
+"idenfy_permission_asks_to_provide_camera_permission_manually" = "Berikan izin secara manual";
+
+/*Idenfy Error messages*/
+"IDENFY_FACE_LIVENESS_MESSAGE" = "Terlalu sering gagal pemeriksaan kehidupan";
+"IDENFY_SERVER_ERROR_MESSAGE" = "Ups! Ada yang salah.";
+"IDENFY_TOKEN_NOT_VALID_MESSAGE" = "Sesi berakhir!";
+"IDENFY_TOO_MANY_REATTEMPTS_MESSAGE" = "Terlalu banyak usaha!";
+"IDENFY_NFC_FAILED_MESSAGE" = "Autentikasi NFC gagal!";
+
+/*Idenfy navigation*/
+"idenfy_common_title_navigation_back" = "Kembali";
+
+/*Idenfy Identification Results Additional Information*/
+"idenfy_identification_results_title_additional_info_uploading_front_document_photo" = "Mengunggah foto depan dokumen…";
+"idenfy_identification_results_title_additional_info_uploading_back_document_photo" = "Mengunggah foto belakang dokumen…";
+"idenfy_identification_results_title_additional_info_uploading_face_document_photo" = "Mengunggah foto wajah dokumen…";
+"idenfy_identification_results_title_additional_info_uploading_liveness_document_photo" = "Memeriksa kehidupan…";
+"idenfy_identification_results_title_additional_info_uploading_passport_cover_photo" = "Mengunggah foto sampul paspor…";
+"idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo" = "Mengunggah foto bukti alamat…";
+"idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo" = "Mengunggah foto bukti kedua alamat…";
+
+/*Idenfy Alerts*/
+
+/*Idenfy Internet Connection Alert*/
+"idenfy_internet_connection_lost_title" = "Masalah koneksi. Pastikan Anda memiliki koneksi internet yang stabil";
+
+/*Manual Reviewing Alert*/
+"idenfy_alert_positive_button_manual_reviewing_information" = "Lanjutkan";
+"idenfy_alert_title_manual_reviewing_information" = "INFORMASI";
+"idenfy_alert_message_manual_reviewing_information" = "Karena Anda memilih dokumen dan bukan KTP atau paspor, kami perlu mengulas kasus Anda sekali lagi.";
+
+
+/*Idenfy Liveness Failed Alert*/
+"idenfy_alert_positive_button_liveness_default_error" = "Lanjutkan";
+"idenfy_alert_title_liveness_default_error" = "INFORMASI";
+"idenfy_alert_message_liveness_default_error" = "Pemeriksaan kehidupan gagal, mohon coba lagi.";
+"idenfy_alert_message_liveness_face_timeout_error" = "Waktu pemeriksaan kehidupan wajah habis. Mohon coba lagi.";
+
+/*Document Analysis Alert*/
+"idenfy_alert_positive_button_document_analysis_information" = "Lanjut";
+"idenfy_alert_title_document_analysis_information" = "OH TIDAK!";
+"idenfy_alert_message_document_analysis_information" = "Tidak bisa menentukan jenis dokumen. Mohon pilih jenis dokumen di langkah berikutnya.";
+
+/*Abort Identification Alert*/
+"idenfy_alert_message_abort_identification_information" = "Apakah Anda yakin Anda ingin mengakhiri verifikasi?";
+"idenfy_alert_title_abort_identification_information" = "Akhiri verifikasi";
+"idenfy_alert_positive_button_abort_identification_information" = "YA";
+"idenfy_alert_negative_button_abort_identification_information" = "TIDAK";
+
+/*Abort Restart Identification Alert*/
+"idenfy_alert_message_restart_identification_information" = "Apakah Anda yakin Anda ingin mengulang?";
+"idenfy_alert_title_restart_identification_information" = "Ulang";
+"idenfy_alert_positive_button_restart_identification_information" = "YA";
+"idenfy_alert_negative_button_restart_identification_information" = "TIDAK";
+
+/*Unknown Document Analysis Alert*/
+"idenfy_document_and_face_camera_results_document_analysis_title" = "Menganalisa…";
+"idenfy_document_and_face_camera_results_document_analysis_description" = "Mohon tunggu sebentar.";
+
+/**/
+
+/*Idenfy Instruction strings */
+
+/* Passport */
+"idenfy_instructions_passport_correct_title" = "Tunjukkan paspor Anda";
+"idenfy_instructions_passport_correct_text" = "Pastikan Anda menunjukkan paspor Anda saat verifikasi dan bukan dokumen lain.";
+
+"idenfy_instructions_passport_mrz_title" = "Paspor memiliki area MRZ";
+"idenfy_instructions_passport_mrz_text" = "Pastikan dokumen Anda memiliki MRZ (2 atau 3 baris karakter). Jika dokumen Anda tidak memiliki zona MRZ, pilih \“DOKUMEN LAINNYA\” di jendela pemilihan dokumen.";
+
+"idenfy_instructions_passport_fits_frame_title" = "Paspor pas dengan bingkai putih";
+"idenfy_instructions_passport_fits_frame_text" = "Pastikan paspor pas dengan bingkai putih dan tidak melampaui batas bingkai, dan dokumen yang ditampilkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_passport_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_passport_finger_text" = "Tidak menutupi wajah Anda atau informasi lainnya di dokumen.";
+
+"idenfy_instructions_passport_reflection_title" = "Tidak ada bayangan cahaya";
+"idenfy_instructions_passport_reflection_text" = "Pastikan bayangan cahaya atau hologram dokumen tidak menutupi wajah atau informasi dokumen penting lainnya.";
+
+/* ID-Card front */
+"idenfy_instructions_id_front_correct_title" = "Tunjukkan KTP Anda";
+"idenfy_instructions_id_front_correct_text" = "Pastikan Anda menunjukkan KTP Anda pada waktu verifikasi, bukan dokumen lain.";
+
+"idenfy_instructions_id_front_fit_frame_title" = "KTP bagian depan pas dengan bingkai putih";
+"idenfy_instructions_id_front_fit_frame_text" = "Pastikan bagian depan KTP pas dengan bingkai putih dan tidak melampaui tepi bingkai, dan dokumen yang diperlihatkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_id_front_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_id_front_finger_text" = "Jangan tutupi wajah Anda atau informasi lainnya di dokumen.";
+
+"idenfy_instructions_id_front_reflection_title" = "Tidak ada bayangan cahaya";
+"idenfy_instructions_id_front_reflection_text" = "Pastikan bayangan cahaya atau hologram dokumen tidak menutupi wajah atau informasi dokumen penting lainnya.";
+
+/* ID-Card back */
+"idenfy_instructions_id_back_correct_title" = "Tunjukkan KTP bagian belakang Anda";
+"idenfy_instructions_id_back_correct_text" = "Pastikan Anda menunjukkan bagian belakang KTP.";
+
+"idenfy_instructions_id_back_mrz_title" = "Dokumen memiliki area MRZ";
+"idenfy_instructions_id_back_mrz_text" = "Pastikan dokumen Anda memiliki MRZ (2 atau 3 baris karakter). Jika dokumen Anda tidak memiliki zona MRZ, pilih \“DOKUMEN LAINNYA\” di jendela pemilihan dokumen.";
+
+"idenfy_instructions_id_back_fit_frame_title" = "Bagian belakang KTP pas dengan bingkai putih";
+"idenfy_instructions_id_back_fit_frame_text" = "Pastikan bagian belakang KTP pas dengan bingkai putih dan tidak melampaui tepi bingkai. Juga, pastikan dokumen yang Anda tampilkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_id_back_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_id_back_finger_text" = "Jangan tutupi informasi di dokumen dengan jari Anda.";
+
+/* Residence-permit front */
+"idenfy_instructions_residence_permit_front_correct_title" = "Tunjukkan izin Tinggal Anda";
+"idenfy_instructions_residence_permit_front_correct_text" = "Pastikan Anda menunjukkan izin Tinggal Anda pada waktu verifikasi, bukan dokumen lain.";
+
+"idenfy_instructions_residence_permit_front_fit_frame_title" = "Izin Tinggal bagian depan pas dengan bingkai putih";
+"idenfy_instructions_residence_permit_front_fit_frame_text" = "Pastikan bagian depan Izin Tinggal pas dengan bingkai putih dan tidak melampaui tepi bingkai, dan dokumen yang ditunjukkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_residence_permit_front_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_residence_permit_front_finger_text" = "Jangan tutupi wajah Anda atau informasi lainnya di dokumen.";
+
+"idenfy_instructions_residence_permit_front_reflection_title" = "Tidak ada bayangan cahaya";
+"idenfy_instructions_residence_permit_front_reflection_text" = "Pastikan bayangan cahaya atau hologram dokumen tidak menutupi wajah atau informasi dokumen penting lainnya.";
+
+/* Residence-permit back */
+"idenfy_instructions_residence_permit_back_correct_title" = "Tunjukkan izin Tinggal bagian belakang Anda";
+"idenfy_instructions_residence_permit_back_correct_text" = "Pastikan Anda menunjukkan bagian belakang izin Tinggal.";
+
+"idenfy_instructions_residence_permit_back_mrz_title" = "Dokumen memiliki area MRZ";
+"idenfy_instructions_residence_permit_back_mrz_text" = "Pastikan dokumen Anda memiliki MRZ (2 atau 3 baris karakter). Jika dokumen Anda tidak memiliki zona MRZ, pilih \“DOKUMEN LAINNYA\” di jendela pemilihan dokumen.";
+
+"idenfy_instructions_residence_permit_back_fit_frame_title" = "Bagian belakang izin Tinggal pas dengan bingkai putih";
+"idenfy_instructions_residence_permit_back_fit_frame_text" = "Pastikan bagian belakang izin Tinggal pas dengan bingkai putih dan tidak melampaui tepi bingkai. Juga, pastikan dokumen yang Anda tampilkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_residence_permit_back_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_residence_permit_back_finger_text" = "Jangan tutupi informasi di dokumen dengan jari Anda.";
+
+/* Driver-license front */
+"idenfy_instructions_driver_license_front_correct_title" = "Tunjukkan SIM Anda";
+"idenfy_instructions_driver_license_front_correct_text" = "Pastikan Anda menunjukkan SIM Anda pada waktu verifikasi, bukan dokumen lain.";
+
+"idenfy_instructions_driver_license_front_fit_frame_title" = "SIM bagian depan pas dengan bingkai putih";
+"idenfy_instructions_driver_license_front_fit_frame_text" = "Pastikan bagian depan SIM pas dengan bingkai putih dan tidak melampaui tepi bingkai, dan dokumen yang diperlihatkan tidak kabur dan terbaca dengan jelas.";
+
+"idenfy_instructions_driver_license_front_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_driver_license_front_finger_text" = "Jangan tutupi wajah Anda atau informasi lainnya di dokumen.";
+
+"idenfy_instructions_driver_license_front_reflection_title" = "Tidak ada bayangan cahaya";
+"idenfy_instructions_driver_license_front_reflection_text" = "Pastikan bayangan cahaya atau hologram dokumen tidak menutupi wajah atau informasi dokumen penting lainnya.";
+
+/* Other documents front */
+"idenfy_instructions_other_front_mrz_title" = "Tunjukkan dokumen Anda yang tidak memiliki MRZ";
+"idenfy_instructions_other_front_mrz_text" = "Pastikan Anda menunjukkan dokumen yang tidak memiliki MRZ.";
+
+"idenfy_instructions_other_front_fit_frame_title" = "Bagian depan dokumen pas dengan bingkai putih";
+"idenfy_instructions_other_front_fit_frame_text" = "Pastikan bagian depan dokumen pas dengan bingkai putih dan tidak melampaui tepi bingkai, dan dokumen yang diperlihatkan tidak buram dan dapat dibaca dengan jelas.";
+
+"idenfy_instructions_other_front_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_other_front_finger_text" = "Jangan tutupi wajah Anda atau informasi lainnya di dokumen.";
+
+"idenfy_instructions_other_front_reflection_title" = "Tidak ada bayangan cahaya";
+"idenfy_instructions_other_front_reflection_text" = "Pastikan bayangan cahaya atau hologram dokumen tidak menutupi wajah atau informasi dokumen penting lainnya.";
+
+/* Other documents back */
+"idenfy_instructions_other_back_fit_frame_title" = "Bagian belakang dokumen pas dengan bingkai putih";
+"idenfy_instructions_other_back_fit_frame_text" = "Pastikan bagian depan dokumen pas dengan bingkai putih dan tidak melampaui tepi bingkai, dan dokumen yang diperlihatkan tidak buram dan dapat dibaca dengan jelas.";
+
+"idenfy_instructions_other_back_finger_title" = "Jari tidak menutupi dokumen";
+"idenfy_instructions_other_back_finger_text" = "Jangan tutupi informasi di dokumen dengan jari Anda.";
+
+/* Face camera */
+"idenfy_instructions_face_fit_frame_title" = "Wajah pas dengan bingkai putih";
+"idenfy_instructions_face_fit_frame_text" = "Pastikan wajah Anda pas dengan bingkai putih.";
+
+"idenfy_instructions_face_one_face_title" = "Hanya satu wajah yang terlihat";
+"idenfy_instructions_face_one_face_text" = "Pastikan, tidak ada wajah lain yang terlihat di gambar.";
+
+"idenfy_instructions_face_shadow_title" = "Wajah tidak tertutup oleh bayangan";
+"idenfy_instructions_face_shadow_text" = "Pastikan wajah Anda terang dan tidak ada bayangan.";
+
+"idenfy_instructions_face_zoom_title" = "Wajah pas dengan bingkai";
+"idenfy_instructions_face_zoom_text" = "Pastikan wajah Anda pas dengan bingkai. Setelah mengambil selfie dekatkan wajah Anda.";
+
+/**/
+///*System specific*///
+/* <!--Camera Permission Not Enabled Alert--> */
+"idenfy_alert_title_camera_permission_not_enabled" = "Tidak dapat mengakses kamera";
+"idenfy_alert_message_camera_permission_not_enabled" = "Untuk mengaktifkan akses, buka Pengaturan > Privasi > Kamera dan aktifkan akses Kamera untuk aplikasi ini.";
+"idenfy_alert_positive_button_camera_permission_not_enabled" = "Oke";
+
+/*Face Authentication Initial View V2*/
+"idenfy_face_authentication_initial_view_failed_title_part_1" = "Anda memiliki";
+"idenfy_face_authentication_initial_view_failed_title_part_2" = "3";
+"idenfy_face_authentication_initial_view_failed_title_part_3" = "upaya untuk mengotentikasi diri!";
+"idenfy_face_authentication_initial_view_failed_title_placeholder" = "Anda memiliki **3** upaya untuk mengotentikasi diri sendiri!";
+"idenfy_face_authentication_initial_view_button_title" = "LANJUTKAN";
+"idenfy_face_authentication_initial_view_alert_message" = "Verifikasi wajah gagal!";
+
+/*Face Authentication Results V2*/
+"idenfy_face_authentication_results_success_title" = "Otentikasi berhasil";
+"idenfy_face_authentication_results_success_description" = "Anda telah berhasil diotentikasi!";
+"idenfy_face_authentication_results_final_failed_title" = "Verifikasi wajah tidak berhasil.";
+"idenfy_face_authentication_results_final_failed_description" = "Ikuti langkah-langkah yang diminta di layar dan pastikan lingkungan cukup terang. Usahakan untuk menghindari: buram, bayangan, silau, jari, atau objek lain dalam foto.";
+"idenfy_face_authentication_results_failed_description" = "Verifikasi wajah tidak berhasil. Ikuti langkah-langkah yang diminta di layar dan pastikan lingkungan cukup terang. Usahakan untuk menghindari: buram, bayangan, silau, jari, atau objek lain dalam foto.";
+"idenfy_face_authentication_results_button_title" = "LANJUTKAN";
+
+/* Face Authentication Exit Alert*/
+"idenfy_face_authentication_exit_alert_title" = "Batalkan otentikasi";
+"idenfy_face_authentication_exit_alert_description" = "Yakin ingin membatalkan otentikasi wajah?";

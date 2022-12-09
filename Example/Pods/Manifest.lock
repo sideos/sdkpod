@@ -1,16 +1,31 @@
 PODS:
-  - SideosSDK (0.1.0)
+  - iDenfySDK/iDenfyLiveness (7.7.2):
+    - lottie-ios
+    - ZIPFoundation (= 0.9.11)
+  - lottie-ios (4.0.1)
+  - SideosSDK (0.1.0):
+    - iDenfySDK/iDenfyLiveness (~> 7.7.1)
+  - ZIPFoundation (0.9.11)
 
 DEPENDENCIES:
   - SideosSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - iDenfySDK
+    - lottie-ios
+    - ZIPFoundation
 
 EXTERNAL SOURCES:
   SideosSDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SideosSDK: 8a0bd6d19904d6010a156c3a80aaa2d30de2fd5c
+  iDenfySDK: 57fbe21e0a657830174cb097ffb2b9e50f8cfd15
+  lottie-ios: 54d22edf55b839f0929cabbfe609c9aa548b1145
+  SideosSDK: 15bf5f0ec7142411a72ad239d59c89e4c883d88a
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
 
-PODFILE CHECKSUM: f1cc234f46eb0616b70bc31ead249b4af35726f9
+PODFILE CHECKSUM: b2401ca96e06cbd385b53884dd2b9015f1be3402
 
 COCOAPODS: 1.11.3

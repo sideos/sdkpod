@@ -1,0 +1,719 @@
+/**V2**/
+/*Idenfy Splash Screen V2*/
+"idenfy_splash_screen_title_v2" = "Quick and reliable identity verification";
+
+/*Idenfy Privacy Policy View V2*/
+"idenfy_privacy_policy_title_v2" = "Zásady ochrany osobných údajov";
+"idenfy_privacy_policy_agree_button_title_v2" = "SÚHLASÍM";
+"idenfy_privacy_policy_disagree_button_title_v2" = "NESÚHLASÍM";
+"idenfy_privacy_policy_alert_title_v2" = "INFORMÁCIE";
+"idenfy_privacy_policy_alert_description_v2" = "Ak chcete pokračovať v procese, musíte súhlasiť s pravidlami. Ak nesúhlasíte, zrušte proces overovania alebo zatvorte okno.";
+"idenfy_privacy_policy_alert_agree_button_title_v2" = "CHCEM SÚHLASIT";
+"idenfy_privacy_policy_alert_cancel_button_title_v2" = "ZRUŠIŤ OVERENIE";
+
+/*Idenfy Questionnaire View V2*/
+"idenfy_questionnaire_continue_button_title_v2" = "ĎALEJ";
+"idenfy_questionnaire_email_error_message_v2" = "Prosím zadajte platný e-mail!";
+"idenfy_questionnaire_url_error_message_v2" = "Zadajte platnú webovú adresu!";
+"idenfy_questionnaire_tel_error_message_v2" = "Prosím zadajte platné telefónne číslo!";
+
+/*Idenfy Provider Selection View V2*/
+"idenfy_provider_selection_common_information_title_v2" = "Prosím vyberte svojho poskytovateľa";
+"idenfy_provider_selection_common_information_description_v2" = "Vyberte si poskytovateľa účtov za energie zo zoznamu nižšie";
+"idenfy_provider_selection_search_bar_hint_title_v2" = "Vyhľadajte poskytovateľa";
+
+/*Idenfy Provider Login View V2*/
+"idenfy_provider_login_view_common_information_title_v2" = "Pripojte svoj účet";
+"idenfy_provider_login_view_common_information_description_v2" = "Zadajte prihlasovacie údaje do svojho online účtu";
+"idenfy_provider_login_view_username_hint_title_v2" = "Používateľské meno";
+"idenfy_provider_login_view_password_hint_title_v2" = "Heslo";
+"idenfy_provider_login_view_continue_button_title_v2" = "ĎALEJ";
+"idenfy_provider_login_view_login_retry_title_v2" = "Neplatné poverenia";
+"idenfy_provider_login_view_login_retry_description_v2" = "Zadajte platné poverenia a skúste to znova!";
+"idenfy_provider_login_view_login_failed_title_v2" = "Prihlásenie zlyhalo";
+"idenfy_provider_login_view_login_failed_description_v2" = "Nepodarilo sa nám vás prihlásiť.";
+
+/*Idenfy MFA Method Selection View V2*/
+"idenfy_mfa_method_selection_view_title_v2" = "Overenie účtu";
+"idenfy_mfa_method_selection_view_description_v2" = "Z nasledujúcich možností vyberte požadovanú metódu overovania";
+"idenfy_mfa_method_selection_view_mfa_hint_title_v2" = "Spôsob overovania";
+"idenfy_mfa_method_selection_view_mfa_method_code_title_v2" = "Jednorazové heslo";
+"idenfy_mfa_method_selection_view_mfa_method_security_question_title_v2" = "Bezpečnostná otázka a odpoveď";
+"idenfy_mfa_method_selection_view_continue_button_title_v2" = "ĎALEJ";
+
+/*Idenfy MFA Captcha Method View V2*/
+"idenfy_mfa_captcha_method_title_v2" = "Overte svoju pravosť";
+"idenfy_mfa_captcha_method_description_v2" = "Zadajte prosím captcha kód, ktorý vidíte na obrázku nižšie";
+"idenfy_mfa_captcha_method_code_hint_v2" = "Captcha kód";
+"idenfy_mfa_captcha_method_continue_button_title_v2" = "ĎALEJ";
+
+/*Idenfy MFA General View V2*/
+"idenfy_mfa_code_method_title_v2" = "Overte svoju pravosť";
+"idenfy_mfa_code_method_description_v2" = "Zadajte kód, ktorý ste dostali do telefónu alebo e-mailom.";
+"idenfy_mfa_code_method_code_hint_v2" = "Overovací kód";
+"idenfy_mfa_question_method_title_v2" = "Odpovedzte na nižšie uvedenú otázku";
+"idenfy_mfa_question_method_answer_hint_v2" = "Vaša odpoveď";
+"idenfy_mfa_notification_method_title_v2" = "Overte si prístup prostredníctvom aplikácie poskytovateľa";
+"idenfy_mfa_notification_method_description_v2" = "Keď skončíte, stlačte tlačidlo Pokračovať";
+"idenfy_mfa_pass_code_method_title_v2" = "Overte svoju pravosť";
+"idenfy_mfa_pass_code_method_description_v2" = "Zadajte prístupový kód, ktorý ste si nastavili u svojho poskytovateľa služieb";
+"idenfy_mfa_pass_code_method_code_hint_v2" = "Heslo";
+"idenfy_mfa_general_view_continue_button_title_v2" = "ĎALEJ";
+
+/*Idenfy Start Identification Predefined View V2*/
+"idenfy_start_identification_predefined_view_information_title_v2" = "Spustenie overovania totožnosti";
+"idenfy_start_identification_predefined_view_information_description_v2" = "Krajina vydania dokumentu";
+"idenfy_start_identification_predefined_view_begin_identification_button_v2" = "Začnime";
+
+/*Idenfy Country Selection View V2*/
+"idenfy_country_selection_view_information_title_v2" = "Vyberte krajinu vydania";
+"idenfy_country_selection_view_information_description_v2" = "Vyberte krajinu, v ktorej bol váš doklad vydaný";
+"idenfy_country_selection_view_searchbar_hint_v2" = "Vyhľadajte krajinu dokumentu…";
+
+/*Idenfy Language Selection View V2*/
+"idenfy_language_selection_view_information_title_v2" = "Vyberte jazyk";
+
+/*Idenfy Documents Selection View V2*/
+"idenfy_documents_selection_view_continue_button_title_v2" = "ĎALEJ";
+"idenfy_documents_selection_view_information_title_v2" = "Vyberte dokument";
+"idenfy_documents_selection_view_information_description_v2" = "Aký typ dokumentu by ste chceli identifikovať?";
+"idenfy_documents_selection_view_list_item_document_type_passport_title_v2" = "Heslo";
+"idenfy_documents_selection_view_list_item_document_type_id_card_title_v2" = "Občiansky preukaz";
+"idenfy_documents_selection_view_list_item_document_type_other_title_v2" = "Iné";
+"idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2" = "Vodičský preukaz";
+"idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2" = "Povolenie k pobytu";
+"idenfy_documents_selection_view_list_item_document_type_visa_title_v2" = "Visa";
+"idenfy_documents_selection_view_list_item_document_type_border_crossing_title_v2" = "Preukaz na prekročenie hraníc USA";
+"idenfy_documents_selection_view_list_item_document_type_asylum_title_v2" = "Rakúske azylové povolenie na pobyt";
+"idenfy_documents_selection_view_list_item_document_type_national_passport_title_v2" = "Ruský národný pas";
+"idenfy_documents_selection_view_list_item_document_type_international_passport_title_v2" = "Ruský medzinárodný pas";
+"idenfy_documents_selection_view_list_item_document_type_provisional_driver_license_title_v2" = "Dočasný vodičský preukaz Spojeného kráľovstva";
+"idenfy_documents_selection_view_list_item_document_type_voter_card_title_v2" = "Voličský preukaz";
+"idenfy_documents_selection_view_list_item_document_type_old_id_card_title_v2" = "Starý preukaz totožnosti";
+"idenfy_documents_selection_view_list_item_document_type_travel_card_title_v2" = "Cestovný preukaz";
+"idenfy_documents_selection_view_list_item_document_type_photo_card_title_v2" = "Fotografická karta";
+"idenfy_documents_selection_view_list_item_document_type_military_card_title_v2" = "Vojenský preukaz (veterána)";
+"idenfy_documents_selection_view_list_item_document_type_proof_of_age_card_title_v2" = "Doklad o veku";
+"idenfy_documents_selection_view_list_item_document_type_diplomatic_id_card_title_v2" = "Diplomatický preukaz";
+"idenfy_documents_selection_view_list_item_document_type_pan_card_title_v2" = "Karta PAN";
+"idenfy_documents_selection_view_list_item_document_type_aadhaar_card_title_v2" = "Karta Aadhaar";
+
+/*Idenfy Confirmation View V2*/
+"idenfy_confirmation_view_information_title_v2" = "Potvrdenie typu dokumentu";
+"idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2" = "Pripravte si, prosím, svoj **občiansky preukaz** na identifikáciu";
+"idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2" = "Pripravte si prosím svoj **pas** na identifikáciu";
+"idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2" = "Pripravte si, prosím, svoje **povolenie na pobyt** na identifikáciu";
+"idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2" = "Pripravte si, prosím, svoj **vodičský preukaz** na identifikáciu";
+"idenfy_confirmation_view_information_description_type_other_placeholder_v2" = "Pripravte si prosím **dokument** na identifikáciu";
+"idenfy_confirmation_view_information_description_part_1_v2" = "Prosím, pripravte si";
+"idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2" = "preukaz totožnosti";
+"idenfy_confirmation_view_information_document_type_passport_description_part_2_v2" = "pas";
+"idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2" = "povolenie na pobyt";
+"idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2" = "vodičský preukaz";
+"idenfy_confirmation_view_information_document_type_other_description_part_2_v2" = "dokument";
+"idenfy_confirmation_view_information_document_type_visa_description_part_2_v2" = "Visa";
+"idenfy_confirmation_view_information_document_type_border_crossing_description_part_2_v2" = "Preukaz na prekročenie hraníc USA";
+"idenfy_confirmation_view_information_document_type_asylum_description_part_2_v2" = "Rakúske azylové povolenie na pobyt";
+"idenfy_confirmation_view_information_document_type_national_passport_description_part_2_v2" = "Ruský národný pas";
+"idenfy_confirmation_view_information_document_type_international_passport_description_part_2_v2" = "Ruský medzinárodný pas";
+"idenfy_confirmation_view_information_document_type_provisional_driver_license_description_part_2_v2" = "Dočasný vodičský preukaz Spojeného kráľovstva";
+"idenfy_confirmation_view_information_document_type_voter_card_description_part_2_v2" = "Voličský preukaz";
+"idenfy_confirmation_view_information_document_old_id_card_description_part_2_v2" = "Starý preukaz totožnosti";
+"idenfy_confirmation_view_information_document_travel_card_description_part_2_v2" = "Cestovný preukaz";
+"idenfy_confirmation_view_information_document_photo_card_description_part_2_v2" = "Fotografická karta";
+"idenfy_confirmation_view_information_document_military_card_description_part_2_v2" = "Vojenský preukaz (veterána)";
+"idenfy_confirmation_view_information_proof_of_age_card_description_part_2_v2" = "Doklad o veku";
+"idenfy_confirmation_view_information_diplomatic_id_card_description_part_2_v2" = "Diplomatický preukaz";
+"idenfy_confirmation_view_information_pan_card_description_part_2_v2" = "Karta PAN";
+"idenfy_confirmation_view_information_aadhaar_card_description_part_2_v2" = "Karta Aadhaar";
+"idenfy_confirmation_view_information_description_part_3_v2" = "pripravený identifikovať";
+"idenfy_confirmation_view_document_steps_title_part_placeholder_v2" = "Overenie bude trvať **5** krokov:";
+"idenfy_confirmation_view_document_steps_title_part_1_v2" = "Overovanie bude trvať";
+"idenfy_confirmation_view_document_steps_title_part_2_v2" = "5";
+"idenfy_confirmation_view_document_steps_title_part_3_v2" = "kroky:";
+"idenfy_confirmation_view_document_steps_step_front_title_v2" = "Predná fotografia dokumentu";
+"idenfy_confirmation_view_document_steps_step_back_title_v2" = "Zadná fotografia dokumentu";
+"idenfy_confirmation_view_document_steps_step_face_title_v2" = "Fotografia tváre";
+"idenfy_confirmation_view_document_steps_step_liveliness_title_v2" = "Kontrola životaschopnosti";
+"idenfy_confirmation_view_document_steps_step_passport_cover_title_v2" = "Fotografia na obale pasu";
+"idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2" = "Fotografia dokladu preukazujúceho adresu";
+"idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2" = "Druhý doklad o adrese s fotografiou";
+"idenfy_confirmation_view_upload_image_title_v2" = "Fotografie môžete nahrať v každom kroku";
+"idenfy_confirmation_view_begin_identification_title_v2" = "POKRAČOVAŤ";
+
+/*Idenfy Camera OnBoarding View V2*/
+"idenfy_camera_onboarding_view_continue_button_title_v2" = "POKRAČOVAŤ";
+"idenfy_camera_onboarding_view_continue_disabled_button_title_v2" = "POKRAČOVANIE V **x** …";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_1" = "Uistite sa, že ste vo svetlom prostredí";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_2" = "Po zobrazení výzvy kliknite na tlačidlo \"Som pripravený\" a postupujte podľa pokynov";
+"idenfy_camera_onboarding_view_liveness_instructions_description_part_3" = "Na vykonanie tejto kontroly sa budete musieť priblížiť alebo vzdialiť od kamery.";
+
+/*Idenfy Camera Static OnBoarding View V2*/
+"idenfy_camera_static_onboarding_view_face_instructions_title" = "Postupujte podľa nižšie uvedených pokynov:";
+"idenfy_camera_static_onboarding_view_instructions_title" = "Uistite sa, že obrázok vybraného dokumentu je:";
+"idenfy_camera_static_onboarding_view_instructions_description_part_1" = "Zreteľne viditeľné a nie rozmazané";
+"idenfy_camera_static_onboarding_view_instructions_description_part_2" = "Dobre osvetlené a nezakryté tieňom";
+"idenfy_camera_static_onboarding_view_instructions_description_part_3" = "Nezakryté odrazom svetla či odleskom";
+"idenfy_camera_static_onboarding_view_instructions_description_part_4" = "Nie je blokovaný prstom a zapadá do bieleho rámu";
+"idenfy_camera_static_onboarding_view_instructions_description_part_5" = "Originál dokumentu a nie jeho kópia";
+
+/*Idenfy Document Camera Preview Session View V2*/
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2" = "Predná strana preukazu totožnosti";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2" = "Zadná strana preukazu totožnosti";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2" = "Predná strana dokumentu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2" = "Zadná strana dokumentu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2" = "Predná strana povolenia na pobyt";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2" = "Zadná strana povolenia na pobyt";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2" = "Predná strana vodičského preukazu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2" = "Zadná strana vodičského preukazu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2" = "Predná strana obalu pasu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2" = "Titulná strana cestovného pasu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2" = "Doklad o adrese";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Druhý doklad o adrese";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_visa_title_v2" = "Predná časť víza";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_visa_title_v2" = "Zadná strana víza";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_border_crossing_title_v2" = "Predná strana karty na prekročenie hraníc USA";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_border_crossing_title_v2" = "Zadná strana karty na prekročenie hraníc USA";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_asylum_title_v2" = "Predná strana rakúskeho azylového povolenia na pobyt";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_asylum_title_v2" = "Zadná strana rakúskeho povolenia na pobyt";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_national_passport_title_v2" = "Predná strana ruského národného pasu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_national_passport_title_v2" = "Zadná strana ruského národného pasu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_international_passport_title_v2" = "Predná strana ruského medzinárodného pasu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_international_passport_title_v2" = "Zadná strana ruského medzinárodného pasu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Predná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Zadná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_voter_card_title_v2" = "Predná strana voličského preukazu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_voter_card_title_v2" = "Back of voter card";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_old_id_card_title_v2" = "Predná strana starého preukazu totožnosti";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_old_id_card_title_v2" = "Zadná strana starého preukazu totožnosti";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_travel_card_title_v2" = "Predná strana cestovnej karty";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_travel_card_title_v2" = "Zadná strana cestovnej karty";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_photo_card_title_v2" = "Predná strana fotokarty";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_photo_card_title_v2" = "Zadná strana fotokarty";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_military_card_title_v2" = "Predná strana vojenského preukazu (veterána)";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_military_card_title_v2" = "Zadná strana vojenského preukazu (veterána)";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Predná strana preukazu o veku";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Zadná strana preukazu o veku";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Predná strana diplomatického preukazu";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Zadná strana diplomatického preukazu";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_pan_card_title_v2" = "Predná strana karty PAN";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_pan_card_title_v2" = "Zadná strana karty PAN";
+"idenfy_document_camera_preview_session_view_information_step_front_document_type_aadhaar_card_title_v2" = "Predná strana karty aadhaar";
+"idenfy_document_camera_preview_session_view_information_step_back_document_type_aadhaar_card_title_v2" = "Zadná strana karty aadhaar";
+"idenfy_document_camera_preview_session_view_information_description_v2" = "Umiestnite dokument do rámu a urobte jasnú fotografiu";
+"idenfy_document_camera_preview_session_view_information_auto_capture_description_v2" = "Vložte dokument do rámu a počkajte, kým sa naskenuje";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default" = "Vyberte typ súboru";
+"idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default" = "Aký typ súboru chcete nahrať?";
+"idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default" = "Fotografia";
+"idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default" = "Pdf";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title" = "Ako sa dá identifikovať?";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title" = "Pokyny na preskočenie";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_face_description" = "Uistite sa, že je vaše selfie dobre viditeľné a zapadá do bieleho rámčeka.";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_1" = "Uistite sa, že zdroj svetla je pred vami a nie za vami";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_2" = "Uistite sa, že obrázok vybraného dokumentu je: jasne viditeľný a nie je rozmazaný";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_3" = "Uistite sa, že obrázok vybraného dokumentu je: dobre osvetlený a nie je zakrytý tieňom";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_4" = "Uistite sa, že obrázok vybraného dokumentu nie je zakrytý odrazom svetla alebo odleskom";
+"idenfy_document_and_face_camera_preview_session_information_instructions_dialog_description_part_5" = "Uistite sa, že obrázok vybraného dokumentu nie je blokovaný prstom a zapadá do bieleho rámčeka";
+
+/*Idenfy Document Camera Results View V2*/
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2" = "Predná strana preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2" = "Zadná strana preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2" = "Predná strana dokumentu";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2" = "Zadná strana dokumentu";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2" = "Predná strana povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2" = "Zadná strana povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2" = "Predná strana vodičského preukazu";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2" = "Zadná strana vodičského preukazu";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2" = "Predná strana obalu pasu";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2" = "Titulná strana cestovného pasu";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Doklad o adrese";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Druhý doklad o adrese";
+"idenfy_document_camera_results_view_information_step_front_document_type_visa_title_v2" = "Predná časť víza";
+"idenfy_document_camera_results_view_information_step_back_document_type_visa_title_v2" = "Zadná strana víza";
+"idenfy_document_camera_results_view_information_step_front_document_type_border_crossing_title_v2" = "Predná strana karty na prekročenie hraníc USA";
+"idenfy_document_camera_results_view_information_step_back_document_type_border_crossing_title_v2" = "Zadná strana karty na prekročenie hraníc USA";
+"idenfy_document_camera_results_view_information_step_front_document_type_asylum_title_v2" = "Predná strana rakúskeho azylového povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_back_document_type_asylum_title_v2" = "Zadná strana rakúskeho povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_front_document_type_national_passport_title_v2" = "Predná strana ruského národného pasu";
+"idenfy_document_camera_results_view_information_step_back_document_type_national_passport_title_v2" = "Zadná strana ruského národného pasu";
+"idenfy_document_camera_results_view_information_step_front_document_type_international_passport_title_v2" = "Predná strana ruského medzinárodného pasu";
+"idenfy_document_camera_results_view_information_step_back_document_type_international_passport_title_v2" = "Zadná strana ruského medzinárodného pasu";
+"idenfy_document_camera_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Predná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_document_camera_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Zadná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_document_camera_results_view_information_step_front_document_type_voter_card_title_v2" = "Predná strana voličského preukazu";
+"idenfy_document_camera_results_view_information_step_back_document_type_voter_card_title_v2" = "Zadná strana voličského preukazu";
+"idenfy_document_camera_results_view_information_step_front_document_type_old_id_card_title_v2" = "Predná strana starého preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_back_document_type_old_id_card_title_v2" = "Zadná strana starého preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_front_document_type_travel_card_title_v2" = "Predná strana cestovnej karty";
+"idenfy_document_camera_results_view_information_step_back_document_type_travel_card_title_v2" = "Zadná strana cestovnej karty";
+"idenfy_document_camera_results_view_information_step_front_document_type_photo_card_title_v2" = "Predná strana fotokarty";
+"idenfy_document_camera_results_view_information_step_back_document_type_photo_card_title_v2" = "Zadná strana fotokarty";
+"idenfy_document_camera_results_view_information_step_front_document_type_military_card_title_v2" = "Predná strana vojenského preukazu (veterána)";
+"idenfy_document_camera_results_view_information_step_back_document_type_military_card_title_v2" = "Zadná strana vojenského preukazu (veterána)";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Predná strana preukazu o veku";
+"idenfy_document_camera_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Zadná strana preukazu o veku";
+"idenfy_document_camera_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Predná strana diplomatického preukazu";
+"idenfy_document_camera_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Zadná strana diplomatického preukazu";
+"idenfy_document_camera_results_view_information_step_front_document_type_pan_card_title_v2" = "Predná strana karty PAN";
+"idenfy_document_camera_results_view_information_step_back_document_type_pan_card_title_v2" = "Zadná strana karty PAN";
+"idenfy_document_camera_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Predná strana karty aadhaar";
+"idenfy_document_camera_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Zadná strana karty aadhaar";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2" = "Je vaša **predná časť preukazu totožnosti** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2" = "Je vaša **zadná strana preukazu totožnosti** zreteľne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2" = "Je vaša **predná časť dokumentu** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2" = "Je vaša **zadná strana dokumentu** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2" = "Je vaše **predné povolenie na pobyt** jasne viditeľné a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2" = "Je vaše **spätné povolenie na pobyt** jasne viditeľné a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2" = "Je vaša **predná časť vodičského preukazu** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2" = "Je vaša **zadná strana vodičského preukazu** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2" = "Je vaša **predná časť obalu pasu** jasne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2" = "Je váš **doklad o adrese** jasne viditeľný a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2" = "Je váš **druhý doklad o adrese** jasne viditeľný a v rámčeku?";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2" = "Je vaša **strana cestovného pasu** zreteľne viditeľná a v rámčeku?";
+"idenfy_document_camera_results_view_information_description_part_1_v2" = "Je váš";
+"idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2" = "predná strana preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2" = "zadná strana preukazu totožnosti";
+"idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2" = "predná strana dokumentu";
+"idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2" = "zadná strana dokumentu";
+"idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2" = "predná strana povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2" = "zadná strana povolenia na pobyt";
+"idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2" = "predná strana vodičského preukazu";
+"idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2" = "zadná strana vodičského preukazu";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2" = "predná strana obalu pasu";
+"idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2" = "doklad o adrese";
+"idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2" = "druhý doklad o adrese";
+"idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2" = "titulná strana cestovného pasu";
+"idenfy_document_camera_results_view_information_description_part_3_v2" = "jasne viditeľné a v zábere?";
+"idenfy_document_camera_results_view_details_first_title_v2_front" = "Je obrázok vašej tváre dobre viditeľný?";
+"idenfy_document_camera_results_view_details_second_title_v2_front" = "Dokážete jasne prečítať detaily dokumentu?";
+"idenfy_document_camera_results_view_details_first_title_v2_back" = "Je to zadná strana dokumentu?";
+"idenfy_document_camera_results_view_details_second_title_v2_back" = "Dokážete jasne prečítať detaily dokumentu?";
+"idenfy_document_camera_results_view_details_title_v2_default" = "Dokážete jasne prečítať detaily dokumentu?";
+"idenfy_document_camera_results_view_details_pdf_title_v2_default" = "Ste si istí, že chcete nahrať tento súbor?";
+
+/*Idenfy Face Camera Preview Session View V2*/
+"idenfy_face_camera_preview_session_description_v2" = "Umiestnite svoju tvár do označenej oblasti a urobte jasnú fotografiu";
+"idenfy_face_camera_preview_title_v2" = "Urobte si fotografiu tváre";
+
+/*Idenfy Face Camera Results View V2*/
+"idenfy_face_camera_results_title_v2" = "Potvrdiť fotografiu tváre";
+"idenfy_face_camera_results_description_v2" = "Je vaša fotografia tváre jasne viditeľná a v zábere?";
+"idenfy_document_camera_results_view_information_step_face_description_placeholder_v2" = "Je vaša **fotka tváre** jasne viditeľná a v ráme?";
+"idenfy_face_camera_results_view_details_first_title_v2" = "Je vaša tvár jasne viditeľná a dostatočne blízko na kontrolu?";
+
+/*Idenfy Document And Face Results View V2*/
+"idenfy_document_and_face_camera_results_title_v2" = "Skontrolujte fotografiu";
+"idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2" = "Powered by iDenfy";
+"idenfy_document_and_face_camera_results_button_retake_photo_title_v2" = "VYTVORIŤ NOVÚ FOTOGRAFIU";
+"idenfy_document_and_face_camera_results_button_next_step_title_v2" = "ÁNO, POKRAČOVAŤ";
+
+/*Upload document photo V2*/
+"idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2" = "Predná strana preukazu totožnosti";
+"idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2" = "Zadná strana preukazu totožnosti";
+"idenfy_upload_results_view_information_step_front_document_type_other_title_v2" = "Predná strana dokumentu";
+"idenfy_upload_results_view_information_step_back_document_type_other_title_v2" = "Zadná strana dokumentu";
+"idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2" = "Predná strana povolenia na pobyt";
+"idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2" = "Zadná strana povolenia na pobyt";
+"idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2" = "Predná strana vodičského preukazu";
+"idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2" = "Zadná strana vodičského preukazu";
+"idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2" = "Predná strana obalu pasu";
+"idenfy_upload_results_view_information_step_front_document_type_passport_title_v2" = "Titulná strana cestovného pasu";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2" = "Doklad o adrese";
+"idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2" = "Druhý doklad o adrese";
+"idenfy_upload_results_view_information_step_front_document_type_visa_title_v2" = "Predná časť víza";
+"idenfy_upload_results_view_information_step_back_document_type_visa_title_v2" = "Zadná strana víza";
+"idenfy_upload_results_view_information_step_front_document_type_border_crossing_title_v2" = "Predná strana karty na prekročenie hraníc USA";
+"idenfy_upload_results_view_information_step_back_document_type_border_crossing_title_v2" = "Zadná strana karty na prekročenie hraníc USA";
+"idenfy_upload_results_view_information_step_front_document_type_asylum_title_v2" = "Predná strana rakúskeho azylového povolenia na pobyt";
+"idenfy_upload_results_view_information_step_back_document_type_asylum_title_v2" = "Zadná strana rakúskeho povolenia na pobyt";
+"idenfy_upload_results_view_information_step_front_document_type_national_passport_title_v2" = "Predná strana ruského národného pasu";
+"idenfy_upload_results_view_information_step_back_document_type_national_passport_title_v2" = "Zadná strana ruského národného pasu";
+"idenfy_upload_results_view_information_step_front_document_type_international_passport_title_v2" = "Predná strana ruského medzinárodného pasu";
+"idenfy_upload_results_view_information_step_back_document_type_international_passport_title_v2" = "Zadná strana ruského medzinárodného pasu";
+"idenfy_upload_results_view_information_step_front_document_type_provisional_driver_license_title_v2" = "Predná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_upload_results_view_information_step_back_document_type_provisional_driver_license_title_v2" = "Zadná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_upload_results_view_information_step_front_document_type_voter_card_title_v2" = "Predná strana voličského preukazu";
+"idenfy_upload_results_view_information_step_back_document_type_voter_card_title_v2" = "Zadná strana voličského preukazu";
+"idenfy_upload_results_view_information_step_front_document_type_old_id_card_title_v2" = "Predná strana starého preukazu totožnosti";
+"idenfy_upload_results_view_information_step_back_document_type_old_id_card_title_v2" = "Zadná strana starého preukazu totožnosti";
+"idenfy_upload_results_view_information_step_front_document_type_travel_card_title_v2" = "Predná strana cestovnej karty";
+"idenfy_upload_results_view_information_step_back_document_type_travel_card_title_v2" = "Zadná strana cestovnej karty";
+"idenfy_upload_results_view_information_step_front_document_type_photo_card_title_v2" = "Predná strana fotokarty";
+"idenfy_upload_results_view_information_step_back_document_type_photo_card_title_v2" = "Zadná strana fotokarty";
+"idenfy_upload_results_view_information_step_front_document_type_military_card_title_v2" = "Predná strana vojenského preukazu (veterána)";
+"idenfy_upload_results_view_information_step_back_document_type_military_card_title_v2" = "Zadná strana vojenského preukazu (veterána)";
+"idenfy_upload_results_view_information_step_front_document_type_proof_of_age_card_title_v2" = "Predná strana preukazu o veku";
+"idenfy_upload_results_view_information_step_back_document_type_proof_of_age_card_title_v2" = "Zadná strana preukazu o veku";
+"idenfy_upload_results_view_information_step_front_document_type_diplomatic_id_card_title_v2" = "Predná strana diplomatického preukazu";
+"idenfy_upload_results_view_information_step_back_document_type_diplomatic_id_card_title_v2" = "Zadná strana diplomatického preukazu";
+"idenfy_upload_results_view_information_step_front_document_type_pan_card_title_v2" = "Predná strana karty PAN";
+"idenfy_upload_results_view_information_step_back_document_type_pan_card_title_v2" = "Zadná strana karty PAN";
+"idenfy_upload_results_view_information_step_front_document_type_aadhaar_card_title_v2" = "Predná strana karty aadhaar";
+"idenfy_upload_results_view_information_step_back_document_type_aadhaar_card_title_v2" = "Zadná strana karty aadhaar";
+"idenfy_upload_results_view_information_step_face_title_v2" = "Potvrdiť fotografiu tváre";
+"idenfy_upload_results_view_cropping_description_v2" = "Zarovnajte nahranú fotografiu do označenej oblasti";
+"idenfy_upload_results_view_choose_another_photo_button_title_v2" = "VYBERTE SI INÚ";
+"idenfy_upload_results_view_document_continue_button_title_v2" = "ĎALEJ";
+"idenfy_upload_results_view_pdf_size_alert_title_v2" = "Bola prekročená maximálna veľkosť súboru";
+"idenfy_upload_results_view_pdf_size_alert_message_v2" = "Vyberte súbor s platnou veľkosťou, nie väčšou ako 5 MB";
+"idenfy_upload_results_view_incorrect_mime_type_alert_title_v2" = "Nepodporovaný typ súboru";
+"idenfy_upload_results_view_incorrect_mime_type_alert_message_v2" = "Podporované typy súborov:";
+"idenfy_upload_results_view_failed_to_upload_file_title_v2" = "Nahrávanie zlyhalo";
+"idenfy_upload_results_view_failed_to_upload_file_description_v2" = "Vybraný súbor sa nepodarilo nahrať. Prosím skúste znova!";
+
+/*Idenfy Identification Results View V2*/
+"idenfy_identification_results_identification_status_loading_title_v2" = "Analýza vášho overovania";
+"idenfy_identification_results_identification_status_loading_description_v2" = "Počkajte, prosím, kým to pre vás pripravíme!";
+"idenfy_identification_results_identification_status_error_title_v2" = "Overenie sa nepodarilo";
+"idenfy_identification_results_step_front_document_type_id_card_title_v2" = "Predná strana preukazu totožnosti";
+"idenfy_identification_results_step_back_document_type_id_card_title_v2" = "Zadná strana preukazu totožnosti";
+"idenfy_identification_results_step_passport_cover_title_v2" = "Predná strana obalu pasu";
+"idenfy_identification_results_step_proof_of_address_title_v2" = "Doklad o adrese";
+"idenfy_identification_results_step_second_proof_of_address_title_v2" = "Druhý doklad o adrese";
+"idenfy_identification_results_step_front_document_type_passport_title_v2" = "Titulná strana cestovného pasu";
+"idenfy_identification_results_step_front_document_type_other_title_v2" = "Predná strana dokumentu";
+"idenfy_identification_results_step_back_document_type_other_title_v2" = "Zadná strana dokumentu";
+"idenfy_identification_results_step_front_document_type_residence_permit_title_v2" = "Predná strana povolenia na pobyt";
+"idenfy_identification_results_step_back_document_type_residence_permit_title_v2" = "Zadná strana povolenia na pobyt";
+"idenfy_identification_results_step_front_document_type_driver_license_title_v2" = "Predná strana vodičského preukazu";
+"idenfy_identification_results_step_back_document_type_driver_license_title_v2" = "Zadná strana vodičského preukazu";
+"idenfy_identification_results_step_front_document_type_visa_title_v2" = "Predná časť víza";
+"idenfy_identification_results_step_back_document_type_visa_title_v2" = "Zadná strana víza";
+"idenfy_identification_results_step_front_document_type_border_crossing_title_v2" = "Predná strana karty na prekročenie hraníc USA";
+"idenfy_identification_results_step_back_document_type_border_crossing_title_v2" = "Zadná strana karty na prekročenie hraníc USA";
+"idenfy_identification_results_step_front_document_type_asylum_title_v2" = "Predná strana rakúskeho azylového povolenia na pobyt";
+"idenfy_identification_results_step_back_document_type_asylum_title_v2" = "Zadná strana rakúskeho povolenia na pobyt";
+"idenfy_identification_results_step_front_document_type_national_passport_title_v2" = "Predná strana ruského národného pasu";
+"idenfy_identification_results_step_back_document_type_national_passport_title_v2" = "Zadná strana ruského národného pasu";
+"idenfy_identification_results_step_front_document_type_international_passport_title_v2" = "Predná strana ruského medzinárodného pasu";
+"idenfy_identification_results_step_back_document_type_international_passport_title_v2" = "Zadná strana ruského medzinárodného pasu";
+"idenfy_identification_results_step_front_document_type_provisional_driver_license_title_v2" = "Predná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_identification_results_step_back_document_type_provisional_driver_license_title_v2" = "Zadná strana dočasného vodičského preukazu Spojeného kráľovstva";
+"idenfy_identification_results_step_front_document_type_voter_card_title_v2" = "Predná strana voličského preukazu";
+"idenfy_identification_results_step_back_document_type_voter_card_title_v2" = "Zadná strana voličského preukazu";
+"idenfy_identification_results_step_front_document_type_old_id_card_title_v2" = "Predná strana starého preukazu totožnosti";
+"idenfy_identification_results_step_back_document_type_old_id_card_title_v2" = "Zadná strana starého preukazu totožnosti";
+"idenfy_identification_results_step_front_document_type_travel_card_title_v2" = "Predná strana cestovnej karty";
+"idenfy_identification_results_step_back_document_type_travel_card_title_v2" = "Zadná strana cestovnej karty";
+"idenfy_identification_results_step_front_document_type_photo_card_title_v2" = "Predná strana fotokarty";
+"idenfy_identification_results_step_back_document_type_photo_card_title_v2" = "Zadná strana fotokarty";
+"idenfy_identification_results_step_front_document_type_military_card_title_v2" = "Predná strana vojenského preukazu (veterána)";
+"idenfy_identification_results_step_back_document_type_military_card_title_v2" = "Zadná strana vojenského preukazu (veterána)";
+"idenfy_identification_results_step_front_document_type_proof_of_age_card_title_v2" = "Predná strana preukazu o veku";
+"idenfy_identification_results_step_back_document_type_proof_of_age_card_title_v2" = "Zadná strana preukazu o veku";
+"idenfy_identification_results_step_front_document_type_diplomatic_id_card_title_v2" = "Predná strana diplomatického preukazu";
+"idenfy_identification_results_step_back_document_type_diplomatic_id_card_title_v2" = "Zadná strana diplomatického preukazu";
+"idenfy_identification_results_step_front_document_type_pan_card_title_v2" = "Predná strana karty PAN";
+"idenfy_identification_results_step_back_document_type_pan_card_title_v2" = "Zadná strana karty PAN";
+"idenfy_identification_results_step_front_document_type_aadhaar_card_title_v2" = "Predná strana karty aadhaar";
+"idenfy_identification_results_step_back_document_type_aadhaar_card_title_v2" = "Zadná strana karty aadhaar";
+"idenfy_identification_results_step_face" = "Fotografia tváre";
+"idenfy_identification_results_retake_button_title_v2" = "Skúste to ešte raz";
+"idenfy_identification_results_error_continue_button_title_v2" = "ĎALEJ";
+"idenfy_identification_results_mrz_not_found_dialog_title_v2" = "Uistite sa, že váš dokument má strojovo čitateľnú zónu";
+"idenfy_identification_results_mrz_not_found_dialog_description_v2" = "Strojovo čitateľná zóna (MRZ) sa zvyčajne skladá z 2 (pas) alebo 3 (občiansky preukaz) riadkov symbolov. Príklad MRZ je uvedený na nasledujúcom obrázku, označený červeným obdĺžnikom.";
+"idenfy_identification_results_mrz_not_found_back_button_title_v2" = "späť";
+"idenfy_identification_results_mrz_not_found_continue_button_title_v2" = "Som si istý";
+"idenfy_identification_results_doc_not_found_dialog_description_part_1_v2" = "Dokument nebol nájdený. Uistite sa, že sa zobrazuje ";
+"idenfy_identification_results_doc_not_found_dialog_description_part_3_v2" = "a krajina vydania dokladu je";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2" = "heslo";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2" = "identifikačná karta";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2" = "povolenie na pobyt";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2" = "vodičský preukaz";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2" = "dokument";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_visa_v2" = "víza";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_border_crossing_v2" = "karta na prekročenie hraníc USA";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_asylum_v2" = "rakúske azylové povolenie na pobyt";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_national_passport_v2" = "ruský národný pas";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_international_passport_v2" = "ruský medzinárodný pas";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_provisional_driver_license_v2" = "britský dočasný vodičský preukaz";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_voter_card_v2" = "karta voliča";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_old_id_card_v2" = "stará ID karta";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_travel_card_v2" = "cestovná karta";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_photo_card_v2" = "fotografická karta";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_military_card_v2" = "vojenský preukaz (veterána)";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_proof_of_age_card_v2" = "preukaz preukazujúci vek";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_diplomatic_id_card_v2" = "diplomatické ID";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_pan_card_title_v2" = "karta PAN";
+"idenfy_identification_results_doc_not_found_dialog_description_part_2_aadhaar_card_title_v2" = "karta Aadhaar";
+"idenfy_identification_results_doc_not_found_dialog_description_country_part_v2" = " Uistite sa, že krajina vydania vášho dokumentu je ";
+
+/*Idenfy Identification Results Suspected View V2*/
+"idenfy_identification_results_suspected_view_title_v2" = "Vaše informácie boli odoslané";
+"idenfy_identification_results_suspected_view_description_v2" = "Ak máte akékoľvek otázky, kontaktujte náš tím zákazníckej podpory";
+"idenfy_identification_results_suspected_view_email_v2" = "support@idenfy.com";
+"idenfy_identifiaction_results_suspected_view_continue_button_title_v2" = "ĎALEJ";
+
+/*Idenfy Identification Results Success View V2*/
+"idenfy_identification_results_success_fragment_title_v2" = "Schválené overenie";
+"idenfy_identification_results_success_fragment_description_v2" = " ";
+"idenfy_identifiaction_results_success_fragment_identified_v2" = "Overené";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting View V2*/
+"idenfy_manual_reviewing_status_waiting_view_information_title_v2" = "Predložené overenie";
+"idenfy_manual_reviewing_status_waiting_view_information_top_description_v2" = "Vaše overenie si vyžaduje dodatočnú manuálnu kontrolu. Budete informovaní o tom, kedy bude kontrola ukončená.";
+"idenfy_manual_reviewing_status_waiting_view_information_description_v2" = "Získanie výsledkov zvyčajne trvá od 1 do 5 minút.";
+"idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2" = "Späť na účet";
+"idenfy_manual_reviewing_status_waiting_view_identification_manual_completed_title_v2" = "Dodatočné preskúmanie údajov";
+"idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2" = "Dokončenie automatizovanej kontroly AI";
+"idenfy_manual_reviewing_status_waiting_view_time_left_title_v2" = "Zostávajúci čas";
+
+/*Idenfy Manual Reviewing Identification Results Status Waiting Stop Waiting Identification Alert V2*/
+"idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information" = "Prerušiť overovanie";
+"idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information" = "Ste si istí, že chcete prerušiť overovanie?";
+"idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information" = "Áno";
+"idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information" = "Nie";
+
+/*Idenfy Manual Reviewing Identification Results Status Approved View V2*/
+"idenfy_manual_reviewing_status_approved_view_information_title_v2" = "Vaše overenie bolo úspešné!";
+"idenfy_manual_reviewing_status_approved_view_information_description_v2" = "Ďakujem";
+"idenfy_manual_reviewing_status_approved_view_continue_button_v2" = "ĎALEJ";
+"idenfy_manual_reviewing_status_failed_view_information_title_v2" = "Overenie sa nepodarilo";
+
+/*Idenfy Manual Reviewing Identification Results Status Failed View V2*/
+"idenfy_manual_reviewing_status_failed_view_information_description_v2" = "Vašu totožnosť sa nám nepodarilo potvrdiť";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_1_v2" = "Prosím, kontaktujte";
+"idenfy_manual_reviewing_status_failed_view_information_support_email_v2" = "support@idenfy.com";
+"idenfy_manual_reviewing_status_failed_view_information_support_description_part_2_v2" = "pre ďalšiu podporu";
+"idenfy_manual_reviewing_status_failed_view_continue_button_v2" = "ĎALEJ";
+
+/*Idenfy Camera Permission View V2*/
+"idenfy_camera_permissions_view_information_title_v2" = "Môžeme použiť vašu kameru?";
+"idenfy_camera_permissions_view_information_description_v2" = "Na odfotografovanie vášho dokumentu a fotografie tváre potrebujeme použiť váš fotoaparát.";
+"idenfy_camera_permissions_view_guidance_information_description_v2" = "Prejdite do nastavení, ťuknite na položku “Oprávnenia“, aby ste udelili prístup k fotoaparátu";
+"idenfy_camera_permissions_view_goto_settings_button_title_v2" = "povoliť kameru";
+
+/*Idenfy NFC Reading View V2*/
+"idenfy_nfc_reading_view_information_alert_title_passport_v2" = "Dotknite sa strednej časti pasu hornej časti telefónu";
+"idenfy_nfc_reading_view_information_alert_title_id_card_v2" = "Dotknite sa stredu ID karty hornej časti telefónu";
+"idenfy_nfc_reading_view_information_alert_title_document_v2" = "Dotknite sa stredu dokumentu k hornej časti telefónu";
+"idenfy_nfc_reading_view_information_title_passport_v2" = "Dotknite sa stredu pasu na hornej strane telefónu";
+"idenfy_nfc_reading_view_information_title_id_card_v2" = "Dotknite sa strednej časti identifikačnej karty na hornej strane telefónu.";
+"idenfy_nfc_reading_view_information_title_document_v2" = "Dotknite sa stredu dokumentu na hornej strane telefónu";
+"idenfy_nfc_reading_view_information_reading_data_document_title_v2" = "Čítanie údajov z dokumentov";
+"idenfy_nfc_reading_view_information_reading_data_document_image_v2" = "Čítanie obrázku dokumentu";
+"idenfy_nfc_reading_view_information_reading_finished_v2" = "Čítanie pasu dokončené";
+"idenfy_nfc_reading_view_information_reading_continue_button_title_v2" = "ĎALEJ";
+"idenfy_nfc_reading_view_information_reading_started_title_v2" = "Prosím, počkajte chvíľu.";
+"idenfy_nfc_reading_view_information_reading_status_failed_v2" = "Ups! Niečo sa pokazilo.";
+"idenfy_nfc_reading_view_information_reading_status_no_connecton_v2" = "Pripojenie je prerušené. Prosím, posuňte telefón bližšie!";
+
+/*Idenfy NFC Reading Time Out View V2*/
+"idenfy_nfc_reading_view_information_reading_time_out_title_v2" = "Čas vypršal";
+"idenfy_nfc_reading_view_information_reading_time_out_description_v2" = "Čas čítania NFC uplynul";
+"idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2" = "ĎALEJ";
+
+/*Idenfy NFC Required View V2*/
+"idenfy_nfc_required_view_information_title_v2" = "Vaše zariadenie nie je podporované";
+"idenfy_nfc_required_view_information_description_v2" = "Použite mobilný telefón so zabudovanou čítačkou značiek NFC";
+
+/*Idenfy Additional Support View V2*/
+"idenfy_additional_support_view_title" = "Zrušili ste proces overovania";
+"idenfy_additional_support_view_description" = "Proces overovania nebol vykonaný. Ak máte akékoľvek otázky, obráťte sa na náš tím zákazníckej podpory.";
+"idenfy_additional_support_view_email" = "support@idenfy.com";
+"idenfy_additional_support_view_button_title" = "späť";
+
+/**Shared strings**/
+/*Idenfy Permissions*/
+"idenfy_permission_asks_to_provide_camera_permission_manually" = "Manuálne poskytnite povolenia";
+
+/*Idenfy Error messages*/
+"IDENFY_FACE_LIVENESS_MESSAGE" = "Príliš veľakrát zlyhala kontrola živosti";
+"IDENFY_SERVER_ERROR_MESSAGE" = "Oops! Niečo sa pokazilo.";
+"IDENFY_TOKEN_NOT_VALID_MESSAGE" = "Platnosť relácie vypršala!";
+"IDENFY_TOO_MANY_REATTEMPTS_MESSAGE" = "Príliš veľa pokusov!";
+"IDENFY_NFC_FAILED_MESSAGE" = "Overenie NFC zlyhalo!";
+
+/*Idenfy navigation*/
+"idenfy_common_title_navigation_back" = "Späť";
+
+/*Idenfy Identification Results Additional Information*/
+"idenfy_identification_results_title_additional_info_uploading_front_document_photo" = "Nahráva sa predná fotografia dokumentu…";
+"idenfy_identification_results_title_additional_info_uploading_back_document_photo" = "Nahráva sa zadná fotografia dokumentu…";
+"idenfy_identification_results_title_additional_info_uploading_face_document_photo" = "Nahráva sa fotka tváre dokumentu…";
+"idenfy_identification_results_title_additional_info_uploading_liveness_document_photo" = "Kontroluje sa živosť…";
+"idenfy_identification_results_title_additional_info_uploading_passport_cover_photo" = "Nahráva sa titulná fotka pasu…";
+"idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo" = "Nahráva sa fotka dokladu o adrese…";
+"idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo" = "Nahráva sa druhý dôkaz adresy…";
+
+/*Idenfy Alerts*/
+
+/*Idenfy Internet Connection Alert*/
+"idenfy_internet_connection_lost_title" = "Problémy s pripojením. Uistite sa, že máte stabilné pripojenie k internetu";
+
+/*Manual Reviewing Alert*/
+"idenfy_alert_positive_button_manual_reviewing_information" = "Pokračujte";
+"idenfy_alert_title_manual_reviewing_information" = "INFORMÁCIE";
+"idenfy_alert_message_manual_reviewing_information" = "Keďže ste si vybrali iný doklad ako občiansky preukaz alebo pas, musíme váš prípad ešte raz posúdiť.";
+
+/*Idenfy Liveness Failed Alert*/
+"idenfy_alert_positive_button_liveness_default_error" = "Pokračujte";
+"idenfy_alert_title_liveness_default_error" = "INFORMÁCIE";
+"idenfy_alert_message_liveness_default_error" = "Kontrola životnosti zlyhala, skúste to znova.";
+"idenfy_alert_message_liveness_face_timeout_error" = "Čas kontroly živosti tváre vypršal. Prosím skúste to znova.";
+
+/*Document Analysis Alert*/
+"idenfy_alert_positive_button_document_analysis_information" = "Pokračovať";
+"idenfy_alert_title_document_analysis_information" = "Ale nie!";
+"idenfy_alert_message_document_analysis_information" = "Nepodarilo sa určiť typ dokumentu. V ďalšom kroku vyberte typ dokumentu.";
+"idenfy_alert_message_abort_identification_information" = "Naozaj chcete zrušiť overenie?";
+
+/*Abort Identification Alert*/
+"idenfy_alert_title_abort_identification_information" = "Prerušiť overenie";
+"idenfy_alert_positive_button_abort_identification_information" = "ÁNO";
+"idenfy_alert_negative_button_abort_identification_information" = "NIE";
+
+/*Abort Restart Identification Alert*/
+"idenfy_alert_message_restart_identification_information" = "Si si istý, že chceš začať odznova?";
+"idenfy_alert_title_restart_identification_information" = "Začať odznova";
+"idenfy_alert_positive_button_restart_identification_information" = "ÁNO";
+"idenfy_alert_negative_button_restart_identification_information" = "NIE";
+
+/*Unknown Document Analysis Alert*/
+"idenfy_document_and_face_camera_results_document_analysis_title" = "Analyzuje sa…";
+"idenfy_document_and_face_camera_results_document_analysis_description" = "Prosím počkajte chvíľu.";
+
+/**/
+
+/*Idenfy Instruction strings */
+
+/* Passport */
+"idenfy_instructions_passport_correct_title" = "Ukážte svoj pas";
+"idenfy_instructions_passport_correct_text" = "Uistite sa, že pri overovaní ukážete pas a nie iný dokument.";
+
+"idenfy_instructions_passport_mrz_title" = "Pas má oblasť MRZ";
+"idenfy_instructions_passport_mrz_text" = "Uistite sa, že váš dokument má MRZ (2 alebo 3 riadky znakov). Ak váš dokument nemá zónu MRZ, v okne výberu dokumentu vyberte \“INÉ DOKUMENTY\“.";
+
+"idenfy_instructions_passport_fits_frame_title" = "Pas pasuje do bielych rámikov";
+"idenfy_instructions_passport_fits_frame_text" = "Uistite sa, že pas pasuje do bielych rámov a nepresahuje okraje rámu a že zobrazený dokument nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_passport_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_passport_finger_text" = "Nezakrývajte si tvár ani žiadne iné informácie v dokumente.";
+
+"idenfy_instructions_passport_reflection_title" = "Nedochádza k odrazu svetla";
+"idenfy_instructions_passport_reflection_text" = "Uistite sa, že odraz svetla alebo hologram dokumentu nezakrýva tvár alebo iné dôležité informácie o dokumente.";
+
+/* ID-Card front */
+"idenfy_instructions_id_front_correct_title" = "Ukážte občiansky preukaz";
+"idenfy_instructions_id_front_correct_text" = "Uistite sa, že ste pri overovaní ukázali občiansky preukaz, nie druhý dokument.";
+
+"idenfy_instructions_id_front_fit_frame_title" = "Predná strana ID karty zapadá do bielych rámov";
+"idenfy_instructions_id_front_fit_frame_text" = "Uistite sa, že predná strana ID karty zapadá do bieleho rámu a nepresahuje okraje rámu a že zobrazený dokument nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_id_front_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_id_front_finger_text" = "Nezakrývajte si tvár ani žiadne iné informácie v dokumente.";
+
+"idenfy_instructions_id_front_reflection_title" = "Nedochádza k odrazu svetla";
+"idenfy_instructions_id_front_reflection_text" = "Uistite sa, že odraz svetla alebo hologram dokumentu nezakrýva tvár alebo iné dôležité informácie o dokumente.";
+
+/* ID-Card back */
+"idenfy_instructions_id_back_correct_title" = "Ukážte svoj občiansky preukaz späť";
+"idenfy_instructions_id_back_correct_text" = "Uistite sa, že ukazujete zadnú stranu občianskeho preukazu.";
+
+"idenfy_instructions_id_back_mrz_title" = "Doklad má oblasť MRZ";
+"idenfy_instructions_id_back_mrz_text" = "Uistite sa, že váš dokument má MRZ (2 alebo 3 riadky znakov). Ak váš dokument nemá zónu MRZ, v okne výberu dokumentu vyberte \“INÉ DOKUMENTY\“.";
+
+"idenfy_instructions_id_back_fit_frame_title" = "Zadná strana občianskeho preukazu zapadá do bielych rámikov";
+"idenfy_instructions_id_back_fit_frame_text" = "Uistite sa, že zadná strana ID karty zapadá do bieleho rámu a nepresahuje okraje rámu. Tiež sa uistite, že dokument, ktorý zobrazujete, nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_id_back_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_id_back_finger_text" = "Nezakrývajte informácie v dokumente prstom.";
+
+/* Residence-permit front */
+"idenfy_instructions_residence_permit_front_correct_title" = "Ukážte povolenie na pobyt";
+"idenfy_instructions_residence_permit_front_correct_text" = "Uistite sa, že pri overovaní preukazujete povolenie na pobyt, nie iný dokument.";
+
+"idenfy_instructions_residence_permit_front_fit_frame_title" = "Predná strana povolenia na pobyt zapadá do bielych rámov";
+"idenfy_instructions_residence_permit_front_fit_frame_text" = "Uistite sa, že predná strana povolenia na pobyt zapadá do bieleho rámu a nepresahuje okraje rámu a že zobrazený dokument nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_residence_permit_front_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_residence_permit_front_finger_text" = "Nezakrývajte si tvár ani žiadne iné informácie v dokumente.";
+
+"idenfy_instructions_residence_permit_front_reflection_title" = "Nedochádza k odrazu svetla";
+"idenfy_instructions_residence_permit_front_reflection_text" = "Uistite sa, že odraz svetla alebo hologram dokumentu nezakrýva tvár alebo iné dôležité informácie o dokumente.";
+
+/* Residence-permit back */
+"idenfy_instructions_residence_permit_back_correct_title" = "Ukážte zadnú stranu vášho povolenia na pobyt";
+"idenfy_instructions_residence_permit_back_correct_text" = "Uistite sa, že ukazujete zadnú stranu povolenia na pobyt.";
+
+"idenfy_instructions_residence_permit_back_mrz_title" = "Doklad má oblasť MRZ";
+"idenfy_instructions_residence_permit_back_mrz_text" = "Uistite sa, že váš dokument má MRZ (2 alebo 3 riadky znakov). Ak váš dokument nemá zónu MRZ, v okne výberu dokumentu vyberte \“INÉ DOKUMENTY\“.";
+
+"idenfy_instructions_residence_permit_back_fit_frame_title" = "Zadná strana povolenia na pobyt zapadá do bielych rámov";
+"idenfy_instructions_residence_permit_back_fit_frame_text" = "Uistite sa, že zadná strana povolenia na pobyt zapadá do bieleho rámu a nepresahuje okraje rámu. Tiež sa uistite, že dokument, ktorý zobrazujete, nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_residence_permit_back_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_residence_permit_back_finger_text" = "Nezakrývajte informácie v dokumente prstom.";
+
+/* Driver-license front */
+"idenfy_instructions_driver_license_front_correct_title" = "Ukážte svoj vodičský preukaz";
+"idenfy_instructions_driver_license_front_correct_text" = "Uistite sa, že ste pri overovaní ukázali vodičský preukaz, nie druhý dokument.";
+
+"idenfy_instructions_driver_license_front_fit_frame_title" = "Predná časť vodičského preukazu je vložená do bielych rámov";
+"idenfy_instructions_driver_license_front_fit_frame_text" = "Uistite sa, že predná strana vodičského preukazu zapadá do bieleho rámu a nepresahuje okraje rámu a zobrazený dokument nie je rozmazaný a jasne čitateľný.";
+
+"idenfy_instructions_driver_license_front_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_driver_license_front_finger_text" = "Nezakrývajte si tvár ani žiadne iné informácie v dokumente.";
+
+"idenfy_instructions_driver_license_front_reflection_title" = "Nedochádza k odrazu svetla";
+"idenfy_instructions_driver_license_front_reflection_text" = "Uistite sa, že odraz svetla alebo hologram dokumentu nezakrýva tvár alebo iné dôležité informácie o dokumente.";
+
+/* Other documents front */
+"idenfy_instructions_other_front_mrz_title" = "Ukážte svoj doklad, ktorý nemá MRZ";
+"idenfy_instructions_other_front_mrz_text" = "Uistite sa, že ukazujete dokument, ktorý nemá MRZ.";
+
+"idenfy_instructions_other_front_fit_frame_title" = "Predná strana dokumentu zapadá do bielych rámikov";
+"idenfy_instructions_other_front_fit_frame_text" = "Uistite sa, že predná strana dokumentu zapadá do bieleho rámčeka a nepresahuje okraje rámčeka a že zobrazený dokument nie je rozmazaný a je jasne čitateľný.";
+
+"idenfy_instructions_other_front_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_other_front_finger_text" = "Nezakrývajte si tvár ani žiadne iné informácie v dokumente.";
+
+"idenfy_instructions_other_front_reflection_title" = "Nedochádza k odrazu svetla";
+"idenfy_instructions_other_front_reflection_text" = "Uistite sa, že odraz svetla alebo hologram dokumentu nezakrýva tvár alebo iné dôležité informácie o dokumente.";
+
+/* Other documents back */
+"idenfy_instructions_other_back_fit_frame_title" = "Zadná strana dokumentu zapadá do bielych rámikov";
+"idenfy_instructions_other_back_fit_frame_text" = "Uistite sa, že zadná strana dokumentu zapadá do bieleho rámu a nepresahuje okraje rámu a že zobrazený dokument nie je rozmazaný a je jasne čitateľný.";
+
+"idenfy_instructions_other_back_finger_title" = "Prst nezakrýva dokument";
+"idenfy_instructions_other_back_finger_text" = "Nezakrývajte informácie v dokumente prstom.";
+
+/* Face camera */
+"idenfy_instructions_face_fit_frame_title" = "Tvár zapadá do bielych rámov";
+"idenfy_instructions_face_fit_frame_text" = "Uistite sa, že vaša tvár zapadá do bielych rámov.";
+
+"idenfy_instructions_face_one_face_title" = "Vidno iba jednu tvár";
+"idenfy_instructions_face_one_face_text" = "Uistite sa, že na obrázku nie sú viditeľné žiadne iné tváre.";
+
+"idenfy_instructions_face_shadow_title" = "The face is not covered by a shadow";
+"idenfy_instructions_face_shadow_text" = "Uistite sa, že je vaša tvár dobre osvetlená a nie je na nej žiadny tieň.";
+
+"idenfy_instructions_face_zoom_title" = "Tvár zapadá do rámu";
+"idenfy_instructions_face_zoom_text" = "Uistite sa, že vaša tvár zapadá do rámu. Po nasnímaní selfie priblížte svoju tvár.";
+
+/**/
+///*System specific*///
+/* <!--Camera Permission Not Enabled Alert--> */
+"idenfy_alert_title_camera_permission_not_enabled" = "Nedá sa získať prístup ku kamere";
+"idenfy_alert_message_camera_permission_not_enabled" = "Ak chcete povoliť prístup, prejdite do časti Nastavenia > Súkromie > Fotoaparát a zapnite pre túto aplikáciu prístup k fotoaparátu.";
+"idenfy_alert_positive_button_camera_permission_not_enabled" = "OK";
+
+/*Face Authentication Initial View V2*/
+"idenfy_face_authentication_initial_view_failed_title_part_1" = "Vy máte";
+"idenfy_face_authentication_initial_view_failed_title_part_2" = "3";
+"idenfy_face_authentication_initial_view_failed_title_part_3" = "pokusy o autentifikáciu!";
+"idenfy_face_authentication_initial_view_failed_title_placeholder" = "Máte **3** pokusy na overenie svojej totožnosti!";
+"idenfy_face_authentication_initial_view_button_title" = "ĎALEJ";
+"idenfy_face_authentication_initial_view_alert_message" = "Overenie tváre zlyhalo!";
+
+/*Face Authentication Results V2*/
+"idenfy_face_authentication_results_success_title" = "Úspešné overenie";
+"idenfy_face_authentication_results_success_description" = "Boli ste úspešne overení!";
+"idenfy_face_authentication_results_final_failed_title" = "Overenie tváre nebolo úspešné.";
+"idenfy_face_authentication_results_final_failed_description" = "Postupujte podľa pokynov na obrazovke a zabezpečte dobre osvetlené prostredie. Snažte sa vyhnúť: rozmazaniu, tieňom, odleskom, prstom alebo iným objektom na fotografii.";
+"idenfy_face_authentication_results_failed_description" = "Overenie tváre nebolo úspešné. Postupujte podľa pokynov na obrazovke a zabezpečte dobre osvetlené prostredie. Snažte sa vyhnúť: rozmazaniu, tieňom, odleskom, prstom alebo iným objektom na fotografii.";
+"idenfy_face_authentication_results_button_title" = "ĎALEJ";
+
+/* Face Authentication Exit Alert*/
+"idenfy_face_authentication_exit_alert_title" = "Zrušiť overovanie";
+"idenfy_face_authentication_exit_alert_description" = "Ste si istí, že chcete zrušiť overovanie tváre?";

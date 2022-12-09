@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'SideosSDK'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SideosSDK.'
-
+  s.summary          = 'SideosSDK Self Sovereign Identity POD SDK'
+  s.swift_version = '5.6'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -18,16 +18,16 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+The Sideos SDK pod 
                        DESC
-  s.homepage         = 'https://github.com/Your Name/SideosSDK'
+  s.homepage         = 'https://github.com/sideos/sdkpod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Your Name' => 'you@example.com' }
-  s.source           = { :git => '' }
+  s.author           = { 'Sideos Team' => 'hello@sideos.io' }
+  s.source           = { :git => 'https://github.com/sideos/sdkpod' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
   s.ios.vendored_frameworks = 'SideosXCFSDK.xcframework' # Your XCFramework
   s.source_files = 'SideosSDK/Classes/**/*'
   s.dependency 'iDenfySDK/iDenfyLiveness', '~> 7.7.1'
